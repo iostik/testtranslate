@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-12-18 03:35+0000\n"
+"PO-Revision-Date: 2022-12-18 04:03+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: English <https://translate.shadowportalgames.com/projects/111/"
 "main/en/>\n"
