@@ -1,5 +1,5 @@
 "location","source","target","ID","fuzzy","context","translator_comments","developer_comments"
-"""""","""Вы уверены, что хотите выйти в главное меню?\n Весь несохраненный прогресс будет утерян.""","Are you sure you want to return to the main menu?\nThis will lose unsaved progress.","","","","",""
+"""""","""Вы уверены, что хотите выйти в главное меню?\n Весь несохраненный прогресс будет утерян.""","Are you","","False","","",""
 """""","""Вы уверены, что хотите выйти?""","Are you sure you want to quit?","","","","",""
 """""","""Загрузка приведет к потере текущего прогресса.\n Вы уверены, что хотите это сделать?""","Loading will lose unsaved progress.\nAre you sure you want to do this?","","","","",""
 """""","""Уловки""","Tricks","","","","",""
