@@ -1,575 +1,575 @@
-"location","source","target","ID","fuzzy","context","translator_comments","developer_comments"
-"""""","narrator_c88f53de","","","False","","",""
-"""""","narrator_c88f53de_1","","","False","","",""
-"""""","narrator_c88f53de_2","","","False","","",""
-"S """"","S_8f9f8819","","","False","","",""
-"""""","narrator_c88f53de_3","","","False","","",""
-"S """"","S_46f229cc","","","False","","",""
-"""""","narrator_c88f53de_4","","","False","","",""
-"Z """"","Z_08fd9db4","","","False","","",""
-"""""","narrator_c88f53de_5","","","False","","",""
-"S """"","S_da3c456d","","","False","","",""
-"""""","narrator_091e7cc4","","","False","","",""
-"S """"","S_27d55755","","","False","","",""
-"Z """"","Z_85c38d1c","","","False","","",""
-"""""","narrator_c88f53de_6","","","False","","",""
-"S """"","S_c320ff29","","","False","","",""
-"S """"","S_be4803bb","","","False","","",""
-"S """"","S_a9f223af","","","False","","",""
-"Z """"","Z_08fd9db4_1","","","False","","",""
-"""""","narrator_f6c8f830","","","False","","",""
-"S """"","S_da3c456d_1","","","False","","",""
-"S """"","S_19985a58","","","False","","",""
-"Z """"","Z_85c38d1c_1","","","False","","",""
-"S """"","S_814e8a74","","","False","","",""
-"S """"","S_da3c456d_2","","","False","","",""
-"""""","narrator_1e4ed9d4","","","False","","",""
-"S """"","S_f8827c3a","","","False","","",""
-"Z """"","Z_85c38d1c_2","","","False","","",""
-"S """"","S_e44650ad","","","False","","",""
-"S """"","S_ee5498e4","","","False","","",""
-"S """"","S_3e73a2fc","","","False","","",""
-"Z """"","Z_cbaa9583","","","False","","",""
-"S """"","S_8aab9721","","","False","","",""
-"Z """"","Z_746e3cb9","","","False","","",""
-"""""","narrator_836099e9","","","False","","",""
-"S """"","S_c1d3f63b","","","False","","",""
-"Z """"","Z_cbaa9583_1","","","False","","",""
-"S """"","S_aa3a3026","","","False","","",""
-"S """"","S_79aeb5b3","","","False","","",""
-"Z """"","Z_cbaa9583_2","","","False","","",""
-"S """"","S_eb2235e5","","","False","","",""
-"Z """"","Z_cbaa9583_3","","","False","","",""
-"S """"","S_da3c456d_3","","","False","","",""
-"S """"","S_4f88139a","","","False","","",""
-"Z """"","Z_a90753af","","","False","","",""
-"S """"","S_e5437ff8","","","False","","",""
-"S """"","S_0ad90374","","","False","","",""
-"S """"","S_83744114","","","False","","",""
-"S """"","S_948ce18b","","","False","","",""
-"S """"","S_c77645aa","","","False","","",""
-"Z """"","Z_06c833d2","","","False","","",""
-"Z """"","Z_a90753af_1","","","False","","",""
-"""""","narrator_383b4b7b","","","False","","",""
-"S """"","S_d6cde9a7","","","False","","",""
-"Z """"","Z_06c833d2_1","","","False","","",""
-"Z """"","Z_1bc44fa8","","","False","","",""
-"Z """"","Z_d05636f0","","","False","","",""
-"Z """"","Z_5e7abc01","","","False","","",""
-"S """"","S_b116dc79","","","False","","",""
-"Z """"","Z_5435f189","","","False","","",""
-"S """"","S_526717f7","","","False","","",""
-"Z """"","Z_87ad9329","","","False","","",""
-"S """"","S_da3c456d_4","","","False","","",""
-"S """"","S_4c937975","","","False","","",""
-"Z """"","Z_c4afe305","","","False","","",""
-"S """"","S_4d1b9953","","","False","","",""
-"Z """"","Z_ae37268b","","","False","","",""
-"""""","narrator_fb851680","","","False","","",""
-"""""","narrator_77bbaf0c","","","False","","",""
-"Z """"","Z_2c4d203d","","","False","","",""
-"S """"","S_6c36faca","","","False","","",""
-"S """"","S_09036c92","","","False","","",""
-"S """"","S_49632e18","","","False","","",""
-"Z """"","Z_a0ca8dd5","","","False","","",""
-"""""","narrator_dc5b5671","","","False","","",""
-"S """"","S_6f69f08d","","","False","","",""
-"S """"","S_f4833711","","","False","","",""
-"Z """"","Z_f1125bd7","","","False","","",""
-"""""","narrator_3723c1c0","","","False","","",""
-"S """"","S_da3c456d_5","","","False","","",""
-"S """"","S_d09401f5","","","False","","",""
-"S """"","S_7e50674a","","","False","","",""
-"S """"","S_a9e8e741","","","False","","",""
-"""""","narrator_d5a2f473","","","False","","",""
-"S """"","S_8b77757c","","","False","","",""
-"S """"","S_0aa5081d","","","False","","",""
-"S """"","S_7e38db21","","","False","","",""
-"S """"","S_8c95bd35","","","False","","",""
-"S """"","S_7e38db21_1","","","False","","",""
-"""""","narrator_5399e88a","","","False","","",""
-"""""","narrator_2dad5718","","","False","","",""
-"""""","narrator_8f421d40","","","False","","",""
-"""""","narrator_5a670ba7","","","False","","",""
-"S """"","S_4dd381fa","","","False","","",""
-"""""","narrator_185a7de0","","","False","","",""
-"""""","narrator_185a7de0_1","","","False","","",""
-"S """"","S_6e77de11","","","False","","",""
-"""""","narrator_185a7de0_2","","","False","","",""
-"Z """"","Z_974cf36b","","","False","","",""
-"S """"","S_1ddaf8c3","","","False","","",""
-"S """"","S_41fa0bb9","","","False","","",""
-"S """"","S_37bd4be9","","","False","","",""
-"S """"","S_362fa695","","","False","","",""
-"S """"","S_01a15270","","","False","","",""
-"Z """"","Z_532517e5","","","False","","",""
-"S """"","S_0268390d","","","False","","",""
-"""""","narrator_ca7832af","","","False","","",""
-"Z """"","Z_2210cbd9","","","False","","",""
-"S """"","S_6c95f3be","","","False","","",""
-"Z """"","Z_2210cbd9_1","","","False","","",""
-"Z """"","Z_2210cbd9_2","","","False","","",""
-"C """"","C_252cc586","","","False","","",""
-"S """"","S_88f1d5cd","","","False","","",""
-"S """"","S_60153312","","","False","","",""
-"S """"","S_49038548","","","False","","",""
-"C """"","C_4e35d76b","","","False","","",""
-"S """"","S_5c2db5a4","","","False","","",""
-"C """"","C_50652bef","","","False","","",""
-"S """"","S_8f0e4229","","","False","","",""
-"S """"","S_7229cce5","","","False","","",""
-"""""","narrator_ab2ef22b","","","False","","",""
-"S """"","S_baa93ef4","","","False","","",""
-"Z """"","Z_81a1a884","","","False","","",""
-"S """"","S_4cc139b0","","","False","","",""
-"Z """"","Z_0288b0d9","","","False","","",""
-"Z """"","Z_7e32a5b9","","","False","","",""
-"Z """"","Z_03e849ac","","","False","","",""
-"S """"","S_5e52e906","","","False","","",""
-"Z """"","Z_1e8b0999","","","False","","",""
-"""""","narrator_28042a23","","","False","","",""
-"S """"","S_1717290b","","","False","","",""
-"S """"","S_b636f572","","","False","","",""
-"Z """"","Z_e840b82f","","","False","","",""
-"S """"","S_21722c3e","","","False","","",""
-"Z """"","Z_8f70166a","","","False","","",""
-"Z """"","Z_7b1cfb28","","","False","","",""
-"S """"","S_1ddaf8c3_1","","","False","","",""
-"S """"","S_8d19c464","","","False","","",""
-"""""","narrator_07ae51e0","","","False","","",""
-"Z """"","Z_e9e89ae1","","","False","","",""
-"Z """"","Z_6f6407d8","","","False","","",""
-"Z """"","Z_6f6407d8_1","","","False","","",""
-"S """"","S_7d2ff62b","","","False","","",""
-"S """"","S_a7e974f8","","","False","","",""
-"""""","narrator_11c85abb","","","False","","",""
-"S """"","S_f8dd93da","","","False","","",""
-"""""","narrator_6a5bfe3f","","","False","","",""
-"Z """"","Z_ed633a29","","","False","","",""
-"Z """"","Z_6c4f6345","","","False","","",""
-"S """"","S_e669b26d","","","False","","",""
-"Z """"","Z_f271d3d4","","","False","","",""
-"S """"","S_6d5d09dd","","","False","","",""
-"Z """"","Z_8cc4b842","","","False","","",""
-"S """"","S_2401e24a","","","False","","",""
-"S """"","S_45366689","","","False","","",""
-"""""","narrator_31f838ae","","","False","","",""
-"""""","narrator_efeb572c","","","False","","",""
-"S """"","S_9bf3bcf7","","","False","","",""
-"S """"","S_352aaa75","","","False","","",""
-"Z """"","Z_f79e8ff9","","","False","","",""
-"S """"","S_c6ce090b","","","False","","",""
-"""""","narrator_88f52710","","","False","","",""
-"""""","narrator_b002876b","","","False","","",""
-"S """"","S_141c94a4","","","False","","",""
-"C """"","C_9704a41c","","","False","","",""
-"S """"","S_2c370a61","","","False","","",""
-"C """"","C_39c1188d","","","False","","",""
-"S """"","S_46ac9376","","","False","","",""
-"S """"","S_bae1daf5","","","False","","",""
-"C """"","C_0f5aa967","","","False","","",""
-"S """"","S_f91f9036","","","False","","",""
-"S """"","S_b0ba52f2","","","False","","",""
-"C """"","C_fcb5fd43","","","False","","",""
-"S """"","S_91f12773","","","False","","",""
-"C """"","C_ffa24755","","","False","","",""
-"S """"","S_90f4dbae","","","False","","",""
-"C """"","C_d3a6c589","","","False","","",""
-"S """"","S_07f69cf7","","","False","","",""
-"C """"","C_d20ed19e","","","False","","",""
-"S """"","S_f5b5ceab","","","False","","",""
-"S """"","S_481ca9e6","","","False","","",""
-"S """"","S_a2af3b18","","","False","","",""
-"C """"","C_ca9489e6","","","False","","",""
-"S """"","S_3e087789","","","False","","",""
-"C """"","C_3d3a4d1d","","","False","","",""
-"Z """"","Z_25a7e484","","","False","","",""
-"Z """"","Z_4dfbf0cf","","","False","","",""
-"Z """"","Z_9578f9b4","","","False","","",""
-"S """"","S_81cee354","","","False","","",""
-"Z """"","Z_9578f9b4_1","","","False","","",""
-"S """"","S_40f8505e","","","False","","",""
-"S """"","S_d1be1b91","","","False","","",""
-"S """"","S_6594907b","","","False","","",""
-"Z """"","Z_a3adb6f9","","","False","","",""
-"S """"","S_43911595","","","False","","",""
-"""""","narrator_c765cdb3","","","False","","",""
-"Z """"","Z_2d9b2c21","","","False","","",""
-"""""","narrator_5d51925a","","","False","","",""
-"S """"","S_38bf890a","","","False","","",""
-"S """"","S_9f5efcf9","","","False","","",""
-"S """"","S_9a61a626","","","False","","",""
-"S """"","S_fe0182de","","","False","","",""
-"S """"","S_f415e041","","","False","","",""
-"S """"","S_ce662379","","","False","","",""
-"""""","narrator_b002876b_1","","","False","","",""
-"C """"","C_42640c04","","","False","","",""
-"S """"","S_ade94f7f","","","False","","",""
-"""""","narrator_a19942ea","","","False","","",""
-"""""","narrator_b880f96a","","","False","","",""
-"""""","narrator_ea3113b0","","","False","","",""
-"Z """"","Z_3d08d624","","","False","","",""
-"Z """"","Z_ae1cb0e9","","","False","","",""
-"""""","narrator_d6b1e22f","","","False","","",""
-"S """"","S_cc369d1a","","","False","","",""
-"""""","narrator_ef6c14c6","","","False","","",""
-"Z """"","Z_115d7560","","","False","","",""
-"""""","narrator_0e6b7abc","","","False","","",""
-"S """"","S_491cff98","","","False","","",""
-"""""","narrator_216c15ac","","","False","","",""
-"S """"","S_66c01dd3","","","False","","",""
-"Z """"","Z_fe1e5bb1","","","False","","",""
-"""""","narrator_4c759577","","","False","","",""
-"S """"","S_831cee30","","","False","","",""
-"Z """"","Z_115d7560_1","","","False","","",""
-"""""","narrator_2be2db31","","","False","","",""
-"S """"","S_e4866244","","","False","","",""
-"""""","narrator_d8cb068d","","","False","","",""
-"Z """"","Z_82ee4791","","","False","","",""
-"S """"","S_5ad7038d","","","False","","",""
-"Z """"","Z_f7213dfb","","","False","","",""
-"""""","narrator_5880c205","","","False","","",""
-"S """"","S_05e2cdcd","","","False","","",""
-"Z """"","Z_0a7307de","","","False","","",""
-"Z """"","Z_647ef7f3","","","False","","",""
-"""""","narrator_3325ed8a","","","False","","",""
-"Z """"","Z_bbfa6e48","","","False","","",""
-"""""","narrator_9fa06450","","","False","","",""
-"S """"","S_9427062b","","","False","","",""
-"""""","narrator_75c49e41","","","False","","",""
-"Z """"","Z_0a7307de_1","","","False","","",""
-"""""","narrator_89f60846","","","False","","",""
-"""""","narrator_28794dd1","","","False","","",""
-"Z """"","Z_82ee4791_1","","","False","","",""
-"""""","narrator_7d6655b4","","","False","","",""
-"S """"","S_ac159523","","","False","","",""
-"""""","narrator_4a220e9d","","","False","","",""
-"S """"","S_b31246ec","","","False","","",""
-"""""","narrator_8c527d55","","","False","","",""
-"S """"","S_4df7899c","","","False","","",""
-"Z """"","Z_1992a8ec","","","False","","",""
-"""""","narrator_d5a924f2","","","False","","",""
-"S """"","S_0a23d2a2","","","False","","",""
-"""""","narrator_c63642d0","","","False","","",""
-"Z """"","Z_115d7560_2","","","False","","",""
-"S """"","S_99806137","","","False","","",""
-"""""","narrator_73ff9606","","","False","","",""
-"S """"","S_c2027df4","","","False","","",""
-"Z """"","Z_3371f1d5","","","False","","",""
-"""""","narrator_d5807493","","","False","","",""
-"Z """"","Z_115d7560_3","","","False","","",""
-"Z """"","Z_82ee4791_2","","","False","","",""
-"""""","narrator_2650880f","","","False","","",""
-"S """"","S_78fae9e3","","","False","","",""
-"S """"","S_f00a8adf","","","False","","",""
-"""""","narrator_23787124","","","False","","",""
-"S """"","S_283dbe74","","","False","","",""
-"""""","narrator_c74c7e38","","","False","","",""
-"S """"","S_d1a26c45","","","False","","",""
-"""""","narrator_5f8f2b40","","","False","","",""
-"S """"","S_65320d68","","","False","","",""
-"""""","narrator_6866ce3e","","","False","","",""
-"S """"","S_a36d4d39","","","False","","",""
-"""""","narrator_a42ca7ad","","","False","","",""
-"S """"","S_24195888","","","False","","",""
-"""""","narrator_2dd04701","","","False","","",""
-"Z """"","Z_934a8f57","","","False","","",""
-"""""","narrator_fee6a047","","","False","","",""
-"""""","narrator_72504cf1","","","False","","",""
-"S """"","S_c05ac8cf","","","False","","",""
-"""""","narrator_5ee6a7b5","","","False","","",""
-"Z """"","Z_8cd23356","","","False","","",""
-"""""","narrator_94559211","","","False","","",""
-"Z """"","Z_115d7560_4","","","False","","",""
-"S """"","S_8ca5c7a9","","","False","","",""
-"S """"","S_c327c24a","","","False","","",""
-"""""","narrator_3a0ff9d4","","","False","","",""
-"S """"","S_3c1b27ce","","","False","","",""
-"""""","narrator_10098d0b","","","False","","",""
-"S """"","S_eefc3736","","","False","","",""
-"S """"","S_8babc26d","","","False","","",""
-"""""","narrator_b369edb7","","","False","","",""
-"""""","narrator_c5d05b58","","","False","","",""
-"S """"","S_3e59bc8a","","","False","","",""
-"""""","narrator_86f7ec0e","","","False","","",""
-"""""","narrator_8c251457","","","False","","",""
-"S """"","S_7c76d2be","","","False","","",""
-"""""","narrator_d4b36cea","","","False","","",""
-"S """"","S_64bcd61c","","","False","","",""
-"Z """"","Z_115d7560_5","","","False","","",""
-"""""","narrator_65a5a49c","","","False","","",""
-"S """"","S_9bbc1724","","","False","","",""
-"""""","narrator_0f7348df","","","False","","",""
-"""""","narrator_d7241be7","","","False","","",""
-"S """"","S_f01b8116","","","False","","",""
-"""""","narrator_519ca5f2","","","False","","",""
-"Z """"","Z_dc3fe2a9","","","False","","",""
-"""""","narrator_8793df13","","","False","","",""
-"S """"","S_e6b85030","","","False","","",""
-"Z """"","Z_541d484d","","","False","","",""
-"S """"","S_a94ef88f","","","False","","",""
-"""""","narrator_f56e9267","","","False","","",""
-"S """"","S_727672ec","","","False","","",""
-"""""","narrator_ea297a5a","","","False","","",""
-"Z """"","Z_7eac4917","","","False","","",""
-"""""","narrator_c4c0fafb","","","False","","",""
-"Z """"","Z_099a304f","","","False","","",""
-"""""","narrator_77822351","","","False","","",""
-"S """"","S_6cad465f","","","False","","",""
-"""""","narrator_2d1e93fb","","","False","","",""
-"S """"","S_a2d83f63","","","False","","",""
-"Z """"","Z_dc3fe2a9_1","","","False","","",""
-"S """"","S_59da237e","","","False","","",""
-"S """"","S_2a0b4826","","","False","","",""
-"""""","narrator_6302ebaf","","","False","","",""
-"""""","narrator_dd89486c","","","False","","",""
-"S """"","S_c522f4eb","","","False","","",""
-"Z """"","Z_94dec195","","","False","","",""
-"S """"","S_5d12e98a","","","False","","",""
-"Z """"","Z_a33fb1ac","","","False","","",""
-"""""","narrator_d8cfd522","","","False","","",""
-"Z """"","Z_81845b8f","","","False","","",""
-"S """"","S_efbbe93e","","","False","","",""
-"""""","narrator_2e53ee10","","","False","","",""
-"Z """"","Z_dc3fe2a9_2","","","False","","",""
-"""""","narrator_57a2ef1a","","","False","","",""
-"""""","narrator_df6bdc10","","","False","","",""
-"S """"","S_a65cc851","","","False","","",""
-"S """"","S_66f9a7a3","","","False","","",""
-"""""","narrator_046fcb4e","","","False","","",""
-"Z """"","Z_f4ced968","","","False","","",""
-"""""","narrator_427aa911","","","False","","",""
-"""""","narrator_96bb22af","","","False","","",""
-"S """"","S_0d320dfc","","","False","","",""
-"S """"","S_8981127f","","","False","","",""
-"""""","narrator_f83217c9","","","False","","",""
-"Z """"","Z_09fcdd81","","","False","","",""
-"S """"","S_e69df477","","","False","","",""
-"""""","narrator_31b5b6a9","","","False","","",""
-"S """"","S_1334e6ee","","","False","","",""
-"S """"","S_d1b0a1d8","","","False","","",""
-"""""","narrator_c4f6e786","","","False","","",""
-"Z """"","Z_5d12200e","","","False","","",""
-"""""","narrator_6c70d2bf","","","False","","",""
-"S """"","S_aaf6fe64","","","False","","",""
-"""""","narrator_91a03dd4","","","False","","",""
-"S """"","S_631342de","","","False","","",""
-"Z """"","Z_bf8296fe","","","False","","",""
-"S """"","S_cb8ca3e5","","","False","","",""
-"""""","narrator_af149225","","","False","","",""
-"Z """"","Z_94dec195_1","","","False","","",""
-"""""","narrator_14dec5dc","","","False","","",""
-"""""","narrator_876cb236","","","False","","",""
-"S """"","S_f19da66b","","","False","","",""
-"S """"","S_36c15d45","","","False","","",""
-"S """"","S_b03e5be1","","","False","","",""
-"S """"","S_2ba1428e","","","False","","",""
-"S """"","S_8b48b64c","","","False","","",""
-"Z """"","Z_94dec195_2","","","False","","",""
-"""""","narrator_9cbe7022","","","False","","",""
-"S """"","S_1fbfc7b6","","","False","","",""
-"Z """"","Z_1885a188","","","False","","",""
-"""""","narrator_16ea94ef","","","False","","",""
-"Z """"","Z_42c885ac","","","False","","",""
-"""""","narrator_8d479faf","","","False","","",""
-"S """"","S_486b29ab","","","False","","",""
-"Z """"","Z_548abc83","","","False","","",""
-"""""","narrator_621e913c","","","False","","",""
-"S """"","S_c92d0052","","","False","","",""
-"Z """"","Z_df19a4b9","","","False","","",""
-"""""","narrator_97d20b5a","","","False","","",""
-"""""","narrator_2f41e6f4","","","False","","",""
-"S """"","S_96352883","","","False","","",""
-"""""","narrator_96c7af79","","","False","","",""
-"""""","narrator_e876e253","","","False","","",""
-"""""","narrator_e876e253_1","","","False","","",""
-"""""","narrator_e876e253_2","","","False","","",""
-"S """"","S_9902926e","","","False","","",""
-"S """"","S_b3072af8","","","False","","",""
-"""""","narrator_391a25d7","","","False","","",""
-"S """"","S_d37a9a60","","","False","","",""
-"""""","narrator_d41dc1a8","","","False","","",""
-"S """"","S_735f1a11","","","False","","",""
-"S """"","S_13017ebb","","","False","","",""
-"S """"","S_33cc1244","","","False","","",""
-"C """"","C_39a4f3b4","","","False","","",""
-"S """"","S_12d7e3ea","","","False","","",""
-"C """"","C_05597955","","","False","","",""
-"S """"","S_735f1a11_1","","","False","","",""
-"C """"","C_d9c0603c","","","False","","",""
-"S """"","S_ed2909b8","","","False","","",""
-"S """"","S_604cff98","","","False","","",""
-"C """"","C_3716ba26","","","False","","",""
-"S """"","S_d2195aa8","","","False","","",""
-"C """"","C_8eaa6258","","","False","","",""
-"S """"","S_c520c7c0","","","False","","",""
-"C """"","C_b1acd46c","","","False","","",""
-"S """"","S_2840b3cc","","","False","","",""
-"S """"","S_f9c53685","","","False","","",""
-"C """"","C_cec1c443","","","False","","",""
-"S """"","S_346de4c8","","","False","","",""
-"C """"","C_c9ba042f","","","False","","",""
-"S """"","S_aaebe846","","","False","","",""
-"C """"","C_4aa42ded","","","False","","",""
-"S """"","S_87258f72","","","False","","",""
-"""""","narrator_0fc5e0fd","","","False","","",""
-"""""","narrator_0fc5e0fd_1","","","False","","",""
-"S """"","S_225fb8f3","","","False","","",""
-"""""","narrator_a24b924b","","","False","","",""
-"Z """"","Z_a58b8242","","","False","","",""
-"""""","narrator_1047a16e","","","False","","",""
-"S """"","S_14df4ef3","","","False","","",""
-"S """"","S_c5b2b4af","","","False","","",""
-"""""","narrator_0de4beba","","","False","","",""
-"""""","narrator_3158a06e","","","False","","",""
-"S """"","S_8143ae84","","","False","","",""
-"Z """"","Z_9bbecc46","","","False","","",""
-"S """"","S_ca5b24f9","","","False","","",""
-"S """"","S_949496c4","","","False","","",""
-"""""","narrator_6611ce7b","","","False","","",""
-"S """"","S_ebe92df9","","","False","","",""
-"S """"","S_51421994","","","False","","",""
-"Z """"","Z_c62eaacc","","","False","","",""
-"""""","narrator_fe575e2a","","","False","","",""
-"""""","narrator_e07cbf97","","","False","","",""
-"S """"","S_fbd4c580","","","False","","",""
-"S """"","S_52f5b607","","","False","","",""
-"""""","narrator_a6b41361","","","False","","",""
-"S """"","S_20b338c8","","","False","","",""
-"""""","narrator_da3aa1fd","","","False","","",""
-"Z """"","Z_9bbecc46_1","","","False","","",""
-"""""","narrator_709e55d2","","","False","","",""
-"S """"","S_6096ad2c","","","False","","",""
-"S """"","S_7fb57ae0","","","False","","",""
-"S """"","S_fbb7f143","","","False","","",""
-"S """"","S_b945f411","","","False","","",""
-"S """"","S_a38b80b1","","","False","","",""
-"""""","narrator_9cbef62e","","","False","","",""
-"S """"","S_a2714c5a","","","False","","",""
-"S """"","S_3ec53b2d","","","False","","",""
-"S """"","S_fb99ad10","","","False","","",""
-"Z """"","Z_ff3dc477","","","False","","",""
-"S """"","S_48be0395","","","False","","",""
-"""""","narrator_b3b136da","","","False","","",""
-"S """"","S_f965eafc","","","False","","",""
-"""""","narrator_5d231a48","","","False","","",""
-"S """"","S_f3660aa3","","","False","","",""
-"Z """"","Z_48bc8deb","","","False","","",""
-"""""","narrator_2b4ee2cf","","","False","","",""
-"S """"","S_eca70402","","","False","","",""
-"S """"","S_8b95dd01","","","False","","",""
-"Z """"","Z_a58b8242_1","","","False","","",""
-"S """"","S_c7e00a97","","","False","","",""
-"""""","narrator_b40eb8aa","","","False","","",""
-"S """"","S_a2258d50","","","False","","",""
-"Z """"","Z_9bbecc46_2","","","False","","",""
-"Z """"","Z_25cd039f","","","False","","",""
-"""""","narrator_f0291b8e","","","False","","",""
-"S """"","S_7160b5a5","","","False","","",""
-"""""","narrator_f2934c48","","","False","","",""
-"Z """"","Z_a58b8242_2","","","False","","",""
-"""""","narrator_be93f5f5","","","False","","",""
-"""""","narrator_55168f73","","","False","","",""
-"S """"","S_705f2685","","","False","","",""
-"S """"","S_49c9c3fc","","","False","","",""
-"""""","narrator_1ed5514a","","","False","","",""
-"Z """"","Z_c9424241","","","False","","",""
-"S """"","S_d51d2452","","","False","","",""
-"""""","narrator_c10ae9f9","","","False","","",""
-"""""","narrator_ec1efd5a","","","False","","",""
-"S """"","S_02b9841d","","","False","","",""
-"S """"","S_48be0395_1","","","False","","",""
-"""""","narrator_060e5fe4","","","False","","",""
-"Z """"","Z_5ccca6d2","","","False","","",""
-"S """"","S_c99b162a","","","False","","",""
-"S """"","S_30739053","","","False","","",""
-"S """"","S_23b61786","","","False","","",""
-"""""","narrator_de7bb1fe","","","False","","",""
-"Z """"","Z_ffd561b2","","","False","","",""
-"""""","narrator_c626eed0","","","False","","",""
-"S """"","S_3495b1f2","","","False","","",""
-"""""","narrator_100484c0","","","False","","",""
-"S """"","S_e09292f6","","","False","","",""
-"""""","narrator_f97ca19f","","","False","","",""
-"S """"","S_0d8d767f","","","False","","",""
-"""""","narrator_b89bc999","","","False","","",""
-"S """"","S_cf162256","","","False","","",""
-"S """"","S_956d28c8","","","False","","",""
-"S """"","S_717d56cb","","","False","","",""
-"S """"","S_c2af5ad8","","","False","","",""
-"S """"","S_5e999ef7","","","False","","",""
-"S """"","S_62c9143f","","","False","","",""
-"S """"","S_3e48ab83","","","False","","",""
-"Z """"","Z_7e6ab0df","","","False","","",""
-"S """"","S_622b5d3e","","","False","","",""
-"""""","narrator_087609f8","","","False","","",""
-"Z """"","Z_9bbecc46_3","","","False","","",""
-"""""","narrator_ab322474","","","False","","",""
-"""""","narrator_873690d6","","","False","","",""
-"S """"","S_09495fd3","","","False","","",""
-"S """"","S_a0d76f85","","","False","","",""
-"S """"","S_a5d95063","","","False","","",""
-"S """"","S_79707a0a","","","False","","",""
-"""""","narrator_2a0f3457","","","False","","",""
-"S """"","S_1e58cf24","","","False","","",""
-"S """"","S_425333a7","","","False","","",""
-"S """"","S_79389b22","","","False","","",""
-"""""","narrator_7bf14f2f","","","False","","",""
-"Z """"","Z_9bbecc46_4","","","False","","",""
-"""""","narrator_9c5b128f","","","False","","",""
-"S """"","S_b0e79ef1","","","False","","",""
-"Z """"","Z_1429b6d2","","","False","","",""
-"""""","narrator_a359b5a4","","","False","","",""
-"""""","narrator_87c5fa3a","","","False","","",""
-"S """"","S_e806f692","","","False","","",""
-"Z """"","Z_ddea48e9","","","False","","",""
-"""""","narrator_079ee67c","","","False","","",""
-"""""","narrator_1057091d","","","False","","",""
-"S """"","S_5a127c70","","","False","","",""
-"Z """"","Z_b0e4c1e2","","","False","","",""
-"""""","narrator_81c92e7e","","","False","","",""
-"Z """"","Z_b0e4c1e2_1","","","False","","",""
-"S """"","S_4ad642ef","","","False","","",""
-"S """"","S_dcebc941","","","False","","",""
-"S """"","S_6218da9d","","","False","","",""
-"""""","narrator_d999c63d","","","False","","",""
-"Z """"","Z_1d4198c7","","","False","","",""
-"S """"","S_513e8bd9","","","False","","",""
-"S """"","S_21b8c146","","","False","","",""
-"Z """"","Z_cf94f5f3","","","False","","",""
-"S """"","S_d230c522","","","False","","",""
-"Z """"","Z_5ccca6d2_1","","","False","","",""
-"""""","narrator_b9437b78","","","False","","",""
-"S """"","S_8538496f","","","False","","",""
-"S """"","S_190193f4","","","False","","",""
-"""""","narrator_59f3af63","","","False","","",""
-"S """"","S_709ce16f","","","False","","",""
-"S """"","S_e6347c4b","","","False","","",""
-"C """"","C_d41a7a4a","","","False","","",""
-"S """"","S_574bddf2","","","False","","",""
-"C """"","C_eb121536","","","False","","",""
-"S """"","S_abe9dde3","","","False","","",""
-"C """"","C_1e4e7575","","","False","","",""
-"S """"","S_ea402394","","","False","","",""
-"""""","narrator_eb7176f6","","","False","","",""
-"S """"","S_65006434","","","False","","",""
-"S """"","S_5d0409c8","","","False","","",""
-"""""","narrator_cf62c45e","","","False","","",""
-"S """"","S_cc482788","","","False","","",""
-"C """"","C_060b9718","","","False","","",""
-"S """"","S_02df61ef","","","False","","",""
-"C """"","C_5ec7b5e6","","","False","","",""
-"S """"","S_65006434_1","","","False","","",""
-"C """"","C_6da5cf7b","","","False","","",""
-"S """"","S_fbaa1aed","","","False","","",""
-"S """"","S_77924b71","","","False","","",""
-"C """"","C_cef46987","","","False","","",""
-"C """"","C_972de888","","","False","","",""
-"S """"","S_67c08b7f","","","False","","",""
-"C """"","C_76745a28","","","False","","",""
-"C """"","C_bfb7225a","","","False","","",""
-"S """"","S_7fbdf03e","","","False","","",""
-"C """"","C_d02cb067","","","False","","",""
-"S """"","S_81dfb508","","","False","","",""
-"C """"","C_b3cf6444","","","False","","",""
-"S """"","S_5a0f2896","","","False","","",""
+location,source,target,ID,fuzzy,context,translator_comments,developer_comments
+"""""",narrator_c88f53de,*Fruscio*,,,,,
+"""""",narrator_c88f53de_1,*Fruscio*,,,,,
+"""""",narrator_c88f53de_2,*Fruscio*,,,,,
+"S """"",S_8f9f8819,*Biascicamento*,,,,,
+"""""",narrator_c88f53de_3,*Fruscio*,,,,,
+"S """"",S_46f229cc,Io ... io voglio dormire ... non toccarmi.,,,,,
+"""""",narrator_c88f53de_4,*Fruscio*,,,,,
+"Z """"",Z_08fd9db4,* Skri-skri-skri! *,,,,,
+"""""",narrator_c88f53de_5,*Fruscio*,,,,,
+"S """"",S_da3c456d,,,,,,
+"""""",narrator_091e7cc4,"Sarah tornò in sé, quando udì un suono piuttosto familiare.",,,,,
+"S """"",S_27d55755,Cosa stai facendo qui? -Scendi fuori di me ora!,,,,,
+"Z """"",Z_85c38d1c,,,,,,
+"""""",narrator_c88f53de_6,*Fruscio*,,,,,
+"S """"",S_c320ff29,Y-non dovresti essere qui! Non camminare su di me!,,,,,
+"S """"",S_be4803bb,"(Accidenti, è piuttosto pesante ...)",,,,,
+"S """"",S_a9f223af,Che cosa hai intenzione di fare?,,,,,
+"Z """"",Z_08fd9db4_1,* Skri-skri-skri! *,,,,,
+"""""",narrator_f6c8f830,"Sarah si asciugò gli occhi, non riuscendo ancora a capire cosa stava succedendo e cosa stavano facendo i piccoli zergling.",,,,,
+"S """"",S_da3c456d_1,,,,,,
+"S """"",S_19985a58,"Cosa stai facendo ??? Ehi, fermalo ora.",,,,,
+"Z """"",Z_85c38d1c_1,,,,,,
+"S """"",S_814e8a74,Q-smetti di toccarmi ... non sei così leggera!,,,,,
+"S """"",S_da3c456d_2,,,,,,
+"""""",narrator_1e4ed9d4,"Ma lo zergling non ha prestato molta attenzione alle parole di Sarah, era concentrato sul suo lavoro.",,,,,
+"S """"",S_f8827c3a,"Ehi ... ahh .. p-per favore fermati, cosa stai facendo!",,,,,
+"Z """"",Z_85c38d1c_2,,,,,,
+"S """"",S_e44650ad,"(Cazzo, non mi sta ascoltando ... ahh ... ha messo la sua cosa tra le mie gambe ...)",,,,,
+"S """"",S_ee5498e4,"Ahhh ... n-no, basta ... non puoi usare me ...",,,,,
+"S """"",S_3e73a2fc,(Com'è agile ... lo sta facendo a una velocità ... ahhh ...),,,,,
+"Z """"",Z_cbaa9583,* Skr-skr-skr*,,,,,
+"S """"",S_8aab9721,"Aspetta, no! Non puoi farlo all'improvviso!",,,,,
+"Z """"",Z_746e3cb9,* Skr-skr-skr *,,,,,
+"""""",narrator_836099e9,Le parole di Sarah furono completamente ignorate e gli zergling continuarono a strofinare la sua appendice sulle sue gambe.,,,,,
+"S """"",S_c1d3f63b,(Sapevo che sarebbe successo qualcosa del genere: Stukov non poteva portare gli Zerg senza un piano.),,,,,
+"Z """"",Z_cbaa9583_1,* Skr-skr-skr*,,,,,
+"S """"",S_aa3a3026,(Mi sta usando come masturbatore ... E non fa differenza se lo voglio o no ... ahhh ...),,,,,
+"S """"",S_79aeb5b3,"(Cazzo, quando finirà ...)",,,,,
+"Z """"",Z_cbaa9583_2,* Skr-skr-skr*,,,,,
+"S """"",S_eb2235e5,(Ci prova così tanto ... una tale corsa ... ahh ... così piccola e veloce ...),,,,,
+"Z """"",Z_cbaa9583_3,* Skr-skr-skr*,,,,,
+"S """"",S_da3c456d_3,,,,,,
+"S """"",S_4f88139a,"H-sua cosa, si sta gonfiando! S-così, questo finirà presto!",,,,,
+"Z """"",Z_a90753af,* Brontola *,,,,,
+"S """"",S_e5437ff8,"(Non riesco nemmeno a vederlo, ma posso sicuramente sentirlo ... è così gonfio ...)",,,,,
+"S """"",S_0ad90374,(Ahhh ... W-perché dovrebbe usare le mie gambe in questo modo?),,,,,
+"S """"",S_83744114,(Dannazione ... è accelerato ancora di più ... com'è possibile?),,,,,
+"S """"",S_948ce18b,(Ahh ... è tutto per colpa mia ... Gli piacevano così tanto ...? Mi sta usando così furiosamente ...),,,,,
+"S """"",S_c77645aa,"(Cazzo, non è il momento di riflettere su questo ... ho solo bisogno di aspettare ancora un po ', ha quasi finito ... solo un po' ed è tutto finito ...)",,,,,
+"Z """"",Z_06c833d2,,,,,,
+"Z """"",Z_a90753af_1,* Brontola *,,,,,
+"""""",narrator_383b4b7b,"Lo zergling emise un ululato penetrante, il che significava solo una cosa: era pronto a seminare il suo compagno.",,,,,
+"S """"",S_d6cde9a7,(Ora è tutto finito ... ahhh ... vai avanti!),,,,,
+"Z """"",Z_06c833d2_1,,,,,,
+"Z """"",Z_1bc44fa8,,,,,,
+"Z """"",Z_d05636f0,,,,,,
+"Z """"",Z_5e7abc01,,,,,,
+"S """"",S_b116dc79,"(Diavolo, l'ha fatto davvero ... ahhh ... e, soprattutto, non ho nemmeno provato a fermarlo ... ahh ..)",,,,,
+"Z """"",Z_5435f189,* Heeeeee .... *,,,,,
+"S """"",S_526717f7,"N-ora che hai fatto i tuoi affari, scendi da me.",,,,,
+"Z """"",Z_87ad9329,,,,,,
+"S """"",S_da3c456d_4,,,,,,
+"S """"",S_4c937975,D-non dirmi che non è stato abbastanza!,,,,,
+"Z """"",Z_c4afe305,* Skeern-skeern-skeern*,,,,,
+"S """"",S_4d1b9953,"(Ahhhhh ... insaziabile piccolo mascalzone ... no no no, questo non può essere ...)",,,,,
+"Z """"",Z_ae37268b,* Skr-skr-skr *,,,,,
+"""""",narrator_fb851680,Era abbastanza ingenuo da parte di Sarah persino intrattenere il pensiero che gli zergling sarebbero stati soddisfatti dopo una sola volta.,,,,,
+"""""",narrator_77bbaf0c,Gli zergling continuarono i suoi inutili tentativi di accoppiamento.,,,,,
+"Z """"",Z_2c4d203d,* Skiiiir ... *,,,,,
+"S """"",S_6c36faca,S-stop ... abbastanza ... hai già la tua spazzatura dappertutto ... Ah ...,,,,,
+"S """"",S_09036c92,"(D-damn, quanto tempo è passato ... ci è rimasto per così tanto tempo ...)",,,,,
+"S """"",S_49632e18,,,,,,
+"Z """"",Z_a0ca8dd5,* Skiiiiir! *,,,,,
+"""""",narrator_dc5b5671,"Uno sguardo allo zergling fu sufficiente per dire che era molto soddisfatto di se stesso, il suo lavoro sull'inseminazione della sua donna fu completato con successo.",,,,,
+"S """"",S_6f69f08d,(A lui non importa che non somigliamo allo stesso modo ...),,,,,
+"S """"",S_f4833711,Va bene? Sei soddisfatto?,,,,,
+"Z """"",Z_f1125bd7,,,,,,
+"""""",narrator_3723c1c0,Lo zergling finalmente scese da Sarah e la lasciò sdraiata da sola con una pozza di seme tra le sue gambe.,,,,,
+"S """"",S_da3c456d_5,,,,,,
+"S """"",S_d09401f5,T-c'è così tanto! È tutto il suo ... ???,,,,,
+"S """"",S_7e50674a,Ahhh...{w} quell'odore ... così forte ... mi colpisce dritto nel naso.,,,,,
+"S """"",S_a9e8e741,(Mi sento stordito da questo ... ahhh ...),,,,,
+"""""",narrator_d5a2f473,"Mentre lo zergling stava facendo la sua cosa, Sarah non riusciva a vedere quanto spunto lo sperma, lei poteva solo sentirlo.",,,,,
+"S """"",S_8b77757c,"(È così piccolo, ma così ... produttivo ...)",,,,,
+"S """"",S_0aa5081d,(È anche normale?),,,,,
+"S """"",S_7e38db21,,,,,,
+"S """"",S_8c95bd35,"(Beh, è ​​finita ... Ma cosa dovrei fare con lo sperma ...)",,,,,
+"S """"",S_7e38db21_1,,,,,,
+"""""",narrator_5399e88a,"A causa dello zergling, Sarah non riuscì a dormire bene. Energia ridotta",,,,,
+"""""",narrator_2dad5718,Qualche tempo dopo.,,,,,
+"""""",narrator_8f421d40,Sarah è molto stanca. Si sdraia e si addormenta immediatamente.,,,,,
+"""""",narrator_5a670ba7,,,,,,
+"S """"",S_4dd381fa,"Raynor ... sai, quando dormo, è meglio non tormentarmi.",,,,,
+"""""",narrator_185a7de0,*Fruscio*,,,,,
+"""""",narrator_185a7de0_1,*Fruscio*,,,,,
+"S """"",S_6e77de11,"So che mi hai sentito, basta ...",,,,,
+"""""",narrator_185a7de0_2,*Fruscio*,,,,,
+"Z """"",Z_974cf36b,* Skiiiiir! *,,,,,
+"S """"",S_1ddaf8c3,,,,,,
+"S """"",S_41fa0bb9,"Ow, smettila di calpestarmi ... non sei leggero come pensi ...",,,,,
+"S """"",S_37bd4be9,Lo farai di nuovo?,,,,,
+"S """"",S_362fa695,"(Cazzo, è già tempo?)",,,,,
+"S """"",S_01a15270,(Mi ero completamente dimenticato dei suoi bisogni ...),,,,,
+"Z """"",Z_532517e5,* Skyr-skyr *,,,,,
+"S """"",S_0268390d,"(Ma fa parte del mio lavoro, devo soddisfare i suoi bisogni ...)",,,,,
+"""""",narrator_ca7832af,"Nel frattempo, lo zergling non ha perso tempo, non gli importava che Sarah stesse parlando in quel momento. Era interessato solo a una cosa, alla soddisfazione dei suoi desideri.",,,,,
+"Z """"",Z_2210cbd9,* Skr-skr-skr*,,,,,
+"S """"",S_6c95f3be,(Ah ... è tornato così veloce che fa ... quanti dei poteri e dei desideri ...),,,,,
+"Z """"",Z_2210cbd9_1,* Skr-skr-skr*,,,,,
+"Z """"",Z_2210cbd9_2,* Skr-skr-skr*,,,,,
+"C """"",C_252cc586,(Non hai dimenticato qualcosa? Devi stabilire una connessione con lui.),,,,,
+"S """"",S_88f1d5cd,,,,,,
+"S """"",S_60153312,"(Sì, me ne sono completamente dimenticato).",,,,,
+"S """"",S_49038548,(Ma concentrandosi quando sta usando le mie gambe ... ahhh ...),,,,,
+"C """"",C_4e35d76b,"(Questa è l'opportunità migliore. Sei in uno stato di eccitazione, il che significa che il collegamento sarà più forte.)",,,,,
+"S """"",S_5c2db5a4,(Io non sono - non causa di questo piccolo zergling ...),,,,,
+"C """"",C_50652bef,"(Sì, sei solo di buon umore e sono un pappagallo sulla tua spalla.)",,,,,
+"S """"",S_8f0e4229,(Non sono affatto entusiasta del fatto che questo piccolo zergling stia usando le mie gambe per i suoi scopi sporchi).,,,,,
+"S """"",S_7229cce5,"(Va bene, devi provare a stabilire un contatto con lui.)",,,,,
+"""""",narrator_ab2ef22b,"Sarah iniziò a concentrarsi sulla sua connessione con lo zergling e, sorprendendola, riuscì molto presto.",,,,,
+"S """"",S_baa93ef4,"L'ho fatto, l'ho fatto, lo sento ... i suoi sentimenti ... ahh ..",,,,,
+"Z """"",Z_81a1a884,"(Femmina, femmina, femmina!)",,,,,
+"S """"",S_4cc139b0,(Mi chiama una femmina?),,,,,
+"Z """"",Z_0288b0d9,"(Impregnare, inseminare la femmina!)",,,,,
+"Z """"",Z_7e32a5b9,(Impregnare!!!),,,,,
+"Z """"",Z_03e849ac,(Impregnare {w} -impregnate {w} -impregnate {w} -impregnate {w} impregnare !!!),,,,,
+"S """"",S_5e52e906,"(Ahh ... no, ha una mente così sporca ... ha solo un solo pensiero ...)",,,,,
+"Z """"",Z_1e8b0999,"(La mia femmina, la mia femmina!)",,,,,
+"""""",narrator_28042a23,"Lo zergling cominciò a spingere ancora più velocemente, si mosse con grande velocità, creando una specie di vibrazione che fu trasmessa nel corpo di Sarah. ",,,,,
+"S """"",S_1717290b,"Ahhh ... no, non accelerare, dannazione ... p-per favore fermati ...",,,,,
+"S """"",S_b636f572,(Questa vibrazione ... ahh ... h-come sta facendo questo ...?),,,,,
+"Z """"",Z_e840b82f,(Femmina bagnata !!!),,,,,
+"S """"",S_21722c3e,Ahhh ... smettila di chiamarmi così! Non sono la tua femmina!,,,,,
+"Z """"",Z_8f70166a,(Buono buono buono.),,,,,
+"Z """"",Z_7b1cfb28,(Impregnare!!!),,,,,
+"S """"",S_1ddaf8c3_1,,,,,,
+"S """"",S_8d19c464,"(La sua cosa si sta gonfiando di nuovo, lo farà! Ahhh ...)",,,,,
+"""""",narrator_07ae51e0,Lo zergling era pronto a rilasciare tutto ciò che ha accumulato.,,,,,
+"Z """"",Z_e9e89ae1,WHAAAAAAAAAAAAAAAAAAAAAAA !!!,,,,,
+"Z """"",Z_6f6407d8,,,,,,
+"Z """"",Z_6f6407d8_1,,,,,,
+"S """"",S_7d2ff62b,Mmmmmm ...,,,,,
+"S """"",S_a7e974f8,"(Io ... sento ... Oh, cazzo, è così bello ... sentirlo sborra.)",,,,,
+"""""",narrator_11c85abb,"Sarah sentì che l'orgasmo dello zergling stava accadendo al suo stesso corpo. Onde di piacere, così diverse dall'orgasmo femminile che le era balenato nella mente. Sarah si sentiva come se stesse prendendo un sorso.",,,,,
+"S """"",S_f8dd93da,E questa è solo la prima volta ... heh-heh-heh ... dovremmo fermarci? Eh-eh-eh ...,,,,,
+"""""",narrator_6a5bfe3f,"Le sembrava che stesse per sborrare lei stessa, solo per la fretta delle sensazioni. Ed è stato a questo punto che lo zergling è stato rilasciato ancora una volta e Sarah è stata nuovamente spazzata via da un'ondata di piacere. Perse persino la capacità di discernere dove finivano i suoi sentimenti, e gli zergling cominciavano.",,,,,
+"Z """"",Z_ed633a29,(Più di più! Insemina!),,,,,
+"Z """"",Z_6c4f6345,(La femmina vuole di più!),,,,,
+"S """"",S_e669b26d,(N-no non lo !!!),,,,,
+"Z """"",Z_f271d3d4,"(Donna insaziabile, impregnata!)",,,,,
+"S """"",S_6d5d09dd,"Ahhh ... a questo ritmo, perderò completamente la testa ...",,,,,
+"Z """"",Z_8cc4b842,(Impregnare!!!),,,,,
+"S """"",S_2401e24a,"Nooooo, basta!",,,,,
+"S """"",S_45366689,Mmmmm!!!,,,,,
+"""""",narrator_31f838ae,"La connessione che Sarah stabilì con lo zergling, insieme con le vibrazioni della sua velocissima velocità, le diede un sacco di piacere.",,,,,
+"""""",narrator_efeb572c,"Dopo un po ', l'inseminazione di Sarah terminò.",,,,,
+"S """"",S_9bf3bcf7,Eh-eh-eh ...,,,,,
+"S """"",S_352aaa75,(Finalmente ha finito ... heh-heh-heh.),,,,,
+"Z """"",Z_f79e8ff9,"(Femmina inseminata, donna felice, vuole dormire).",,,,,
+"S """"",S_c6ce090b,(Sono così felice che questo sia finito ... ah ah ah ...),,,,,
+"""""",narrator_88f52710,Lo zergling tornò orgogliosamente al suo posto.,,,,,
+"""""",narrator_b002876b,"A causa dello zergling, Sarah non riuscì a dormire bene. Energia ridotta",,,,,
+"S """"",S_141c94a4,"(Sai, questa volta è stato molto più facile comunicare con lui).",,,,,
+"C """"",C_9704a41c,"(Bene, va bene, stai imparando velocemente).",,,,,
+"S """"",S_2c370a61,(L'ho fatto anche senza un'iniziazione!),,,,,
+"C """"",C_39c1188d,"(Comunque, eri eccitato).",,,,,
+"S """"",S_46ac9376,"(Beh, forse solo un po ', e questo non è dovuto a quello che mi ha fatto lo zergling ...)",,,,,
+"S """"",S_bae1daf5,(E io ero di buon umore!),,,,,
+"C """"",C_0f5aa967,(Buon umore dal fatto che gli zergling hanno cominciato a inseminarti o perché ti ha chiamato una femmina?),,,,,
+"S """"",S_f91f9036,,,,,,
+"S """"",S_b0ba52f2,(Sai'mon! Non è vero ...),,,,,
+"C """"",C_fcb5fd43,"(Be ', stai attento, o prima che tu te ne accorga, starai a quattro zampe con un collare intorno al collo e brama il suo cazzo.Ha-ha-ha.)",,,,,
+"S """"",S_91f12773,"(Sai'mon! Smettila, o altro!)",,,,,
+"C """"",C_ffa24755,,,,,,
+"S """"",S_90f4dbae,(Idiota ... perché hai anche questi pensieri?),,,,,
+"C """"",C_d3a6c589,(Ho appena letto la sceneggiatura in anticipo.),,,,,
+"S """"",S_07f69cf7,(Stai ancora dicendo che questo è un gioco ...),,,,,
+"C """"",C_d20ed19e,"(Potresti non credermi, ma questo non cambierà la sceneggiatura).",,,,,
+"S """"",S_f5b5ceab,,,,,,
+"S """"",S_481ca9e6,,,,,,
+"S """"",S_a2af3b18,"(Sai'mon, ora non è il momento per questo ...)",,,,,
+"C """"",C_ca9489e6,"(Beh, avresti potuto dire che ti è piaciuto e volevi godermelo.)",,,,,
+"S """"",S_3e087789,(S-stai zitto ...),,,,,
+"C """"",C_3d3a4d1d,(Qualunque cosa.),,,,,
+"Z """"",Z_25a7e484,* Skr-skr-skr*,,,,,
+"Z """"",Z_4dfbf0cf,* Brontola *,,,,,
+"Z """"",Z_9578f9b4,,,,,,
+"S """"",S_81cee354,"W-cosa, già?",,,,,
+"Z """"",Z_9578f9b4_1,,,,,,
+"S """"",S_40f8505e,(Così tanto ancora ... non una goccia in meno dell'ultima volta ...),,,,,
+"S """"",S_d1be1b91,(Ahhh ... questo odore ...),,,,,
+"S """"",S_6594907b,(Ma non si fermerà dopo una volta ... non è abbastanza per lui ...),,,,,
+"Z """"",Z_a3adb6f9,* Skyr-skyr-skyr *,,,,,
+"S """"",S_43911595,,,,,,
+"""""",narrator_c765cdb3,"Ci è voluto del tempo, ma alla fine l'inseminazione di Sarah si è conclusa.",,,,,
+"Z """"",Z_2d9b2c21,Skiiiiir...,,,,,
+"""""",narrator_5d51925a,Lo zergling scivolò via dal corpo di Sarah e andò fieramente al suo posto.,,,,,
+"S """"",S_38bf890a,"Ah ... dannazione, abbastanza camminando su di me ...",,,,,
+"S """"",S_9f5efcf9,(Questo tizio cums così tanto ... Proprio come l'ultima volta ...),,,,,
+"S """"",S_9a61a626,"(E che odore ... ahhh, assalta le mie papille gustative ...)",,,,,
+"S """"",S_fe0182de,(Mi trovo a pensare sempre di più a voler provarlo ...),,,,,
+"S """"",S_f415e041,(Devo monitorare attentamente i suoi bisogni se non voglio che succeda di nuovo.),,,,,
+"S """"",S_ce662379,(... o dovrei?),,,,,
+"""""",narrator_b002876b_1,"A causa dello zergling, Sarah non riuscì a dormire bene. Energia ridotta",,,,,
+"C """"",C_42640c04,Dovresti dare un'occhiata allo zergling.),,,,,
+"S """"",S_ade94f7f,Forse hai ragione.,,,,,
+"""""",narrator_a19942ea,,,,,,
+"""""",narrator_b880f96a,*Fruscio*,,,,,
+"""""",narrator_ea3113b0,"[zergling_s_name!t] ha attraversato la stanza in disappunto. Il suo cazzo sporgente lo infastidiva. Nel frattempo, Sarah russava sfacciatamente.",,,,,
+"Z """"",Z_3d08d624,,,,,,
+"Z """"",Z_ae1cb0e9,* Skr-skr-skr*,,,,,
+"""""",narrator_d6b1e22f,"Pieno di desiderio, lo zergling saltò sul letto vicino ai piedi di Sarah e cominciò ad annusarli.",,,,,
+"S """"",S_cc369d1a,*Mumble*,,,,,
+"""""",narrator_ef6c14c6,Il piccolo Zerg ha leccato lentamente il ginocchio di Sarah.,,,,,
+"Z """"",Z_115d7560,* Skr-skr-skr*,,,,,
+"""""",narrator_0e6b7abc,"Facendo suoni succosi, lo zergling leccava i piedi della ragazza, muovendosi rapidamente più in alto.",,,,,
+"S """"",S_491cff98,*Sonnambulismo incomprensibile *,,,,,
+"""""",narrator_216c15ac,Le sue labbra si aprirono leggermente e le sue gambe iniziarono a diffondersi dal piacere. I suoi sogni sono diventati lentamente molto erotici.,,,,,
+"S """"",S_66c01dd3,Jim... Voglio dormire...,,,,,
+"Z """"",Z_fe1e5bb1,,,,,,
+"""""",narrator_4c759577,Lo zerg continuò velocemente e con entusiasmo leccando la pelle del fantasma già lamentato.,,,,,
+"S """"",S_831cee30,Oh... Mmm... non farlo...,,,,,
+"Z """"",Z_115d7560_1,* Skr-skr-skr*,,,,,
+"""""",narrator_2be2db31,"Lo zerg ha una lingua flessibile ed estremamente viscida che scivola avanti e indietro all'interno della coscia, lasciando tracce bagnate lucide.",,,,,
+"S """"",S_e4866244,Ooh... smettila...,,,,,
+"""""",narrator_d8cb068d,"Infine, ispirato dai gemiti della femmina e dal suo profumo esasperante, lo zergling strisciava più in alto lungo il suo corpo, fino al suo inguine.",,,,,
+"Z """"",Z_82ee4791,* Slurp * * Slurp * * Slurp*,,,,,
+"S """"",S_5ad7038d,Mmmm... aaaah... Jim... Lo sei davvero... insaziabile...,,,,,
+"Z """"",Z_f7213dfb,* Sslp-sslp-sslp*,,,,,
+"""""",narrator_5880c205,"La reazione di Sarah non è stata ritardata, e molto presto lo zerg stava leccando una figa che perde.",,,,,
+"S """"",S_05e2cdcd,Oh... Cattivo!.. Piu... Jim... più a fondo!,,,,,
+"Z """"",Z_0a7307de,Skrii!,,,,,
+"Z """"",Z_647ef7f3,* Slurp-slurp-slurp*,,,,,
+"""""",narrator_3325ed8a,"La lingua dello zerg stava raschiando la vagina della ragazza, con forza quasi sufficiente a far male, ma i suoi gemiti indicavano il suo piacere.",,,,,
+"Z """"",Z_bbfa6e48,* Chff-chff-chff*,,,,,
+"""""",narrator_9fa06450,"Il piccolo squirt leccava avidamente il suo compagno, penetrando profondamente tra le sue labbra infuocate.",,,,,
+"S """"",S_9427062b,Oh... Jim... dove l'hai imparato?!,,,,,
+"""""",narrator_75c49e41,"La ragazza gemeva e si contorceva nel sonno, sopraffatta dal piacere della lingua forte e agile del giovane e molto arrogante zerg.",,,,,
+"Z """"",Z_0a7307de_1,Skrii!,,,,,
+"""""",narrator_89f60846,"Infine, dopo aver perso interesse per la vagina di Sarah, [zergling_s_name!t] si muoveva più in alto lungo il suo corpo.",,,,,
+"""""",narrator_28794dd1,Ora ha preso di mira le enormi sfere situate proprio di fronte a lui.,,,,,
+"Z """"",Z_82ee4791_1,* Slurp * * Slurp * * Slurp*,,,,,
+"""""",narrator_7d6655b4,La sua lingua forte ha fatto passi da gigante contro il seno della ragazza. Ogni suo tocco finì con un graffio della lingua contro un capezzolo forte e sensibile.,,,,,
+"S """"",S_ac159523,Ah... Oh... Si'! Ancora!!!,,,,,
+"""""",narrator_4a220e9d,"Nonostante gli avidi movimenti dello zergling non fossero affatto delicati, Sarah si lamentava di piacere.",,,,,
+"S """"",S_b31246ec,Oh... Ah! Si'!!! Leccateli!,,,,,
+"""""",narrator_8c527d55,Lo zergling ha leccato e spremuto il seno del suo amico.,,,,,
+"S """"",S_4df7899c,Jim... Si'! Più forte!.. Le mie tette ti hanno mancato cosi ' tanto la lingua!,,,,,
+"Z """"",Z_1992a8ec,Skrii...,,,,,
+"""""",narrator_d5a924f2,Il seno di Sarah era completamente coperto dalla saliva dell'avido zerg.,,,,,
+"S """"",S_0a23d2a2,Piu... Questi bambini ti stavano aspettando!,,,,,
+"""""",narrator_c63642d0,"Alla fine, lo zergling si e ' stufato del petto di Sarah, anche se stava attirando da Lei dei gemiti incredibilmente piagnucolosi. Si e 'spostato piu' in alto, verso la sua faccia.",,,,,
+"Z """"",Z_115d7560_2,* Skr-skr-skr*,,,,,
+"S """"",S_99806137,Jim... andiamo... non puoi lasciare una ragazza cosi'...,,,,,
+"""""",narrator_73ff9606,"Lo zergling si e ' appoggiato in faccia a Sarah. La saliva, mischiata con il suo succo, gocciolava dalla sua bocca e il suo membro di pietra gocciolava sperma caldo.",,,,,
+"S """"",S_c2027df4,"Ah... Jim, sei cosi ' altruista che sei coperto di parolacce...",,,,,
+"Z """"",Z_3371f1d5,,,,,,
+"""""",narrator_d5807493,"Il lussurioso zergling non ne aveva ancora abbastanza, voleva contaminare ogni parte del corpo di Sarah.",,,,,
+"Z """"",Z_115d7560_3,* Skr-skr-skr*,,,,,
+"Z """"",Z_82ee4791_2,* Slurp * * Slurp * * Slurp*,,,,,
+"""""",narrator_2650880f,[zergling_s_name!t] ha iniziato a leccare il viso e le labbra della ragazza addormentata con movimenti rapidi e agili della sua lingua.,,,,,
+"S """"",S_78fae9e3,Oh... Oh... Jim... mi lecchi le labbra...,,,,,
+"S """"",S_f00a8adf,Mmmm... sai quanto amo i tuoi baci... Ora punirò la tua bocca sporca!,,,,,
+"""""",narrator_23787124,"La lingua della ragazza si e ' squarciata tra le labbra, raccogliendo la saliva dello zergling.",,,,,
+"S """"",S_283dbe74,Ancora!.. Voglio sentire i tuoi gusti!,,,,,
+"""""",narrator_c74c7e38,Sarah ha esalato con lussuria e ha cercato di prendere la sua lingua con le sue labbra.,,,,,
+"S """"",S_d1a26c45,I... Ah!.. Ho imparato cosi ' tanto... E ti sorprendero'... ~ ♥,,,,,
+"""""",narrator_5f8f2b40,Allo zerg piaceva questo giochino e lui cominciò a leccarla apparendo e sparendo lingua ogni volta che poteva.,,,,,
+"S """"",S_65320d68,Oh... Jim... Scherzavo!.. Ti insegnerò a baciare!..,,,,,
+"""""",narrator_6866ce3e,La ragazza si lamentava e continuava a cercare di prendere la lingua veloce dello zerg.,,,,,
+"S """"",S_a36d4d39,Oh... Bastardo... Ti voglio!.. ~ ♥,,,,,
+"""""",narrator_a42ca7ad,"A conferma delle sue parole, Sarah leccò la saliva dello zerg dalle sue labbra con diligenza, sebbene movimenti lenti della sua stessa lingua.",,,,,
+"S """"",S_24195888,Sei diventata più saporita!..,,,,,
+"""""",narrator_2dd04701,"In piedi sul bagnato dalla sua ragazza secrezioni, [zergling_s_name!t] di nuovo ha cominciato a stuzzicarla con movimenti rapidi della sua lingua.",,,,,
+"Z """"",Z_934a8f57,*Slurp-slurp*,,,,,
+"""""",narrator_fee6a047,"Lo Zerg ha leccato il viso della ragazza, anche facilmente raggiungendo la lingua, che la ragazza accuratamente messo fuori in cerca di un bacio.",,,,,
+"""""",narrator_72504cf1,"Facendo suoni osceni, il fantasma le leccava la saliva dalle labbra e cercava di prendere la sua lingua agile con le sue labbra morbide.",,,,,
+"S """"",S_c05ac8cf,Jim... andiamo... Voglio succhiarti... linguetta...,,,,,
+"""""",narrator_5ee6a7b5,"[zergling_s_name!t] ha continuato a leccarsi il viso. La sua lingua ruvida e scivolosa saltò rapidamente su e dietro le guance, il mento e le labbra della ragazza, causando lamenti rumorosi.",,,,,
+"Z """"",Z_8cd23356,* Slluurp*,,,,,
+"""""",narrator_94559211,Gemiti arrapati mescolati con i suoni che emanano dallo zergling.,,,,,
+"Z """"",Z_115d7560_4,* Skr-skr-skr*,,,,,
+"S """"",S_8ca5c7a9,Mmmm... si sono toccati!!! ~ ♥,,,,,
+"S """"",S_c327c24a,Ti ho preso!,,,,,
+"""""",narrator_3a0ff9d4,"Sarah ha iniziato volentieri a leccare la lingua della bestia, picchiandola forte sulle labbra. Un sorriso soddisfatto sparso sul suo viso.",,,,,
+"S """"",S_3c1b27ce,Si'.. Mh... Jim...,,,,,
+"""""",narrator_10098d0b,"La lingua dello zerg era letteralmente avvolta intorno a quella di Sarah, e i suoi movimenti sembravano solo rafforzare la sua presa su di esso.",,,,,
+"S """"",S_eefc3736,Ora e ' il momento di punirti la lingua!.. ~ ♥,,,,,
+"S """"",S_8babc26d,* Slurp-slurp-slurp-slurp-slurp-slurp*,,,,,
+"""""",narrator_b369edb7,"Sarah ha leccato insistentemente la lingua dello zerg, invitandolo ad un bacio profondo.",,,,,
+"""""",narrator_c5d05b58,"L'eccitazione ha avuto un effetto profondo su [zergling_s_name!t] - un torrente della sua saliva gocciolava sulla faccia, sul collo di Sarah e nella sua bocca, mentre il liquido viscoso fuoriusciva costantemente dalla sua punta.",,,,,
+"S """"",S_3e59bc8a,Si'... Jim... Riempimi! Voglio bere il tuo sperma!..,,,,,
+"""""",narrator_86f7ec0e,"Sarah finalmente ha espresso i suoi desideri segreti, ma [zergling_s_name!t] avevo altri piani.",,,,,
+"""""",narrator_8c251457,Lo zerg si e ' tolto dalla ragazza e ha fermato il loro bacio osceno. A sua volta continua a rigirarsi la lingua.,,,,,
+"S """"",S_7c76d2be,Non andartene... vieni da me... Ti scoperò la testa con la mia lingua!..,,,,,
+"""""",narrator_d4b36cea,Sarah chiaramente voleva continuare - stava gemendo e i suoi respiri profondi hanno dimostrato che non aveva ancora abbastanza.,,,,,
+"S """"",S_64bcd61c,Ah... andiamo!,,,,,
+"Z """"",Z_115d7560_5,* Skr-skr-skr*,,,,,
+"""""",narrator_65a5a49c,La lingua a rotazione rapida e la faccia bagnata della ragazza hanno generato varie immagini nella mente dello Zergling Cornuto.,,,,,
+"S """"",S_9bbc1724,"Andiamo, Jim... cosa stai aspettando?.. Sono tutta tua.",,,,,
+"""""",narrator_0f7348df,Sarah ha piegato le labbra in un tubo e si e ' imburrata. La sua lingua scivolò nell'aria.,,,,,
+"""""",narrator_d7241be7,"[zergling_s_name!t] girò e alzò la coda, in modo che il suo ano rilassato e leggermente aperto era ora davanti al suo viso.",,,,,
+"S """"",S_f01b8116,Si'... Jim... Vieni qui... Ho imparato cosi ' tanto... TI Faro ' un nodo alla lingua!,,,,,
+"""""",narrator_519ca5f2,Continuava a lamentarsi di lussuria. Le secrezioni della sua vagina in fiamme stavano rapidamente coprendo il letto. La sua lingua sembrava essersi guadagnata una vita.,,,,,
+"Z """"",Z_dc3fe2a9,* Skeern-skeern-skeern*,,,,,
+"""""",narrator_8793df13,[zergling_s_name!t] di nuovo guardato il volto e la lingua promettenti della ragazza arrapata.,,,,,
+"S """"",S_e6b85030,"Ti violenterò la bocca, Raynor!.. Voglio le tue labbra... Che forza...",,,,,
+"Z """"",Z_541d484d,,,,,,
+"S """"",S_a94ef88f,,,,,,
+"""""",narrator_f56e9267,"Lo zerg ha abbassato il suo ano, non permettendole nemmeno di finire di parlare, ma si è ripresa rapidamente e sembrava guadagnare l'entusiasmo di un aspirapolvere.",,,,,
+"S """"",S_727672ec,* Slluuuuurp*,,,,,
+"""""",narrator_ea297a5a,[zergling_s_name!t] abbassò la testa alla vagina completamente bagnata di Sarah e respirò con il suo profumo esasperante.,,,,,
+"Z """"",Z_7eac4917,* Slurp-slurp-slurp*,,,,,
+"""""",narrator_c4c0fafb,"Le labbra morbide accarezzavano il suo anello anale, e la lingua selvaggiamente rotante nel suo ano lo stavano rapidamente portando vicino all'orgasmo.",,,,,
+"Z """"",Z_099a304f,Skrii!!!,,,,,
+"""""",narrator_77822351,Il pene dello zerg ha toccato la spaccatura tra il seno di Sarah e i pensieri completamente svaniti dalla sua testa. Lo zerg ha squintato e si e ' preparato a riempire il suo compagno.,,,,,
+"S """"",S_6cad465f,Mph... Mwah... le tue labbra meritano una punizione!.. Sluuuuuurp ~ ~ ~ ♥,,,,,
+"""""",narrator_2d1e93fb,"La lingua Delle Ragazze ha sbavato spudoratamente attraverso [zergling_s_name!e ' l'ano, che era a malapena in grado di purr dall'intensità del piacere. Sarah, alimentata dai suoi precedenti movimenti della lingua, gli ha aggredito il culo con le labbra e la bocca.",,,,,
+"S """"",S_a2d83f63,Si'... Tutto qui... Ti insegno io... sai che non devi infastidirmi...,,,,,
+"Z """"",Z_dc3fe2a9_1,* Skeern-skeern-skeern*,,,,,
+"S """"",S_59da237e,Ecco a te Raynor! Ti insegno io!!!,,,,,
+"S """"",S_2a0b4826,Sluuuuuurp ~ ~ ~ ♥,,,,,
+"""""",narrator_6302ebaf,,,,,,
+"""""",narrator_dd89486c,"Con un suono saporito di una foca che si rompeva, lo zerg gli strappò il fondo dalle labbra avide di Sarah. Il suo viso si addolora di dispiacere.",,,,,
+"S """"",S_c522f4eb,"Aspetta, dove sei?.. Non abbiamo finito... Dovrei punirti come si deve, tu torna subito qui...",,,,,
+"Z """"",Z_94dec195,* Skyr-skyr-skyr*,,,,,
+"S """"",S_5d12e98a,Andiamo... Ne voglio ancora...,,,,,
+"Z """"",Z_a33fb1ac,Skrii.,,,,,
+"""""",narrator_d8cfd522,"[zergling_s_name!t] ha iniziato a scivolare il suo cazzo teso sul seno della ragazza, lasciando tracce oleose.",,,,,
+"Z """"",Z_81845b8f,,,,,,
+"S """"",S_efbbe93e,Si'... * Slurp-slurp*,,,,,
+"""""",narrator_2e53ee10,La lingua rosa di Sarah si e ' affrettata per l'ano dello zerg.,,,,,
+"Z """"",Z_dc3fe2a9_2,* Skeern-skeern-skeern*,,,,,
+"""""",narrator_57a2ef1a,Il piccolo zerg sentì la rapida lingua del fantasma che ruotava rapidamente nel suo passaggio anale. I suoi occhi si sono quasi capovolti nel piacere.,,,,,
+"""""",narrator_df6bdc10,"Con un altro suono volgare, il culo di zergling si e ' allontanato dalla ragazza.",,,,,
+"S """"",S_a65cc851,Ettaro.. Jim!.. Non sopporti il mio bacio?!,,,,,
+"S """"",S_66f9a7a3,*Lick* *Lick*,,,,,
+"""""",narrator_046fcb4e,Sarah ha provato ad avere la lingua piu ' profonda possibile.,,,,,
+"Z """"",Z_f4ced968,Skiri*,,,,,
+"""""",narrator_427aa911,"La lingua di Sarah e 'stata letteralmente avvolta nel suo ano e frastornata frettolosamente li' dentro - ha accarezzato, pungolato, e anche in qualche modo strano ha spremuto tutto, portando un megatone di piacere al piccolo zergling.",,,,,
+"""""",narrator_96bb22af,[zergling_s_name!t] ha alzato il culo e ha lasciato che la lingua della ragazza accarezzasse il suo ano.,,,,,
+"S """"",S_0d320dfc,Si'! Ti insegnero ' a baciare!..,,,,,
+"S """"",S_8981127f,,,,,,
+"""""",narrator_f83217c9,"Il culo di zerg è sceso di nuovo, interrompendo il fantasma.",,,,,
+"Z """"",Z_09fcdd81,* Skr-skr-skr*,,,,,
+"S """"",S_e69df477,* Mph * * Smack* * Slurp*,,,,,
+"""""",narrator_31b5b6a9,"Con rinnovato vigore, Sarah spinse la lingua nel buco del culo dello zergling.",,,,,
+"S """"",S_1334e6ee,E 'cosi' che baci le ragazze!... Ha-Ah...,,,,,
+"S """"",S_d1b0a1d8,,,,,,
+"""""",narrator_c4f6e786,La ragazza impastò il culo dello zergling con la sua lingua agile.,,,,,
+"Z """"",Z_5d12200e,* Skeereee...*,,,,,
+"""""",narrator_6c70d2bf,"[zergling_s_name!t] era seduto sulla faccia di Sarah con un'aria orgogliosa di lui, periodicamente rabbrividendo.",,,,,
+"S """"",S_aaf6fe64,*Slurp.*Mph * Slurp.*,,,,,
+"""""",narrator_91a03dd4,"Improvvisamente ricordando che Terrans ha bisogno di respirare, lo zergling ha alzato il suo culo dalla faccia della ragazza che ansima. La Saliva del suo ano e ' scivolata nella bocca del proprietario.",,,,,
+"S """"",S_631342de,"Meglio, questo era un bacio forte... Ma posso fare di meglio!",,,,,
+"Z """"",Z_bf8296fe,,,,,,
+"S """"",S_cb8ca3e5,*Leccare.* * Slurp * * Slurp* * Mph*,,,,,
+"""""",narrator_af149225,"[zergling_s_name!t] ha ruotato giocosamente il bacino, massaggiando le labbra di Sarah.",,,,,
+"Z """"",Z_94dec195_1,* Skyr-skyr-skyr*,,,,,
+"""""",narrator_14dec5dc,"Il culo di Zergling scivolò sulla faccia di Sarah, ma il fantasma non voleva ancora arrendersi e alla minima occasione le spinse la lingua nello zerg.",,,,,
+"""""",narrator_876cb236,"Il culo si e 'tolto dalla faccia della ragazza, ma alla fine e' riuscita a leccarlo.",,,,,
+"S """"",S_f19da66b,"Andiamo, Jim!.. E ' tutto quello che hai?!",,,,,
+"S """"",S_36c15d45,*Slurp*,,,,,
+"S """"",S_b03e5be1,Cosa?..,,,,,
+"S """"",S_2ba1428e,* Plop!*,,,,,
+"S """"",S_8b48b64c,Cosa?..,,,,,
+"Z """"",Z_94dec195_2,* Skyr-skyr-skyr*,,,,,
+"""""",narrator_9cbe7022,"Il piccolo Zerg stava schiaffeggiando la faccia di Sarah con il suo culo. Nonostante la situazione insolita, Il fantasma era ancora ansioso di compiacere e la sua lingua ha colpito il bersaglio con brevi colpi precisi.",,,,,
+"S """"",S_1fbfc7b6,Mmmm.... Ti prenderò lo stesso!,,,,,
+"Z """"",Z_1885a188,Graaaaaaaa!!!!,,,,,
+"""""",narrator_16ea94ef,"Lo zergling ha preso una posizione di combattimento e ha lanciato un ruggito feroce, suggerendo che Sarah ha raggiunto il suo obiettivo.",,,,,
+"Z """"",Z_42c885ac,,,,,,
+"""""",narrator_8d479faf,[zergling_s_name!t] ringhiava forte nel piacere. Il suo cazzo ha rilasciato un flusso di sperma murky che si è unito sulla pancia del fantasma.,,,,,
+"S """"",S_486b29ab,"Sì Jim, so che ti piace venire durante i nostri baci appassionati.",,,,,
+"Z """"",Z_548abc83,,,,,,
+"""""",narrator_621e913c,[zergling_s_name!t] ha continuato a riempire la sua lussuriosa femmina. Il flusso pesante e caldo ha svegliato i pensieri e i sentimenti più sporchi della ragazza.,,,,,
+"S """"",S_c92d0052,"Sì, Jim!.. ancora!.. Riempi la tua sporca puttana!..",,,,,
+"Z """"",Z_df19a4b9,,,,,,
+"""""",narrator_97d20b5a,"Finalmente, l'ultima goccia ha lasciato lo Zerg esausto. Ha accettato di salutarsi e si e 'buttato dal letto e si e' diretto al suo posto, lasciando il suo amico in una pozza di sperma.",,,,,
+"""""",narrator_2f41e6f4,La ragazza sta respirando bene. .,,,,,
+"S """"",S_96352883,E ' stato fantastico...{w} torniamo a noi... dormire...,,,,,
+"""""",narrator_96c7af79,Sarah ha dormito bene ed è piena di energia. La sua fame aumentò.,,,,,
+"""""",narrator_e876e253,,,,,,
+"""""",narrator_e876e253_1,,,,,,
+"""""",narrator_e876e253_2,,,,,,
+"S """"",S_9902926e,*Sbadigliare*,,,,,
+"S """"",S_b3072af8,Cosa?.. Cosa?!,,,,,
+"""""",narrator_391a25d7,"Sarah guarda il suo bellissimo corpo ricoperto di sperma secco. Collo, petto, addome - tutto era pesantemente decorato con secrezioni. Lo sperma secco ha sbriciolato la sua pelle liscia in alcuni punti..",,,,,
+"S """"",S_d37a9a60,"Sei stato tu, teppistello?!",,,,,
+"""""",narrator_d41dc1a8,"[zergling_s_name!t] sbadigliata dolcemente, ignorando completamente lo sguardo accusatore del fantasma.",,,,,
+"S """"",S_735f1a11,,,,,,
+"S """"",S_13017ebb,O quel pervertito con un cappello e ' entrato di nascosto qui?!,,,,,
+"S """"",S_33cc1244,Sai dai! Cos'e ' successo qui?,,,,,
+"C """"",C_39a4f3b4,(Sembra che qualcuno sia venuto da te. E sembra molto generoso.),,,,,
+"S """"",S_12d7e3ea,"Sì, lo vedo! Chi era?!",,,,,
+"C """"",C_05597955,"(Come se non lo sapessi. Hai dimenticato i tuoi doveri, e tutto e ' andato come al solito.)",,,,,
+"S """"",S_735f1a11_1,,,,,,
+"C """"",C_d9c0603c,"(A proposito, hai dormito bene stanotte.)",,,,,
+"S """"",S_ed2909b8,"Certo che si', ho a malapena la volonta ' di esistere dopo questi allenamenti...",,,,,
+"S """"",S_604cff98,Bene... Cosa ci faceva qui???,,,,,
+"C """"",C_3716ba26,"(Niente di speciale, non hai assolutamente nulla di cui preoccuparti, hehe.)",,,,,
+"S """"",S_d2195aa8,Ma prima non mi aveva coperto di sperma!,,,,,
+"C """"",C_8eaa6258,(I tempi cambiano... i tempi cambiano.),,,,,
+"S """"",S_c520c7c0,"Si', ma ti comporti in modo strano...",,,,,
+"C """"",C_b1acd46c,"(Non preoccuparti, non e ' niente.)",,,,,
+"S """"",S_2840b3cc,"Niente, si'... Beh, se dici che non e ' niente di grave...",,,,,
+"S """"",S_f9c53685,"(Dannazione, ma non me lo ricordo... Devo essere stato messo KO per bene...)",,,,,
+"C """"",C_cec1c443,"(In realtà è vantaggioso per noi, si può riposare e [zergling_s_name!t] farà tutto da solo.)",,,,,
+"S """"",S_346de4c8,"Si', e domattina devo cercare l'origine dello sperma che trovo su di me... chissà cosa aspettarsi da questo pervertito...",,,,,
+"C """"",C_c9ba042f,"(Dai, guardalo, dorme come un bambino. Come puoi chiamare questo carino un pervertito?)",,,,,
+"S """"",S_aaebe846,Questa 'bella' probabilmente mi ha fatto cose indicibili stasera! E questo e ' ignorare il casino che ha lasciato!,,,,,
+"C """"",C_4aa42ded,(Tutti commettiamo piccoli errori a volte...),,,,,
+"S """"",S_87258f72,"Ok, basta cosi'... gah, ho uno strano sapore in bocca...",,,,,
+"""""",narrator_0fc5e0fd,"[zergling_s_name!t] lentamente si diresse in avanti, scavalcando le spalle di Sarah.",,,,,
+"""""",narrator_0fc5e0fd_1,"[zergling_s_name!t] lentamente si diresse in avanti, scavalcando le spalle di Sarah.",,,,,
+"S """"",S_225fb8f3,Si'... Jim... Vieni da me... Ora posso fare molto di piu'... Un tocco della mia lingua ti farà venire!,,,,,
+"""""",narrator_a24b924b,"La ragazza continuava a gemere di lussuria, con la bocca mezza aperta. I suoi succhi coprivano velocemente il letto.",,,,,
+"Z """"",Z_a58b8242,* Skeern-skeern-skeern*,,,,,
+"""""",narrator_1047a16e,"Sarah si e ' pisciata sulle labbra, implorando per il tanto atteso bacio.",,,,,
+"S """"",S_14df4ef3,"Ti Prego, Jimmy! Solo un piccolo bacio...",,,,,
+"S """"",S_c5b2b4af,,,,,,
+"""""",narrator_0de4beba,"Accompagnato da un suono tipico, le labbra di Sarah hanno finalmente toccato il pene dello zerg.",,,,,
+"""""",narrator_3158a06e,"Con sua sorpresa, non ha sentito le labbra di Jim.",,,,,
+"S """"",S_8143ae84,"Signor Raynor... Credimi, capisco. E non abbiamo molto tempo. Ma non puoi punzecchiarmi in quel modo.",,,,,
+"Z """"",Z_9bbecc46,* Skyr-skyr-skyr*,,,,,
+"S """"",S_ca5b24f9,"Vedo che ha deciso di usare la mia bocca in modo diverso, signor Raynor. Tuttavia, non nego di volerlo... Devo sentire il tuo sapore...",,,,,
+"S """"",S_949496c4,* Slurp-slurp-slurp*,,,,,
+"""""",narrator_6611ce7b,"Lo zerg si e ' purificato nella soddisfazione, soffocando le labbra di Sarah con il suo cazzo. Le sue labbra brillavano dalle sue secrezioni.",,,,,
+"S """"",S_ebe92df9,"Vuoi un altro bacio? Va bene, ecco qua...",,,,,
+"S """"",S_51421994,Sluuuuurp ~ ~ ~ ♥,,,,,
+"Z """"",Z_c62eaacc,{size=40}* SKIIIIRR*{/size},,,,,
+"""""",narrator_fe575e2a,"[zergling_s_name!t] si e ' spinto in avanti dal piacere, trascinando il suo cazzo sulla lingua di Sarah.",,,,,
+"""""",narrator_e07cbf97,"Sarah, confusa, cominciò lentamente a leccare l'invasore, spalmando saliva dappertutto.",,,,,
+"S """"",S_fbd4c580,"Jim, tesoro, sei proprio un birichino. Prima il tuo pene voleva un bacio e ora mi stai sporcando tutta la faccia, moccioso! ~ ♥",,,,,
+"S """"",S_52f5b607,"Vuoi giocare, Raynor, eh? La mia lingua non ti lascia in pace!",,,,,
+"""""",narrator_a6b41361,Un altro movimento e il cazzo zergling era di nuovo davanti alla faccia della ragazza. Sarah l'ha Leccata con la lingua.,,,,,
+"S """"",S_20b338c8,* Slurp * * Slurp * * Slurp*,,,,,
+"""""",narrator_da3aa1fd,"[zergling_s_name!t] stava trascinando il suo cazzo sulla lingua di Sarah, la sua testa ributtata nel piacere.",,,,,
+"Z """"",Z_9bbecc46_1,* Skyr-skyr-skyr*,,,,,
+"""""",narrator_709e55d2,"Le sue morbide labbra sfiorarono delicatamente l'asta del cazzo mentre la sua lingua giocava con la testa, portando lo zerg all'orgasmo.",,,,,
+"S """"",S_6096ad2c,"Il tuo cazzo oggi, a quanto pare... strano. Ma mi piace...",,,,,
+"S """"",S_7fb57ae0,"Lo voglio davvero!... Andiamo, Jim! Voglio il tuo cazzo!!!",,,,,
+"S """"",S_fbb7f143,"# Slurp, y, you're doing it again # # smack.#.. burlone.",,,,,
+"S """"",S_b945f411,Mi prendi in giro? Sei così crudele... Quindi non ti risparmiero'!,,,,,
+"S """"",S_a38b80b1,Prendi questo! *Slurp*,,,,,
+"""""",narrator_9cbef62e,"Sarah ha iniziato a muovere attivamente la lingua, fermandosi quando il pene ha iniziato a gonfiarsi.",,,,,
+"S """"",S_a2714c5a,"Haha! Che ne dici, Jim? Non solo sai giocare, eh?",,,,,
+"S """"",S_3ec53b2d,"Hahaha, dove stai andando? Probabilmente non resisterebbe alla mia pressione. Sapevo che non potevi vincere una battaglia con la mia lingua.",,,,,
+"S """"",S_fb99ad10,"Oh dai, lascia che ti punisca! Giochero ' anche secondo le tue regole...",,,,,
+"Z """"",Z_ff3dc477,Skrii!!!,,,,,
+"S """"",S_48be0395,,,,,,
+"""""",narrator_b3b136da,"Improvvisamente, [zergling_s_name!t] e 'entrata nella bocca di Sarah, tagliandola a meta' frase. La ragazza gemeva-finalmente ha ricevuto il cazzo che aspettava così a lungo, e ha cominciato a leccarlo.",,,,,
+"S """"",S_f965eafc,* Slurp * * Slurp * * Slurp*,,,,,
+"""""",narrator_5d231a48,"[zergling_s_name!t] allontanata, causando un dispiacere a Sarah...",,,,,
+"S """"",S_f3660aa3,Mph... Dove sei? Ho appena iniziato!... * Smack * * Liz * * Mwah * ~ ♥,,,,,
+"Z """"",Z_48bc8deb,Graaa!!,,,,,
+"""""",narrator_2b4ee2cf,"Sarah ha usato spudoratamente la sua lingua per esplorare il cazzo dello zerg, alla ricerca di punti sensibili. La ragazza ha attraversato tutta la lunghezza, fermandosi al glande.",,,,,
+"S """"",S_eca70402,"Yeah... così... Vedi cosa posso fare adesso?... Non sei mai stato succhiato cosi', vero?..",,,,,
+"S """"",S_8b95dd01,Non è tutto! Ora sentirai quello che ho imparato!!!,,,,,
+"Z """"",Z_a58b8242_1,* Skeern-skeern-skeern*,,,,,
+"S """"",S_c7e00a97,MMMMM!!! * Slurp * * Splash* * Slurp*,,,,,
+"""""",narrator_b40eb8aa,"Lo zerg si e ' spinto in avanti, prendendo Sarah alla sprovvista. La ragazza ha emesso una barella, cercando di far fronte al suo riflesso faringeo.",,,,,
+"S """"",S_a2258d50,Sluuuuuurp ~ ~ ~ ♥,,,,,
+"Z """"",Z_9bbecc46_2,* Skyr-skyr-skyr*,,,,,
+"Z """"",Z_25cd039f,,,,,,
+"""""",narrator_f0291b8e,"[zergling_s_name!t] ha iniziato a scuotere lentamente, trascinando il suo pene sulla lingua di Sarah. La Saliva lentamente scivolava via da quest'ultimo.",,,,,
+"S """"",S_7160b5a5,"Il tuo cazzo e 'cosi' buono, Jim... * Slurp-slurp*",,,,,
+"""""",narrator_f2934c48,"Sarah annuiva ritmicamente, si bucava con lo strumento eccitato dello Zerg. La lingua della ragazza e ' salita al palato, stuzzicando la punta gonfia.",,,,,
+"Z """"",Z_a58b8242_2,* Skeern-skeern-skeern*,,,,,
+"""""",narrator_be93f5f5,Il piccolo zerg poteva sentire la bocca stretta del fantasma portandogli un piacere indescrivibile che lo faceva alzare gli occhi al cielo.,,,,,
+"""""",narrator_55168f73,"Con uno schiaffo volgare che lo Zerg ha tirato fuori dalla bocca di Sarah, spalmandole la saliva e il lubrificante sulle labbra e sul mento.",,,,,
+"S """"",S_705f2685,Haaaah.. Jim!.. Non abbiamo ancora finito!!!,,,,,
+"S """"",S_49c9c3fc,* Slurp * * Slurp*,,,,,
+"""""",narrator_1ed5514a,"[zergling_s_name!t] ha iniziato ad aumentare il ritmo, inserendo il suo cazzo il più profondo possibile.",,,,,
+"Z """"",Z_c9424241,Skiri*,,,,,
+"S """"",S_d51d2452,"Sono il migliore, Jimmy? Meglio di qualsiasi puttana che ti abbia mai succhiato via?",,,,,
+"""""",narrator_c10ae9f9,"La lingua di Sarah ha toccato il pene dello zerg in tutti i posti giusti, costringendolo a ululare nel piacere.",,,,,
+"""""",narrator_ec1efd5a,"[zergling_s_name!t] lentamente ha cominciato ad allontanarsi, tirandosi fuori dalla bocca di Sarah.",,,,,
+"S """"",S_02b9841d,"Oh, devo averne ancora!",,,,,
+"S """"",S_48be0395_1,,,,,,
+"""""",narrator_060e5fe4,"Lo zerg ha interrotto Sarah, spingendo il suo cazzo nel suo palato.",,,,,
+"Z """"",Z_5ccca6d2,* Skr-skr-skr*,,,,,
+"S """"",S_c99b162a,* Mph * * Slurp * * Slurp*,,,,,
+"S """"",S_30739053,"Si', Raynor, il tuo cazzo e ' il migliore... Ha-ah...",,,,,
+"S """"",S_23b61786,* Slurp * * Slurp*,,,,,
+"""""",narrator_de7bb1fe,"La ragazza ha fatto meraviglie con la testa, raggiungendo tutti i punti importanti sul cazzo dello zerg.",,,,,
+"Z """"",Z_ffd561b2,* Skeereee...*,,,,,
+"""""",narrator_c626eed0,"[zergling_s_name!t], tremando dappertutto, stava godendo queste manipolazioni.",,,,,
+"S """"",S_3495b1f2,"Vuoi farla finita, Jim? Ma non credo...",,,,,
+"""""",narrator_100484c0,Sarah le ha liberato il cazzo dalla bocca e le ha tirato fuori la lingua.,,,,,
+"S """"",S_e09292f6,"Gli orgasmi vanno guadagnati. Eri un bravo ragazzo, Raynor? O lo eri tu...",,,,,
+"""""",narrator_f97ca19f,"[zergling_s_name!t] sfrontatamente imbavagliato Sarah, spingendo il suo cazzo più lontano nella sua bocca.",,,,,
+"S """"",S_0d8d767f,*Slurp*,,,,,
+"""""",narrator_b89bc999,"Ricordandosi se stesso, lo zerg si piegò indietro, permettendo a Sarah di ingoiare la saliva accumulata.",,,,,
+"S """"",S_cf162256,*Slu-u-u-u-u-U-urp* H-A-A-a...,,,,,
+"S """"",S_956d28c8,"Raynor, ti comporti come un maiale! Non ti hanno insegnato a non interrompere le donne? Anche se è un bel cazzo!",,,,,
+"S """"",S_717d56cb,Ma... puzzi cosi ' profumata... Penso che stavolta chiudero ' gli occhi...,,,,,
+"S """"",S_c2af5ad8,* Slurp-slurp-slurp * ~ ~ ♥,,,,,
+"S """"",S_5e999ef7,"Ah, no... fermo!",,,,,
+"S """"",S_62c9143f,Aspettare...,,,,,
+"S """"",S_3e48ab83,Mettilo li ' dentro.,,,,,
+"Z """"",Z_7e6ab0df,,,,,,
+"S """"",S_622b5d3e,* Slurp * * Slurp* * Mphh*,,,,,
+"""""",narrator_087609f8,"[zergling_s_name!t] ha accelerato il passo, raggiungendo la gola di Sarah con il suo pene.",,,,,
+"Z """"",Z_9bbecc46_3,* Skyr-skyr-skyr*,,,,,
+"""""",narrator_ab322474,"Lo Zerg è sprofondato sempre più nella bocca di Sarah. Ma il fantasma, non volendo arrendersi, colpì i glande con la lingua quando possibile.",,,,,
+"""""",narrator_873690d6,"Il cazzo di zerg le si e 'rivoltato sulla faccia, ma alla fine e' riuscita a leccarlo.",,,,,
+"S """"",S_09495fd3,"Andiamo, Jim!.. E ' tutto quello che hai?! Siete tutti chiacchiere...",,,,,
+"S """"",S_a0d76f85,"Andiamo, Jim!.. E ' tutto quello che hai?!",,,,,
+"S """"",S_a5d95063,*Slurp*,,,,,
+"S """"",S_79707a0a,Cosa?..,,,,,
+"""""",narrator_2a0f3457,* Splash!*,,,,,
+"S """"",S_1e58cf24,Cosa?..,,,,,
+"S """"",S_425333a7,,,,,,
+"S """"",S_79389b22,Sto...,,,,,
+"""""",narrator_7bf14f2f,,,,,,
+"Z """"",Z_9bbecc46_4,* Skyr-skyr-skyr*,,,,,
+"""""",narrator_9c5b128f,"Il piccolo Zerg è stato macchiato le labbra di Sarah con il suo cazzo. Nonostante la situazione insolita, Il fantasma era ancora il migliore e usato brevi ma precisi colpi della sua lingua per giocare con i glande dello zerg.",,,,,
+"S """"",S_b0e79ef1,Mmmm.... Ti prenderò lo stesso!,,,,,
+"Z """"",Z_1429b6d2,Graaaaaaaa!!!!,,,,,
+"""""",narrator_a359b5a4,"Lo zergling ringhiava spaventosamente, entrando nella bocca di Sarah il piu ' lontano possibile. Il suo cazzo pulsa, indicando l'imminenza della scarica.",,,,,
+"""""",narrator_87c5fa3a,"Sarah, sentire la vicinanza dello zerg all'orgasmo, tirata indietro.",,,,,
+"S """"",S_e806f692,"Allora, Jimmy, hai perso la mia lingua, hee-hee-hee? Magari puoi ringraziarlo e finirlo?",,,,,
+"Z """"",Z_ddea48e9,,,,,,
+"""""",narrator_079ee67c,"[zergling_s_name!t] ha spinto il suo cazzo nella bocca di Sarah, versando lo sperma in esso.",,,,,
+"""""",narrator_1057091d,[zergling_s_name!t] ululava ad alta voce nel piacere. Spermatozoi spessi scorrevano giu ' per la gola del fantasma.,,,,,
+"S """"",S_5a127c70,Mmmm!!!! * Slurp * * Slurp * * Slurp*,,,,,
+"Z """"",Z_b0e4c1e2,,,,,,
+"""""",narrator_81c92e7e,"Lo zergling continuava a riempire la sua lussuriosa femmina. Il calore del seme si e ' diffuso nello stomaco di Sarah, facendola tremare di piacere.",,,,,
+"Z """"",Z_b0e4c1e2_1,,,,,,
+"S """"",S_4ad642ef,Sarah ha ingoiato tutto lo sperma viscoso e ha leccato il cazzo che gliel'ha dato.,,,,,
+"S """"",S_dcebc941,*Sorso*,,,,,
+"S """"",S_6218da9d,* Gulp * * Gulp * * Gulp*,,,,,
+"""""",narrator_d999c63d,Sarah ha ingoiato tutto lo sperma viscoso e ha leccato il cazzo che gliel'ha dato.,,,,,
+"Z """"",Z_1d4198c7,Ha-a-A-A-A-A-A-A-A-A!,,,,,
+"S """"",S_513e8bd9,Sei ancora lo stesso maiale... Anche se perche ' sono sorpreso? Hai sempre pensato solo al tuo cazzo.,,,,,
+"S """"",S_21b8c146,"Ma non posso fare a meno di notare che sei diventata migliore, più saporita!... Ti perdono se la prossima volta mi dai un dolcetto alla lingua invece di passarci sopra!!!",,,,,
+"Z """"",Z_cf94f5f3,,,,,,
+"S """"",S_d230c522,Sei venuta cosi ' tanto... Devo saltare la colazione.,,,,,
+"Z """"",Z_5ccca6d2_1,* Skr-skr-skr*,,,,,
+"""""",narrator_b9437b78,"Sniffò con piacere, dirigendosi verso il luogo dove sarebbe stato in grado di continuare il suo sonno dopo aver lasciato la femmina soddisfatta.",,,,,
+"S """"",S_8538496f,"E te ne vai?... Ehi, aspetta, non ho finito di parlare! E perche 'ho cosi' sonno?",,,,,
+"S """"",S_190193f4,E te ne vai?... E perche 'ho cosi' sonno?,,,,,
+"""""",narrator_59f3af63,Il respiro della ragazza si e ' spento e i suoi occhi hanno iniziato a chiudersi lentamente.,,,,,
+"S """"",S_709ce16f,,,,,,
+"S """"",S_e6347c4b,Ho fatto un sogno interessante...,,,,,
+"C """"",C_d41a7a4a,(Vuoi parlarmene?),,,,,
+"S """"",S_574bddf2,Non sei abbastanza grande per queste fantasie! Hee-hee-hee.,,,,,
+"C """"",C_eb121536,(...{w}Molto divertente.),,,,,
+"S """"",S_abe9dde3,Hai detto qualcosa?,,,,,
+"C """"",C_1e4e7575,"(No, è solo una bella mattinata, vero?..)",,,,,
+"S """"",S_ea402394,Davvero... I... non vuoi mangiare?,,,,,
+"""""",narrator_eb7176f6,"La ragazza ha sbattuto le dita sulle labbra, sentendo lubrificante essiccato sopra. La realizzazione lentamente ha cominciato a sorpassarla.",,,,,
+"S """"",S_65006434,,,,,,
+"S """"",S_5d0409c8,Non era un sogno?!,,,,,
+"""""",narrator_cf62c45e,"Lo zerg sbadigliava dolcemente, ignorando completamente le grida del fantasma.",,,,,
+"S """"",S_cc482788,E dorme ancora?! Che diavolo e ' successo?!?,,,,,
+"C """"",C_060b9718,"(Niente di speciale, e perché non dovrebbe dormire? È soddisfatto e felice della vita.)",,,,,
+"S """"",S_02df61ef,Lo vedo!,,,,,
+"C """"",C_5ec7b5e6,(Allora perche ' me lo chiedi?),,,,,
+"S """"",S_65006434_1,,,,,,
+"C """"",C_6da5cf7b,"(Oh, hai dormito profondamente questa notte.)",,,,,
+"S """"",S_fbaa1aed,Certo che l'ho fatto. Non ho piu ' energia per fare altro che dormire dopo questi allenamenti...,,,,,
+"S """"",S_77924b71,Bene... Tutto quello che ho sognato era reale???,,,,,
+"C """"",C_cef46987,"(Forse. Non lo so. Non mi hai mai detto cosa sognavi. Quindi, come si dice ... non lo so, non mi interessa.) #traduzione più vicina",,,,,
+"C """"",C_972de888,(Forse. Non lo so. Non mi hai mai detto cosa sognavi. Quindi non lo so.),,,,,
+"S """"",S_67c08b7f,Yeah... come se ci credessi.,,,,,
+"C """"",C_76745a28,Sei tu che hai ignorato i loro doveri. Allora perche ' sei sorpresa?),,,,,
+"C """"",C_bfb7225a,"(Ma se si guarda questa situazione da un'altra angolazione, è vantaggioso per noi. È possibile riposare e [zergling_s_name!t] si prenderà cura di se stesso.)",,,,,
+"S """"",S_7fbdf03e,Si ' e posso anche svegliarmi con la consapevolezza di essere stato nutrito di sperma mentre dormivo.,,,,,
+"C """"",C_d02cb067,Immagina quanto tempo risparmieremmo con le colazioni! E ' un buon affare!),,,,,
+"S """"",S_81dfb508,,,,,,
+"C """"",C_b3cf6444,(Cosa? Pensaci. E ' davvero una grande situazione per noi.),,,,,
+"S """"",S_5a0f2896,"Smettila, idiota...",,,,,

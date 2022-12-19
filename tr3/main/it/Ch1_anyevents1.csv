@@ -1,609 +1,609 @@
-"location","source","target","ID","fuzzy","context","translator_comments","developer_comments"
-"S """"","S_852771bb","","","False","","",""
-"S """"","S_5477b212","","","False","","",""
-"S """"","S_3c051d1e","","","False","","",""
-"S """"","S_4917f72b","","","False","","",""
-"S """"","S_7e3f4d7b","","","False","","",""
-"S """"","S_925cb416","","","False","","",""
-"S """"","S_cdd5ba4e","","","False","","",""
-"""""","narrator_89f91884","","","False","","",""
-"S """"","S_cdd5ba4e_1","","","False","","",""
-"S """"","S_852771bb_1","","","False","","",""
-"S """"","S_5477b212_1","","","False","","",""
-"""""","narrator_631162b1","","","False","","",""
-"""""","narrator_7d869b9e","","","False","","",""
-"""""","narrator_7abc3db7","","","False","","",""
-"S """"","S_b78759b7","","","False","","",""
-"S """"","S_65e7440e","","","False","","",""
-"S """"","S_c5835510","","","False","","",""
-"S """"","S_d059ace7","","","False","","",""
-"S """"","S_0cf94554","","","False","","",""
-"S """"","S_7318e564","","","False","","",""
-"S """"","S_c2ced3f0","","","False","","",""
-"S """"","S_87b11d2c","","","False","","",""
-"S """"","S_84838904","","","False","","",""
-"S """"","S_658e9166","","","False","","",""
-"S """"","S_563714ef","","","False","","",""
-"S """"","S_fbb1f136","","","False","","",""
-"S """"","S_7d4bbae0","","","False","","",""
-"A """"","A_427eb046","","","False","","",""
-"S """"","S_b32e31f6","","","False","","",""
-"A """"","A_b75dfd6d","","","False","","",""
-"A """"","A_0060f04c","","","False","","",""
-"S """"","S_8d552cc6","","","False","","",""
-"A """"","A_8089bd18","","","False","","",""
-"S """"","S_49ae82a9","","","False","","",""
-"S """"","S_882e633b","","","False","","",""
-"A """"","A_491ac6a7","","","False","","",""
-"S """"","S_ee2fde1a","","","False","","",""
-"A """"","A_cce36f11","","","False","","",""
-"S """"","S_1cf196d9","","","False","","",""
-"A """"","A_b6147530","","","False","","",""
-"S """"","S_470958ae","","","False","","",""
-"A """"","A_6fc6df10","","","False","","",""
-"S """"","S_799d9a8c","","","False","","",""
-"S """"","S_1d0a6776","","","False","","",""
-"S """"","S_08712495","","","False","","",""
-"S """"","S_c929907e","","","False","","",""
-"S """"","S_6c374a85","","","False","","",""
-"S """"","S_2dc1f4e5","","","False","","",""
-"S """"","S_1d0a6776_1","","","False","","",""
-"S """"","S_8edec579","","","False","","",""
-"S """"","S_1d0a6776_2","","","False","","",""
-"S """"","S_557c017d","","","False","","",""
-"C """"","C_50eac14c","","","False","","",""
-"S """"","S_1d0a6776_3","","","False","","",""
-"C """"","C_0eb929cf","","","False","","",""
-"S """"","S_49ae82a9_1","","","False","","",""
-"S """"","S_f36dabee","","","False","","",""
-"C """"","C_d9d3ce23","","","False","","",""
-"S """"","S_277c24ed","","","False","","",""
-"""""","narrator_bd20daf1","","","False","","",""
-"S """"","S_4065bc22","","","False","","",""
-"""""","narrator_bd20daf1_1","","","False","","",""
-"S """"","S_c5d99ba1","","","False","","",""
-"A """"","A_31bd8cee","","","False","","",""
-"A """"","A_2b8172de","","","False","","",""
-"A """"","A_ffe39226","","","False","","",""
-"A """"","A_2b96a630","","","False","","",""
-"A """"","A_7bf7b01d","","","False","","",""
-"S """"","S_6c598abd","","","False","","",""
-"A """"","A_feca4e7f","","","False","","",""
-"""""","narrator_6476baa4","","","False","","",""
-"A """"","A_de4401bc","","","False","","",""
-"A """"","A_1b17e9ac","","","False","","",""
-"S """"","S_2ae48edf","","","False","","",""
-"A """"","A_bb912820","","","False","","",""
-"A """"","A_6c1c9f49","","","False","","",""
-"A """"","A_312cba36","","","False","","",""
-"S """"","S_474c438b","","","False","","",""
-"S """"","S_dc797266","","","False","","",""
-"A """"","A_f207d0d4","","","False","","",""
-"S """"","S_99cca41f","","","False","","",""
-"""""","narrator_16bfaff6","","","False","","",""
-"""""","narrator_4da74ac1","","","False","","",""
-"A """"","A_0af3228f","","","False","","",""
-"S """"","S_bb1ed975","","","False","","",""
-"A """"","A_6e090b18","","","False","","",""
-"S """"","S_5e4f73ca","","","False","","",""
-"A """"","A_7f4abe8b","","","False","","",""
-"S """"","S_2f958db3","","","False","","",""
-"A """"","A_d2053fe6","","","False","","",""
-"A """"","A_d2053fe6_1","","","False","","",""
-"S """"","S_f421f718","","","False","","",""
-"A """"","A_87ad5682","","","False","","",""
-"S """"","S_f8d7b0b9","","","False","","",""
-"A """"","A_8790f301","","","False","","",""
-"S """"","S_1ffd4e7c","","","False","","",""
-"A """"","A_8f8d4446","","","False","","",""
-"S """"","S_a7f88017","","","False","","",""
-"S """"","S_2d8778fb","","","False","","",""
-"A """"","A_8ea29100","","","False","","",""
-"S """"","S_217a5c2e","","","False","","",""
-"A """"","A_40c973f9","","","False","","",""
-"A """"","A_283272fc","","","False","","",""
-"A """"","A_36f122c2","","","False","","",""
-"S """"","S_6be55446","","","False","","",""
-"A """"","A_baf19de8","","","False","","",""
-"A """"","A_48b58fc4","","","False","","",""
-"S """"","S_08acd895","","","False","","",""
-"A """"","A_20210e14","","","False","","",""
-"S """"","S_caba9b11","","","False","","",""
-"A """"","A_312f5fa0","","","False","","",""
-"S """"","S_79cc70c5","","","False","","",""
-"S """"","S_038a9f0f","","","False","","",""
-"A """"","A_ace0399a","","","False","","",""
-"A """"","A_00f92511","","","False","","",""
-"A """"","A_42be79bf","","","False","","",""
-"A """"","A_bf397f3a","","","False","","",""
-"A """"","A_36c1abec","","","False","","",""
-"A """"","A_fd65172f","","","False","","",""
-"S """"","S_1ffd4e7c_1","","","False","","",""
-"A """"","A_4e1acd43","","","False","","",""
-"S """"","S_1ffd4e7c_2","","","False","","",""
-"A """"","A_d96617aa","","","False","","",""
-"S """"","S_352efd7b","","","False","","",""
-"A """"","A_b36891ad","","","False","","",""
-"A """"","A_6a46a566","","","False","","",""
-"S """"","S_60ab6621","","","False","","",""
-"A """"","A_e21dcd63","","","False","","",""
-"S """"","S_caceed92","","","False","","",""
-"A """"","A_55c6707e","","","False","","",""
-"A """"","A_ec3e771b","","","False","","",""
-"S """"","S_1eda4cbb","","","False","","",""
-"A """"","A_9b00b8be","","","False","","",""
-"S """"","S_b0c46045","","","False","","",""
-"S """"","S_79a62c84","","","False","","",""
-"A """"","A_a330f5a7","","","False","","",""
-"S """"","S_6bff196e","","","False","","",""
-"A """"","A_89e74de6","","","False","","",""
-"A """"","A_33731fa0","","","False","","",""
-"A """"","A_a9101880","","","False","","",""
-"A """"","A_fe771622","","","False","","",""
-"A """"","A_522b536f","","","False","","",""
-"A """"","A_72e139d6","","","False","","",""
-"A """"","A_5cbc89d6","","","False","","",""
-"A """"","A_d897f4c5","","","False","","",""
-"S """"","S_1ffd4e7c_3","","","False","","",""
-"A """"","A_3aaea0ba","","","False","","",""
-"S """"","S_e2aaf4c4","","","False","","",""
-"A """"","A_d2053fe6_2","","","False","","",""
-"A """"","A_e6cf960d","","","False","","",""
-"S """"","S_25571fa6","","","False","","",""
-"A """"","A_54f467f7","","","False","","",""
-"S """"","S_09da4abc","","","False","","",""
-"A """"","A_a262d379","","","False","","",""
-"S """"","S_3ec61595","","","False","","",""
-"A """"","A_d2053fe6_3","","","False","","",""
-"A """"","A_7aff70f7","","","False","","",""
-"S """"","S_3c777731","","","False","","",""
-"A """"","A_939bd3c2","","","False","","",""
-"S """"","S_5cf7670c","","","False","","",""
-"A """"","A_93f3bc1c","","","False","","",""
-"S """"","S_da612562","","","False","","",""
-"A """"","A_d2053fe6_4","","","False","","",""
-"A """"","A_10a42446","","","False","","",""
-"""""","narrator_77d24a6d","","","False","","",""
-"S """"","S_580999b4","","","False","","",""
-"S """"","S_79b6a84f","","","False","","",""
-"S """"","S_6d60bce5","","","False","","",""
-"A """"","A_a4f2d3fd","","","False","","",""
-"S """"","S_b112bab5","","","False","","",""
-"A """"","A_0c09cef4","","","False","","",""
-"S """"","S_1ffd4e7c_4","","","False","","",""
-"S """"","S_66e37cdf","","","False","","",""
-"A """"","A_602e069c","","","False","","",""
-"S """"","S_b84db1d2","","","False","","",""
-"A """"","A_b50715e5","","","False","","",""
-"S """"","S_1ffd4e7c_5","","","False","","",""
-"S """"","S_9198b1c7","","","False","","",""
-"A """"","A_44113284","","","False","","",""
-"S """"","S_39711361","","","False","","",""
-"""""","narrator_05c4ffbd","","","False","","",""
-"S """"","S_c1469fe7","","","False","","",""
-"A """"","A_3929f3ce","","","False","","",""
-"S """"","S_725f62ac","","","False","","",""
-"A """"","A_9f8bc148","","","False","","",""
-"S """"","S_1dddae76","","","False","","",""
-"S """"","S_92324b98","","","False","","",""
-"A """"","A_36ab3b99","","","False","","",""
-"S """"","S_427442df","","","False","","",""
-"S """"","S_64e17915","","","False","","",""
-"S """"","S_1d2e062a","","","False","","",""
-"A """"","A_f1f3a261","","","False","","",""
-"S """"","S_371d04a7","","","False","","",""
-"S """"","S_5a54517c","","","False","","",""
-"S """"","S_3ce6aaf5","","","False","","",""
-"A """"","A_94b66993","","","False","","",""
-"S """"","S_ee18767c","","","False","","",""
-"A """"","A_d948be72","","","False","","",""
-"A """"","A_5bdeaba9","","","False","","",""
-"S """"","S_88cfc2dc","","","False","","",""
-"A """"","A_e58e832e","","","False","","",""
-"S """"","S_e8dbc685","","","False","","",""
-"A """"","A_9ffe8cb9","","","False","","",""
-"S """"","S_9634cac3","","","False","","",""
-"C """"","C_16bb48dd","","","False","","",""
-"S """"","S_7a5c8472","","","False","","",""
-"A """"","A_94607ffc","","","False","","",""
-"S """"","S_85cb2d67","","","False","","",""
-"A """"","A_57f9ec5a","","","False","","",""
-"S """"","S_19046c2f","","","False","","",""
-"A """"","A_e4faf5be","","","False","","",""
-"A """"","A_f9c4e6fc","","","False","","",""
-"""""","narrator_113d8ed2","","","False","","",""
-"S """"","S_12d30b72","","","False","","",""
-"A """"","A_d2053fe6_5","","","False","","",""
-"A """"","A_18c9effc","","","False","","",""
-"S """"","S_b55abb0a","","","False","","",""
-"A """"","A_1deaa41e","","","False","","",""
-"""""","narrator_06cc8861","","","False","","",""
-"A """"","A_f20cfa16","","","False","","",""
-"S """"","S_bfea50d8","","","False","","",""
-"A """"","A_d2053fe6_6","","","False","","",""
-"A """"","A_6fee5508","","","False","","",""
-"S """"","S_8f8d3a0f","","","False","","",""
-"A """"","A_ef94d950","","","False","","",""
-"S """"","S_0eb0126c","","","False","","",""
-"A """"","A_01014611","","","False","","",""
-"A """"","A_98aa7faf","","","False","","",""
-"""""","narrator_ecf21c04","","","False","","",""
-"S """"","S_1ffd4e7c_6","","","False","","",""
-"A """"","A_fd088b36","","","False","","",""
-"S """"","S_1ffd4e7c_7","","","False","","",""
-"A """"","A_f3600491","","","False","","",""
-"S """"","S_1ffd4e7c_8","","","False","","",""
-"S """"","S_5a06994e","","","False","","",""
-"A """"","A_826e7c2d","","","False","","",""
-"A """"","A_cef498e5","","","False","","",""
-"S """"","S_0648200e","","","False","","",""
-"A """"","A_a3589088","","","False","","",""
-"S """"","S_1d1e32d8","","","False","","",""
-"A """"","A_0295eb71","","","False","","",""
-"S """"","S_1ffd4e7c_9","","","False","","",""
-"""""","narrator_f08ad23b","","","False","","",""
-"Aside7 """"","Aside7_84e0a473","","","False","","",""
-"S """"","S_9b0d16c4","","","False","","",""
-"A """"","A_a055f765","","","False","","",""
-"A """"","A_2b0cf9c7","","","False","","",""
-"A """"","A_79e19e9d","","","False","","",""
-"S """"","S_075ea30b","","","False","","",""
-"A """"","A_aeefebc3","","","False","","",""
-"S """"","S_dfca27de","","","False","","",""
-"A """"","A_d2053fe6_7","","","False","","",""
-"A """"","A_a2817f7f","","","False","","",""
-"S """"","S_7ada2fb7","","","False","","",""
-"A """"","A_b6d0cde3","","","False","","",""
-"S """"","S_df9f7719","","","False","","",""
-"A """"","A_027357cb","","","False","","",""
-"S """"","S_9f332721","","","False","","",""
-"A """"","A_2737359c","","","False","","",""
-"S """"","S_baaefbc8","","","False","","",""
-"A """"","A_9f29090f","","","False","","",""
-"A """"","A_91047862","","","False","","",""
-"S """"","S_ba3d025c","","","False","","",""
-"S """"","S_4301d13f","","","False","","",""
-"S """"","S_21482099","","","False","","",""
-"S """"","S_a39d677e","","","False","","",""
-"A """"","A_da2378cc","","","False","","",""
-"S """"","S_cb2d4d06","","","False","","",""
-"A """"","A_d2a8352c","","","False","","",""
-"S """"","S_e15c85de","","","False","","",""
-"""""","narrator_3a03b5c3","","","False","","",""
-"S """"","S_0f7a113d","","","False","","",""
-"A """"","A_1e203a9d","","","False","","",""
-"A """"","A_6a19aa0b","","","False","","",""
-"S """"","S_1ffd4e7c_10","","","False","","",""
-"C """"","C_c61503f1","","","False","","",""
-"S """"","S_0cbcee8c","","","False","","",""
-"A """"","A_892a81b7","","","False","","",""
-"S """"","S_ba3d025c_1","","","False","","",""
-"S """"","S_f8042096","","","False","","",""
-"A """"","A_bfb92408","","","False","","",""
-"S """"","S_8ffd8f45","","","False","","",""
-"A """"","A_16ad5d94","","","False","","",""
-"""""","narrator_0580c78e","","","False","","",""
-"A """"","A_16a2477a","","","False","","",""
-"""""","narrator_6476baa4_1","","","False","","",""
-"A """"","A_35484e5c","","","False","","",""
-"A """"","A_178161b2","","","False","","",""
-"S """"","S_1ffd4e7c_11","","","False","","",""
-"S """"","S_06c21818","","","False","","",""
-"A """"","A_7688c3c4","","","False","","",""
-"S """"","S_84d40e12","","","False","","",""
-"S """"","S_eaf768c2","","","False","","",""
-"A """"","A_5c2f82a2","","","False","","",""
-"S """"","S_1ffd4e7c_12","","","False","","",""
-"S """"","S_bf1d294e","","","False","","",""
-"""""","narrator_6476baa4_2","","","False","","",""
-"A """"","A_36f27a46","","","False","","",""
-"S """"","S_427442df_1","","","False","","",""
-"S """"","S_6924228a","","","False","","",""
-"A """"","A_d897f4c5_1","","","False","","",""
-"A """"","A_51c17c37","","","False","","",""
-"S """"","S_427442df_2","","","False","","",""
-"A """"","A_b1c5e278","","","False","","",""
-"S """"","S_cc2f865c","","","False","","",""
-"S """"","S_991823f2","","","False","","",""
-"S """"","S_e6cf59ea","","","False","","",""
-"S """"","S_173f4200","","","False","","",""
-"A """"","A_e61dbd28","","","False","","",""
-"""""","narrator_6476baa4_3","","","False","","",""
-"S """"","S_80c9f1ac","","","False","","",""
-"A """"","A_4f8d8d5e","","","False","","",""
-"""""","narrator_27bc037f","","","False","","",""
-"C """"","C_cc0c3ad2","","","False","","",""
-"S """"","S_d9ca907a","","","False","","",""
-"C """"","C_8ca88b63","","","False","","",""
-"S """"","S_9bdbedf2","","","False","","",""
-"C """"","C_efc7870e","","","False","","",""
-"C """"","C_ba364255","","","False","","",""
-"S """"","S_6a75d821","","","False","","",""
-"S """"","S_de22a699","","","False","","",""
-"C """"","C_671b630d","","","False","","",""
-"S """"","S_011a14fe","","","False","","",""
-"C """"","C_0c6e45f7","","","False","","",""
-"S """"","S_e176de97","","","False","","",""
-"C """"","C_26ffe91f","","","False","","",""
-"S """"","S_fb4a864b","","","False","","",""
-"C """"","C_1b368c48","","","False","","",""
-"S """"","S_dd33cf5b","","","False","","",""
-"C """"","C_04a77f52","","","False","","",""
-"S """"","S_08bd865f","","","False","","",""
-"S """"","S_d9ca907a_1","","","False","","",""
-"C """"","C_f79df7c3","","","False","","",""
-"S """"","S_d9ca907a_2","","","False","","",""
-"C """"","C_f79df7c3_1","","","False","","",""
-"S """"","S_1a55a31c","","","False","","",""
-"C """"","C_1e9f9b76","","","False","","",""
-"C """"","C_1c03acab","","","False","","",""
-"S """"","S_509746d0","","","False","","",""
-"C """"","C_364aa2f3","","","False","","",""
-"S """"","S_b558c81e","","","False","","",""
-"C """"","C_acfe921a","","","False","","",""
-"C """"","C_bcb19d7f","","","False","","",""
-"S """"","S_5efdea6a","","","False","","",""
-"C """"","C_1da129b9","","","False","","",""
-"S """"","S_0a9a67c1","","","False","","",""
-"S """"","S_6e0db8fd","","","False","","",""
-"C """"","C_518e6379","","","False","","",""
-"S """"","S_e61e7b76","","","False","","",""
-"C """"","C_7abd18fa","","","False","","",""
-"S """"","S_d9852f74","","","False","","",""
-"C """"","C_f79df7c3_2","","","False","","",""
-"S """"","S_13f5e99b","","","False","","",""
-"S """"","S_3e9e7066","","","False","","",""
-"C """"","C_7c5488c2","","","False","","",""
-"S """"","S_24e7c471","","","False","","",""
-"C """"","C_9535050e","","","False","","",""
-"S """"","S_b638b886","","","False","","",""
-"C """"","C_2a2a8239","","","False","","",""
-"S """"","S_979bc466","","","False","","",""
-"S """"","S_07cdd20a","","","False","","",""
-"C """"","C_f8c1985a","","","False","","",""
-"S """"","S_5cf672e7","","","False","","",""
-"C """"","C_acf25295","","","False","","",""
-"S """"","S_8ed6d58b","","","False","","",""
-"C """"","C_0d1f22ec","","","False","","",""
-"""""","narrator_9a4fd3cb","","","False","","",""
-"S """"","S_f7462b0d","","","False","","",""
-"""""","narrator_9a4fd3cb_1","","","False","","",""
-"C """"","C_5183ea0d","","","False","","",""
-"S """"","S_25a0dc43","","","False","","",""
-"C """"","C_51b6e3b6","","","False","","",""
-"S """"","S_89c09d67","","","False","","",""
-"C """"","C_c50e4888","","","False","","",""
-"S """"","S_b5405e79","","","False","","",""
-"C """"","C_68a20018","","","False","","",""
-"S """"","S_ff7cc0b8","","","False","","",""
-"C """"","C_ef397b77","","","False","","",""
-"S """"","S_207097a3","","","False","","",""
-"""""","narrator_9a4fd3cb_2","","","False","","",""
-"""""","narrator_8575206b","","","False","","",""
-"S """"","S_4b3d396c","","","False","","",""
-"S """"","S_3cd2e2f5","","","False","","",""
-"S """"","S_47c9e20e","","","False","","",""
-"C """"","C_a416a09b","","","False","","",""
-"S """"","S_07a8f058","","","False","","",""
-"S """"","S_4839af64","","","False","","",""
-"C """"","C_77ac0bba","","","False","","",""
-"S """"","S_00b798b2","","","False","","",""
-"S """"","S_1da067b1","","","False","","",""
-"S """"","S_a4d21dcc","","","False","","",""
-"S """"","S_4b3d396c_1","","","False","","",""
-"S """"","S_634c0879","","","False","","",""
-"C """"","C_33e768cb","","","False","","",""
-"S """"","S_4b3d396c_2","","","False","","",""
-"C """"","C_543e2b07","","","False","","",""
-"""""","narrator_9a4fd3cb_3","","","False","","",""
-"""""","narrator_dff529f2","","","False","","",""
-"S """"","S_15024dc3","","","False","","",""
-"C """"","C_253f0903","","","False","","",""
-"S """"","S_8cb63247","","","False","","",""
-"S """"","S_5d779f92","","","False","","",""
-"C """"","C_fe838586","","","False","","",""
-"S """"","S_b5405e79_1","","","False","","",""
-"C """"","C_2d8c3f92","","","False","","",""
-"S """"","S_2525da17","","","False","","",""
-"C """"","C_f657b5ac","","","False","","",""
-"S """"","S_4620b250","","","False","","",""
-"C """"","C_9156bd5d","","","False","","",""
-"S """"","S_af636995","","","False","","",""
-"C """"","C_ce08841b","","","False","","",""
-"S """"","S_0c4544e1","","","False","","",""
-"C """"","C_133ef811","","","False","","",""
-"S """"","S_395112ce","","","False","","",""
-"C """"","C_8ec9871a","","","False","","",""
-"S """"","S_7dc8a600","","","False","","",""
-"C """"","C_36159b31","","","False","","",""
-"S """"","S_1406805c","","","False","","",""
-"C """"","C_d82796d9","","","False","","",""
-"S """"","S_2d60ebc7","","","False","","",""
-"S """"","S_bb6c8cbd","","","False","","",""
-"C """"","C_ff8ec2c8","","","False","","",""
-"S """"","S_8442dc3c","","","False","","",""
-"C """"","C_c02ac612","","","False","","",""
-"S """"","S_7a9e61e9","","","False","","",""
-"C """"","C_9f899351","","","False","","",""
-"S """"","S_6337edd7","","","False","","",""
-"C """"","C_ee410885","","","False","","",""
-"S """"","S_7b2ead9f","","","False","","",""
-"C """"","C_6864278f","","","False","","",""
-"S """"","S_854c3b2e","","","False","","",""
-"C """"","C_684c713e","","","False","","",""
-"S """"","S_508d7d76","","","False","","",""
-"C """"","C_eff95dd8","","","False","","",""
-"""""","narrator_bb152f80","","","False","","",""
-"""""","narrator_ce1cb4cb","","","False","","",""
-"S """"","S_cbb1c024","","","False","","",""
-"C """"","C_227bd5ed","","","False","","",""
-"""""","narrator_dcdecd65","","","False","","",""
-"S """"","S_bd2228b8","","","False","","",""
-"C """"","C_a5241ef5","","","False","","",""
-"S """"","S_305a389f","","","False","","",""
-"C """"","C_ff010e04","","","False","","",""
-"S """"","S_74586974","","","False","","",""
-"C """"","C_c22a04ab","","","False","","",""
-"S """"","S_13f5e99b_1","","","False","","",""
-"S """"","S_c8b34684","","","False","","",""
-"C """"","C_a6a1f36c","","","False","","",""
-"S """"","S_2db02a2b","","","False","","",""
-"C """"","C_def13f33","","","False","","",""
-"S """"","S_6bfbc933","","","False","","",""
-"C """"","C_f79df7c3_3","","","False","","",""
-"C """"","C_650652e8","","","False","","",""
-"S """"","S_ca0c9560","","","False","","",""
-"S """"","S_74fa1459","","","False","","",""
-"C """"","C_9d5340e0","","","False","","",""
-"S """"","S_98de6804","","","False","","",""
-"C """"","C_c5136f1f","","","False","","",""
-"S """"","S_bc9295ee","","","False","","",""
-"C """"","C_8b937487","","","False","","",""
-"S """"","S_13f5e99b_2","","","False","","",""
-"S """"","S_d6a5c862","","","False","","",""
-"C """"","C_6b393751","","","False","","",""
-"S """"","S_090b57b8","","","False","","",""
-"C """"","C_16450617","","","False","","",""
-"C """"","C_e3173076","","","False","","",""
-"S """"","S_5d0c27fa","","","False","","",""
-"C """"","C_0b870bde","","","False","","",""
-"S """"","S_b5405e79_2","","","False","","",""
-"C """"","C_2c8b3e91","","","False","","",""
-"S """"","S_b5405e79_3","","","False","","",""
-"S """"","S_f036487f","","","False","","",""
-"S """"","S_4efe9043","","","False","","",""
-"C """"","C_8420f2ba","","","False","","",""
-"S """"","S_24423990","","","False","","",""
-"C """"","C_62de3664","","","False","","",""
-"S """"","S_d6823457","","","False","","",""
-"C """"","C_ed0e75eb","","","False","","",""
-"S """"","S_ba4c045f","","","False","","",""
-"C """"","C_8326c5a0","","","False","","",""
-"S """"","S_236570ca","","","False","","",""
-"C """"","C_d3c7e017","","","False","","",""
-"S """"","S_a85fb316","","","False","","",""
-"S """"","S_fc784b69","","","False","","",""
-"C """"","C_eb512b90","","","False","","",""
-"S """"","S_c9756c94","","","False","","",""
-"C """"","C_22b340cf","","","False","","",""
-"S """"","S_c8c9b224","","","False","","",""
-"""""","narrator_30b3fc8a","","","False","","",""
-"C """"","C_006aeaea","","","False","","",""
-"S """"","S_801fbaf1","","","False","","",""
-"C """"","C_08c6c0c6","","","False","","",""
-"S """"","S_df6a575c","","","False","","",""
-"C """"","C_6160e689","","","False","","",""
-"S """"","S_10c86be5","","","False","","",""
-"C """"","C_6e055162","","","False","","",""
-"C """"","C_4d8f7714","","","False","","",""
-"S """"","S_70280cf0","","","False","","",""
-"C """"","C_81e36722","","","False","","",""
-"S """"","S_b5405e79_4","","","False","","",""
-"C """"","C_8a63cee5","","","False","","",""
-"C """"","C_672f6578","","","False","","",""
-"C """"","C_5fd376ce","","","False","","",""
-"S """"","S_bbecf585","","","False","","",""
-"C """"","C_04610e59","","","False","","",""
-"S """"","S_7e5de993","","","False","","",""
-"C """"","C_34c102c4","","","False","","",""
-"S """"","S_0f7426ce","","","False","","",""
-"C """"","C_26bd2d54","","","False","","",""
-"S """"","S_335303e3","","","False","","",""
-"S """"","S_3146d571","","","False","","",""
-"C """"","C_eef54bcb","","","False","","",""
-"S """"","S_8869d2c7","","","False","","",""
-"C """"","C_09d8f6cc","","","False","","",""
-"S """"","S_13f5e99b_3","","","False","","",""
-"S """"","S_f7b003fe","","","False","","",""
-"S """"","S_e10f46c8","","","False","","",""
-"C """"","C_eff8daae","","","False","","",""
-"S """"","S_13f5e99b_4","","","False","","",""
-"S """"","S_85426a6b","","","False","","",""
-"C """"","C_ad12dc02","","","False","","",""
-"S """"","S_13f5e99b_5","","","False","","",""
-"S """"","S_e1c40282","","","False","","",""
-"""""","narrator_cdff0e62","","","False","","",""
-"S """"","S_18112550","","","False","","",""
-"S """"","S_18112550_1","","","False","","",""
-"S """"","S_d981f642","","","False","","",""
-"S """"","S_91662bb7","","","False","","",""
-"S """"","S_54367a57","","","False","","",""
-"S """"","S_d4194274","","","False","","",""
-"S """"","S_5a05b894","","","False","","",""
-"S """"","S_9f213e87","","","False","","",""
-"""""","narrator_8c7fe560","","","False","","",""
-"""""","narrator_8c7fe560_1","","","False","","",""
-"""""","narrator_c300bf5e","","","False","","",""
-"""""","narrator_5385255d","","","False","","",""
-"S """"","S_d49a5cdb","","","False","","",""
-"""""","narrator_cb83a788","","","False","","",""
-"S """"","S_18112550_2","","","False","","",""
-"S """"","S_4ab6a76e","","","False","","",""
-"S """"","S_13f5e99b_6","","","False","","",""
-"S """"","S_4ab6a76e_1","","","False","","",""
-"S """"","S_13f5e99b_7","","","False","","",""
-"S """"","S_4ab6a76e_2","","","False","","",""
-"S """"","S_13f5e99b_8","","","False","","",""
-"S """"","S_3a32f78d","","","False","","",""
-"S """"","S_16fa9890","","","False","","",""
-"""""","narrator_020cd06b","","","False","","",""
-"S """"","S_4ab6a76e_3","","","False","","",""
-"S """"","S_13f5e99b_9","","","False","","",""
-"S """"","S_4ab6a76e_4","","","False","","",""
-"S """"","S_13f5e99b_10","","","False","","",""
-"C """"","C_878348a0","","","False","","",""
-"S """"","S_54f9cf59","","","False","","",""
-"C """"","C_ee4bb7df","","","False","","",""
-"S """"","S_0ba9a13c","","","False","","",""
-"C """"","C_b3ff9919","","","False","","",""
-"S """"","S_56ab486c","","","False","","",""
-"C """"","C_cc749d69","","","False","","",""
-"S """"","S_4ab6a76e_5","","","False","","",""
-"S """"","S_13f5e99b_11","","","False","","",""
-"""""","narrator_85356154","","","False","","",""
-"""""","narrator_18077094","","","False","","",""
-"S """"","S_4d71ffb8","","","False","","",""
-"S """"","S_e07e1e80","","","False","","",""
-"C """"","C_5a3b9a93","","","False","","",""
-"S """"","S_2249893b","","","False","","",""
-"C """"","C_8f8ee895","","","False","","",""
-"""""","narrator_f3fe2dcc","","","False","","",""
-"""""","narrator_c550dd1e","","","False","","",""
-"""""","narrator_d97b856d","","","False","","",""
-"""""","narrator_cd6bf501","","","False","","",""
-"""""","narrator_a281d5db","","","False","","",""
-"""""","narrator_c0ac44d1","","","False","","",""
-"""""","narrator_65efb004","","","False","","",""
-"""""","narrator_86a800a2","","","False","","",""
-"""""","narrator_6d573238","","","False","","",""
-"""""","narrator_1fe3058f","","","False","","",""
-"S """"","S_96bbad04","","","False","","",""
-"S """"","S_7b756d74","","","False","","",""
-"""""","narrator_410b2b56","","","False","","",""
-"S """"","S_8a3c9442","","","False","","",""
-"S """"","S_d68ac252","","","False","","",""
-"S """"","S_42a6853e","","","False","","",""
-"S """"","S_5d5e1ec4","","","False","","",""
-"S """"","S_f94c48e9","","","False","","",""
-"S """"","S_92cbd270","","","False","","",""
-"S """"","S_d84fb1b4","","","False","","",""
-"""""","narrator_eaaf7d28","","","False","","",""
-"S """"","S_8dabdf8d","","","False","","",""
-"S """"","S_3541f257","","","False","","",""
-"""""","narrator_948576d0","","","False","","",""
-"C """"","C_db5b8a4e","","","False","","",""
-"S """"","S_27e74af1","","","False","","",""
-"S """"","S_1e2a1f12","","","False","","",""
-"S """"","S_15df88ee","","","False","","",""
-"C """"","C_6dea15df","","","False","","",""
-"S """"","S_23e4e671","","","False","","",""
-"""""","narrator_2e1cf8fd","","","False","","",""
-"""""","narrator_0a73a297","","","False","","",""
-"""""","narrator_3effa241","","","False","","",""
-"S """"","S_23fcb443","","","False","","",""
-"""""","narrator_a01b70ee","","","False","","",""
-"S """"","S_2e4db5b9","","","False","","",""
-"S """"","S_ae89bc8b","","","False","","",""
-"S """"","S_90791809","","","False","","",""
-"""""","narrator_346fba95","","","False","","",""
-"S """"","S_07475e80","","","False","","",""
+location,source,target,ID,fuzzy,context,translator_comments,developer_comments
+"S """"",S_852771bb,Yikes! Che coso disgustoso ?! Schifoso! Pulsa anche,,,,,
+"S """"",S_5477b212,Non mi avvicinerò mai a quel coso...,,,,,
+"S """"",S_3c051d1e,Questo cibo non è così male...,,,,,
+"S """"",S_4917f72b,,,,,,
+"S """"",S_7e3f4d7b,Non è davvero...,,,,,
+"S """"",S_925cb416,Devo mangiare qualcosa...,,,,,
+"S """"",S_cdd5ba4e,Sto lontano da esso il più lontano possibile!,,,,,
+"""""",narrator_89f91884,Ho già mangiato oggi.,,,,,
+"S """"",S_cdd5ba4e_1,Sto lontano da esso il più lontano possibile!,,,,,
+"S """"",S_852771bb_1,Yikes! Che coso disgustoso ?! Schifoso! Pulsa anche,,,,,
+"S """"",S_5477b212_1,Non mi avvicinerò mai a quel coso...,,,,,
+"""""",narrator_631162b1,,,,,,
+"""""",narrator_7d869b9e,,,,,,
+"""""",narrator_7abc3db7,,,,,,
+"S """"",S_b78759b7,,,,,,
+"S """"",S_65e7440e,,,,,,
+"S """"",S_c5835510,,,,,,
+"S """"",S_d059ace7,,,,,,
+"S """"",S_0cf94554,,,,,,
+"S """"",S_7318e564,,,,,,
+"S """"",S_c2ced3f0,,,,,,
+"S """"",S_87b11d2c,,,,,,
+"S """"",S_84838904,Questo è il posto dove Stukov mi ha legato un paio di volte. Non voglio neppure ricordare che...,,,,,
+"S """"",S_658e9166,Penso di aver fatto abbastanza oggi...,,,,,
+"S """"",S_563714ef,IO...,,,,,
+"S """"",S_fbb1f136,,,,,,
+"S """"",S_7d4bbae0,Un pulsante per chiamare Stukov. Qui tutto sembra bizzarro. Anche quel pulsante.,,,,,
+"A """"",A_427eb046,,,,,,
+"S """"",S_b32e31f6,,,,,,
+"A """"",A_b75dfd6d,Ha-ha-ha!,,,,,
+"A """"",A_0060f04c,,,,,,
+"S """"",S_8d552cc6,,,,,,
+"A """"",A_8089bd18,,,,,,
+"S """"",S_49ae82a9,,,,,,
+"S """"",S_882e633b,,,,,,
+"A """"",A_491ac6a7,,,,,,
+"S """"",S_ee2fde1a,,,,,,
+"A """"",A_cce36f11,,,,,,
+"S """"",S_1cf196d9,,,,,,
+"A """"",A_b6147530,,,,,,
+"S """"",S_470958ae,,,,,,
+"A """"",A_6fc6df10,,,,,,
+"S """"",S_799d9a8c,"Non posso farlo adesso, dovrei mettere prima la lingerie...",,,,,
+"S """"",S_1d0a6776,,,,,,
+"S """"",S_08712495,Credo che non succederà niente di male se andiamo a fare una passeggiata.,,,,,
+"S """"",S_c929907e,E la formazione sarà più efficace.,,,,,
+"S """"",S_6c374a85,Non quel pervertito! E ' l'ultima persona che vorrei essere vista in questo momento.,,,,,
+"S """"",S_2dc1f4e5,Sono piuttosto stanca...,,,,,
+"S """"",S_1d0a6776_1,,,,,,
+"S """"",S_8edec579,Devo prima indossare quella biancheria indecente...,,,,,
+"S """"",S_1d0a6776_2,,,,,,
+"S """"",S_557c017d,(Devo davvero farlo...),,,,,
+"C """"",C_50eac14c,"(Se vuoi scappare, sì.)",,,,,
+"S """"",S_1d0a6776_3,,,,,,
+"C """"",C_0eb929cf,"(Ma, sai, mi piace qui. Ottima compagnia, ottimo cibo, tutto è fantastico! Restiamo qui!)",,,,,
+"S """"",S_49ae82a9_1,,,,,,
+"S """"",S_f36dabee,(Stai scherzando?),,,,,
+"C """"",C_d9d3ce23,(Ovviamente no.),,,,,
+"S """"",S_277c24ed,(Tu piccolo...),,,,,
+"""""",narrator_bd20daf1,"Sarah preme il pulsante di chiamata, ma non succede niente.",,,,,
+"S """"",S_4065bc22,Stukov è fuori adesso. Dovrò aspettare fino al suo ritorno.,,,,,
+"""""",narrator_bd20daf1_1,"Sarah preme il pulsante di chiamata, ma non succede niente.",,,,,
+"S """"",S_c5d99ba1,Quel bastardo deve aver pianificato tutto.,,,,,
+"A """"",A_31bd8cee,"Hm, vedo che hai trovato il mio poster preferito!",,,,,
+"A """"",A_2b8172de,"Anche a te dev'essere piaciuto, io raccolgo.",,,,,
+"A """"",A_ffe39226,"Heh, ho tanti ricordi legati ad esso...",,,,,
+"A """"",A_2b96a630,Volevi qualcosa?,,,,,
+"A """"",A_7bf7b01d,Mi ha mancato?,,,,,
+"S """"",S_6c598abd,Portami da Abathur.,,,,,
+"A """"",A_feca4e7f,"Siamo appena tornati da lui, dovresti riposare per ora.",,,,,
+"""""",narrator_6476baa4,,,,,,
+"A """"",A_de4401bc,Basta parlare. Possiamo discuterne ulteriormente domani.,,,,,
+"A """"",A_1b17e9ac,Volevi qualcosa?,,,,,
+"S """"",S_2ae48edf,Sì... Eri un tale stronzo e un pervertito quando eri vivo?,,,,,
+"A """"",A_bb912820,,,,,,
+"A """"",A_6c1c9f49,('Tale'? Non ha idea di che pervertito sono!),,,,,
+"A """"",A_312cba36,"Eh, si. Sempre.",,,,,
+"S """"",S_474c438b,Lo sapevo! Sei solo un pervertito malato! Hai inventato tutte quelle 'prove' da solo perché ti piacciono!,,,,,
+"S """"",S_dc797266,Sono stanco di questo! Lasciami andare immediatamente!,,,,,
+"A """"",A_f207d0d4,"Wow-wow-wow, calmati, ragazza. Penso che tu abbia bisogno di un po 'di tempo da solo. Ci vediamo!",,,,,
+"S """"",S_99cca41f,"No! Fermati adesso, bastardo! Non osare andartene, non ho ancora finito!",,,,,
+"""""",narrator_16bfaff6,Stukov corse fuori dalla stanza e la porta si chiuse subito dopo averla superata.,,,,,
+"""""",narrator_4da74ac1,"Sarah ha provato a bussare alla porta per un paio di minuti, ma alla fine ha rinunciato, rendendosi conto che non ci sarebbe stata alcuna reazione.",,,,,
+"A """"",A_0af3228f,Si? Vuoi gridarmi di nuovo?,,,,,
+"S """"",S_bb1ed975,"No, non lo farò.",,,,,
+"A """"",A_6e090b18,"Felice di sentirlo. Allora, come va?",,,,,
+"S """"",S_5e4f73ca,Volevo chiedere qualcosa.,,,,,
+"A """"",A_7f4abe8b,Vai avanti.,,,,,
+"S """"",S_2f958db3,"Mi hai detto che non c'era altro cibo qui, ma che... sostanza appiccicosa. Lo mangi anche tu?",,,,,
+"A """"",A_d2053fe6,,,,,,
+"A """"",A_d2053fe6_1,,,,,,
+"S """"",S_f421f718,,,,,,
+"A """"",A_87ad5682,Qualsiasi altra domanda?,,,,,
+"S """"",S_f8d7b0b9,"Hey, cosa c'è che non va? È una domanda semplice!",,,,,
+"A """"",A_8790f301,Semplicemente non voglio rispondere...,,,,,
+"S """"",S_1ffd4e7c,,,,,,
+"A """"",A_8f8d4446,"Ci sentiamo più tardi, me ne vado ora.",,,,,
+"S """"",S_a7f88017,(Cosa c'è che non va in lui?),,,,,
+"S """"",S_2d8778fb,"Una domanda mi dava fastidio per un po '. C'erano altri prigionieri come me, giusto?",,,,,
+"A """"",A_8ea29100,Ovviamente. Ho molta esperienza.,,,,,
+"S """"",S_217a5c2e,Cosa è successo a loro? Dove sono adesso?,,,,,
+"A """"",A_40c973f9,Questa è una bella domanda...,,,,,
+"A """"",A_283272fc,"Non sono veramente sicuro. Prima, passano attraverso di me, poi li mando alla Regina. Cosa succede a loro dopo che non ne ho idea.",,,,,
+"A """"",A_36f122c2,(Certo che lo faccio. Quello che faccio ai prigionieri non è niente in confronto a ciò che li attende!),,,,,
+"S """"",S_6be55446,Ma questo significa che potrebbero essere stati uccisi!,,,,,
+"A """"",A_baf19de8,"No-no-no, non preoccuparti. Puoi fidarti della Regina, dopo tutte le prove, tutti i prigionieri vengono rilasciati.",,,,,
+"A """"",A_48b58fc4,,,,,,
+"S """"",S_08acd895,Ok...,,,,,
+"A """"",A_20210e14,Si?,,,,,
+"S """"",S_caba9b11,"Sono davvero annoiato, volevo parlare con qualcuno accanto a Sai'mon.",,,,,
+"A """"",A_312f5fa0,Ah allora ok! Lascia che ti racconti una barzelletta!,,,,,
+"S """"",S_79cc70c5,,,,,,
+"S """"",S_038a9f0f,"Ok, dai!",,,,,
+"A """"",A_ace0399a,,,,,,
+"A """"",A_00f92511,Com'è andata?,,,,,
+"A """"",A_42be79bf,Oh giusto!,,,,,
+"A """"",A_bf397f3a,Prima di assaltare una base Zerg.,,,,,
+"A """"",A_36c1abec,"-Sergente, c'è solo abbastanza cibo per metà della tua gente!",,,,,
+"A """"",A_fd65172f,-Brillante! Pranzeremo dopo l'assalto e tutti saranno soddisfatti...,,,,,
+"S """"",S_1ffd4e7c_1,,,,,,
+"A """"",A_4e1acd43,Ahahaha!,,,,,
+"S """"",S_1ffd4e7c_2,,,,,,
+"A """"",A_d96617aa,"Dai, è divertente!",,,,,
+"S """"",S_352efd7b,Grazie per essere venuto...,,,,,
+"A """"",A_b36891ad,Nessun problema! Ahaha!,,,,,
+"A """"",A_6a46a566,Sì?,,,,,
+"S """"",S_60ab6621,Sono... Sto facendo bene?,,,,,
+"A """"",A_e21dcd63,Oh? Cosa intendi?,,,,,
+"S """"",S_caceed92,"Beh, hai detto che avevi esperienza, come sto andando rispetto alla media? ",,,,,
+"A """"",A_55c6707e,"Beh, c'erano quelli molto più compiacenti di te...",,,,,
+"A """"",A_ec3e771b,"Ma hai un bel potenziale! Sono sicuro che se lavoreremo abbastanza, sarai il mio miglior risultato!",,,,,
+"S """"",S_1eda4cbb,Veramente?,,,,,
+"A """"",A_9b00b8be,"Ovviamente! Come ho detto, hai davvero un potenziale.",,,,,
+"S """"",S_b0c46045,Grazie!,,,,,
+"S """"",S_79a62c84,Volevo parlarti.,,,,,
+"A """"",A_a330f5a7,Ho un'idea migliore Lascia che ti racconti una barzelletta!,,,,,
+"S """"",S_6bff196e,(Di nuovo con le sue stupide battute...),,,,,
+"A """"",A_89e74de6,"Quindi, una pattuglia di quattro marines è in una foresta. C'è una fitta nebbia intorno a loro, non riescono a vedere la merda... E all'improvviso, una sagoma appare nella nebbia.",,,,,
+"A """"",A_33731fa0,Il comandante urla: 'Identificati immediatamente!',,,,,
+"A """"",A_a9101880,Ma l'unica risposta che ottenne fu il silenzio.,,,,,
+"A """"",A_fe771622,"Ripeto, identificati immediatamente o fatti esplodere!",,,,,
+"A """"",A_522b536f,"Di nuovo, non ha ricevuto risposta.",,,,,
+"A """"",A_72e139d6,Sto aprendo il fuoco in trenta secondi!,,,,,
+"A """"",A_5cbc89d6,Una voce pigra gli risponde quella volta: 'Fuoco ogni volta che ne hai voglia. Sei davanti alla batteria del serbatoio'.,,,,,
+"A """"",A_d897f4c5,Ah-ah-ah-ah!,,,,,
+"S """"",S_1ffd4e7c_3,,,,,,
+"A """"",A_3aaea0ba,"Ah ah ah. Una batteria da serbatoio, hai capito? Ahahah è così divertente!",,,,,
+"S """"",S_e2aaf4c4,Non proprio...,,,,,
+"A """"",A_d2053fe6_2,,,,,,
+"A """"",A_e6cf960d,"Ah, sei noioso.",,,,,
+"S """"",S_25571fa6,Non sentiamo più di voi battute...,,,,,
+"A """"",A_54f467f7,Cosa oggi?,,,,,
+"S """"",S_09da4abc,Volevo chiederti una cosa. Vieni dalla Terra?,,,,,
+"A """"",A_a262d379,"Sì, la culla dell'umanità. Eh, mi mancano le verdi colline di casa.",,,,,
+"S """"",S_3ec61595,Cos'è l'Alabama?,,,,,
+"A """"",A_d2053fe6_3,,,,,,
+"A """"",A_7aff70f7,È il nome di uno stato sulla Terra. Perché lo sai anche tu?,,,,,
+"S """"",S_3c777731,C'è una canzone popolare chiamata 'Sweet home Alabama'. La gente dice che viene dalla Terra. È sempre giocato nei bar.,,,,,
+"A """"",A_939bd3c2,(Come ha fatto a raggiungere persino le navi coloniali?),,,,,
+"S """"",S_5cf7670c,Ho un'altra domanda.,,,,,
+"A """"",A_93f3bc1c,Vai avanti.,,,,,
+"S """"",S_da612562,"Perché la tua flotta è stata schierata a Koprulu? Da quello che ricordo dalle lezioni di storia, i nostri antenati non erano piaciuti sulla Terra.",,,,,
+"A """"",A_d2053fe6_4,,,,,,
+"A """"",A_10a42446,Non voglio parlarne.,,,,,
+"""""",narrator_77d24a6d,Stukov lascia la stanza.,,,,,
+"S """"",S_580999b4,Hm ...,,,,,
+"S """"",S_79b6a84f,"(Devono essere informazioni segrete Bene, scoprirò ancora perché la Terra si è improvvisamente ricordata di noi.)",,,,,
+"S """"",S_6d60bce5,Volevo parlare e ho delle domande.,,,,,
+"A """"",A_a4f2d3fd,"Hehe, anch'io ho delle domande.",,,,,
+"S """"",S_b112bab5,"(Oh, non la sua depravazione ...)",,,,,
+"A """"",A_0c09cef4,Sai dove prendere l'alcol?,,,,,
+"S """"",S_1ffd4e7c_4,,,,,,
+"S """"",S_66e37cdf,"Non ne sono esperto, ma ... ho sentito che il protettorato Umojan produce la migliore birra del settore.",,,,,
+"A """"",A_602e069c,"Follia, birra, fanculo quella pisciata. Qualche drink forte?",,,,,
+"S """"",S_b84db1d2,Il brandy brontese è il più forte che io conosca. Hai finito?,,,,,
+"A """"",A_b50715e5,No. Sai di un buon bordello?,,,,,
+"S """"",S_1ffd4e7c_5,,,,,,
+"S """"",S_9198b1c7,No! Perché dovrei sapere di un posto del genere ...,,,,,
+"A """"",A_44113284,"Come previsto ... Bene, ora vado. Stavo contando su di te ...",,,,,
+"S """"",S_39711361,"Ehi, e le mie domande?",,,,,
+"""""",narrator_05c4ffbd,Stukov ignora l'esplosione di Sarah e lascia la stanza.,,,,,
+"S """"",S_c1469fe7,Freakking drunkard.,,,,,
+"A """"",A_3929f3ce,Mi è mancato così tanto?,,,,,
+"S """"",S_725f62ac,No! Ho una domanda per te.,,,,,
+"A """"",A_9f8bc148,"Bene, non bazzicare. Ho cose di cui occuparmi.",,,,,
+"S """"",S_1dddae76,"(Le cose ... potresti semplicemente chiamarle per quello che sono, perversioni ...)",,,,,
+"S """"",S_92324b98,Volevo chiedere del bagno.,,,,,
+"A """"",A_36ab3b99,Finalmente ... ti ho detto che sarei felice di strofinarti le spalle.,,,,,
+"S """"",S_427442df,,,,,,
+"S """"",S_64e17915,E te l'ho detto - lascia perdere!,,,,,
+"S """"",S_1d2e062a,Volevo chiederti dove ti pulisci.,,,,,
+"A """"",A_f1f3a261,"Ah, quindi vuoi strofinarmi le spalle. Beh, non sarei contrario. Non devi concentrarti solo sulla mia schiena, sai cosa sto dicendo, hehe?",,,,,
+"S """"",S_371d04a7,"No! No, io non lo faccio!",,,,,
+"S """"",S_5a54517c,(Grr ... Non è quello che ho chiesto ...),,,,,
+"S """"",S_3ce6aaf5,Ho pensato che forse c'era un bagno normale qui intorno.,,,,,
+"A """"",A_94b66993,"Se ne avessi uno, vorresti unirti a me?",,,,,
+"S """"",S_ee18767c,,,,,,
+"A """"",A_d948be72,Come puoi essere così noioso ...,,,,,
+"A """"",A_5bdeaba9,Qualsiasi altra domanda?,,,,,
+"S """"",S_88cfc2dc,Non adesso...,,,,,
+"A """"",A_e58e832e,Allora mi congedo.,,,,,
+"S """"",S_e8dbc685,Ciao.,,,,,
+"A """"",A_9ffe8cb9,Sei sospettosamente educato oggi.,,,,,
+"S """"",S_9634cac3,Sono solo annoiato e Sai'mon continua a ronzare sul collegamento allo Sciame.,,,,,
+"C """"",C_16bb48dd,(Perché devi allenarti!),,,,,
+"S """"",S_7a5c8472,"Provo. E sono annoiato qui, non c'è niente da fare.",,,,,
+"A """"",A_94607ffc,"Allenati, allenati e allenati. Sei qui per una ragione e quella ragione non è il riposo.",,,,,
+"S """"",S_85cb2d67,Sto già facendo il meglio che posso. E non è come se fossi costantemente occupato.,,,,,
+"A """"",A_57f9ec5a,"Io, infatti, sono.",,,,,
+"S """"",S_19046c2f,Masturbarsi non è un affare importante.,,,,,
+"A """"",A_e4faf5be,"Ahahaha, lo è e tu non hai la conoscenza per capire quanto sia importante in realtà. Ma non è così che passo tutto il mio tempo.",,,,,
+"A """"",A_f9c4e6fc,"Per esempio, ho accesso all'intero di questo leviatano. Studio gli organi che fungono da motore di curvatura.",,,,,
+"""""",narrator_113d8ed2,Stukov ha continuato a tenere una conferenza sulla struttura dei leviatani e le sue teorie su di loro.,,,,,
+"S """"",S_12d30b72,"Incredibile, non pensavo ci fosse così tanto da scoprire qui. Sembra che ti piaccia qui.",,,,,
+"A """"",A_d2053fe6_5,,,,,,
+"A """"",A_18c9effc,"Ci sono molte possibilità di esplorazione qui, quindi ovviamente lo faccio. Anche esplorare il tuo corpo è molto allettante ...",,,,,
+"S """"",S_b55abb0a,"Eppure, sei un maledetto pervertito. Benché intelligente ...",,,,,
+"A """"",A_1deaa41e,"Non giudicare un libro dalla copertina, tutto ha profondità. Beh, ho degli affari importanti da gestire, hai abbastanza divertimento da parte mia.",,,,,
+"""""",narrator_06cc8861,Stukov lascia,,,,,
+"A """"",A_f20cfa16,"Hah, non potevo sopportare la mia assenza, vero? O hai altre domande?",,,,,
+"S """"",S_bfea50d8,"Sì, volevo chiederti perché ti piaceva tanto il porno.",,,,,
+"A """"",A_d2053fe6_6,,,,,,
+"A """"",A_6fee5508,"Ahahahaha, me lo chiedi davvero, o è un sogno sciocco ?!",,,,,
+"S """"",S_8f8d3a0f,Non capisco perché tu ne sia così ossessionato. E perché sei orgoglioso di questo.,,,,,
+"A """"",A_ef94d950,Non hai guardato il porno da solo?,,,,,
+"S """"",S_0eb0126c,"Ho h-have, b-ma stai evadendo la domanda!",,,,,
+"A """"",A_01014611,"Ahaha, ah, va bene. Dal momento che stai chiedendo ... Risponderò ...",,,,,
+"A """"",A_98aa7faf,,,,,,
+"""""",narrator_ecf21c04,Stukov si ferma.,,,,,
+"S """"",S_1ffd4e7c_6,,,,,,
+"A """"",A_fd088b36,"Hm, hm ...",,,,,
+"S """"",S_1ffd4e7c_7,,,,,,
+"A """"",A_f3600491,HMMMM ...,,,,,
+"S """"",S_1ffd4e7c_8,,,,,,
+"S """"",S_5a06994e,Hm 'cosa ??? Rispondi già!,,,,,
+"A """"",A_826e7c2d,Stavo pensando.,,,,,
+"A """"",A_cef498e5,"Bene, la risposta è semplice, in realtà. Adoro il porno perché amo masturbarmi. È tutto.",,,,,
+"S """"",S_0648200e,T-tutto qui ?!,,,,,
+"A """"",A_a3589088,"Ahaha, tu volevi una risposta, hai ricevuto una risposta.",,,,,
+"S """"",S_1d1e32d8,Non so nemmeno cos'altro mi aspettassi.,,,,,
+"A """"",A_0295eb71,Una domanda stupida merita solo una risposta stupida.,,,,,
+"S """"",S_1ffd4e7c_9,,,,,,
+"""""",narrator_f08ad23b,"Stukov lascia la stanza di Sarah, ignorando le sue grida di frustrazione.",,,,,
+"Aside7 """"",Aside7_84e0a473,(Non dovrebbe ancora sapere la verità).,,,,,
+"S """"",S_9b0d16c4,Perché odi i vestiti? Mi hai detto più volte che non ti piace.,,,,,
+"A """"",A_a055f765,,,,,,
+"A """"",A_2b0cf9c7,"Bene, *ahem*.",,,,,
+"A """"",A_79e19e9d,"Non mi piacciono i vestiti perché sono sempre di ostacolo! In via del semplice movimento, del modo di sentirsi a proprio agio, del modo di masturbarsi, dopo tutto! Sono sempre nudo al mio posto.",,,,,
+"S """"",S_075ea30b,"Quindi, sono solo più perversioni.",,,,,
+"A """"",A_aeefebc3,"No, ci sono molte ragioni. Sai quanto è dannoso l'intimo? Taglia il flusso di sangue! E questo è il peggiore!",,,,,
+"S """"",S_dfca27de,...Sul serio? Ti interessa il flusso di sangue? Un uomo che è morto e risorto?,,,,,
+"A """"",A_d2053fe6_7,,,,,,
+"A """"",A_a2817f7f,Certo che lo faccio. Pensi che io sia immortale da quando sono ... risorto? Anch'io ho sangue che circola attraverso il mio corpo.,,,,,
+"S """"",S_7ada2fb7,"Ooh, volevo chiedere, cosa c'è dentro di te?",,,,,
+"A """"",A_b6d0cde3,... sembra spaventoso ...,,,,,
+"S """"",S_df9f7719,"Hahaha, andiamo, non è interessante? Hehehe.",,,,,
+"A """"",A_027357cb,Torniamo al punto...,,,,,
+"S """"",S_9f332721,"Bene, dal momento che non hai bisogno di vestiti e non ti piacciono, perché sei vestito attualmente?",,,,,
+"A """"",A_2737359c,Come se questa fosse l'unica ragione per cui i vestiti esistessero. Ho sempre detto che ci sto bene.,,,,,
+"S """"",S_baaefbc8,Il tuo? Chi? Mamma?,,,,,
+"A """"",A_9f29090f,,,,,,
+"A """"",A_91047862,,,,,,
+"S """"",S_ba3d025c,,,,,,
+"S """"",S_4301d13f,E 'stato strano Ho bisogno di saperne di più su di lui.,,,,,
+"S """"",S_21482099,Non ho bisogno di parlargli in questo momento.,,,,,
+"S """"",S_a39d677e,Volevo chiederti... chi è la ragazza sul poster?,,,,,
+"A """"",A_da2378cc,Il suo nome era Raquel. Raquel Welch. Non è golosissima?,,,,,
+"S """"",S_cb2d4d06,Puoi smettere con le tue domande volgari?,,,,,
+"A """"",A_d2a8352c,Cosa c'è di sbagliato nella mia domanda?,,,,,
+"S """"",S_e15c85de,(Pervertito...),,,,,
+"""""",narrator_3a03b5c3,"Sarah continuò, ignorando la domanda di Stukov.",,,,,
+"S """"",S_0f7a113d,L'hai conosciuta?,,,,,
+"A """"",A_1e203a9d,No. È morta molto prima che io nascessi.,,,,,
+"A """"",A_6a19aa0b,"Non mi importava davvero chi fosse o cosa facesse. Ma il suo corpo, mmh, ora che mi importava molto. Ah ah ah.",,,,,
+"S """"",S_1ffd4e7c_10,,,,,,
+"C """"",C_c61503f1,(Presumo che Stukov lo abbia usato per aiutarlo a masturbarsi.),,,,,
+"S """"",S_0cbcee8c,(Ho già indovinato!),,,,,
+"A """"",A_892a81b7,"Ma visto che sei qui ora, non ho bisogno del poster! Ah ah ah!",,,,,
+"S """"",S_ba3d025c_1,,,,,,
+"S """"",S_f8042096,Penso che i nostri discorsi siano finiti.,,,,,
+"A """"",A_bfb92408,"Oh, piccola, sei gelosa?",,,,,
+"S """"",S_8ffd8f45,Ovviamente no! Cosa avrebbe potuto farti pensare così?,,,,,
+"A """"",A_16ad5d94,"Ahahah, andrò per ora. Se vuoi chattare, sono sempre qui.",,,,,
+"""""",narrator_0580c78e,"Strizzando l'occhio, Stukov si voltò e lasciò la stanza.",,,,,
+"A """"",A_16a2477a,"Calmati, non abbiamo fretta. Ne parleremo domani, riposiamo per ora.",,,,,
+"""""",narrator_6476baa4_1,,,,,,
+"A """"",A_35484e5c,"Capisco che ne vuoi di più, ma ne abbiamo fatto abbastanza per oggi. Continueremo domani.",,,,,
+"A """"",A_178161b2,"Aspetta, hai messo {i}it{/i}?",,,,,
+"S """"",S_1ffd4e7c_11,,,,,,
+"S """"",S_06c21818,Y-sì...,,,,,
+"A """"",A_7688c3c4,"Ahaha, sei più docile con tutti i giorni. Gr... ti userei adesso, ma... L'abbiamo già fatto oggi, quindi dovremmo aspettare fino a domani.",,,,,
+"S """"",S_84d40e12,A-va bene...,,,,,
+"S """"",S_eaf768c2,No...,,,,,
+"A """"",A_5c2f82a2,"Non ti ho detto di metterlo su... Comunque, dovremo aspettare fino a domani.",,,,,
+"S """"",S_1ffd4e7c_12,,,,,,
+"S """"",S_bf1d294e,(Questo deve finire presto...),,,,,
+"""""",narrator_6476baa4_2,,,,,,
+"A """"",A_36f27a46,Non hai dimenticato qualcosa?,,,,,
+"S """"",S_427442df_1,,,,,,
+"S """"",S_6924228a,H-come lo sapevi...,,,,,
+"A """"",A_d897f4c5_1,Ah-ah-ah-ah!,,,,,
+"A """"",A_51c17c37,Quante volte ti ho detto che il tuo bodyshape sembra più sexy!,,,,,
+"S """"",S_427442df_2,,,,,,
+"A """"",A_b1c5e278,Chiamami quando lo metti.,,,,,
+"S """"",S_cc2f865c,(Perverso strambo!),,,,,
+"S """"",S_991823f2,(Non ho alcun desiderio di tornare in quella 'piscina' .Non sono così sporco comunque.),,,,,
+"S """"",S_e6cf59ea,"(Non sono molto sporco, ma dovrei lavarmi più spesso comunque. Ehehe.)",,,,,
+"S """"",S_173f4200,"Devo lavarmi, puoi portarmi in quella stanza?",,,,,
+"A """"",A_e61dbd28,"Certo, tesoro.",,,,,
+"""""",narrator_6476baa4_3,,,,,,
+"S """"",S_80c9f1ac,"Oops, non volevo premerlo.",,,,,
+"A """"",A_4f8d8d5e,Non sono il tuo fattorino! Pensa prima di agire!,,,,,
+"""""",narrator_27bc037f,,,,,,
+"C """"",C_cc0c3ad2,"(Sono stanco, parliamo un'altra volta.)",,,,,
+"S """"",S_d9ca907a,,,,,,
+"C """"",C_8ca88b63,(Si?),,,,,
+"S """"",S_9bdbedf2,Pensi che sarò in grado di uscire da qui?,,,,,
+"C """"",C_efc7870e,"(Beh, non so davvero cosa dirti...)",,,,,
+"C """"",C_ba364255,"(Diciamo solo che se sarai una 'brava ragazza', starai bene.)",,,,,
+"S """"",S_6a75d821,Lo spero...,,,,,
+"S """"",S_de22a699,Sai'mon? Puoi parlarmi di questo posto?,,,,,
+"C """"",C_671b630d,"(Bene, questa è la tua stanza... E la tua prigione...",,,,,
+"S """"",S_011a14fe,No! Sto parlando della base.,,,,,
+"C """"",C_0c6e45f7,(Cosa vuoi sapere esattamente?),,,,,
+"S """"",S_e176de97,Posizioni di passaggi segreti e sezioni male custodite.,,,,,
+"C """"",C_26ffe91f,"(Scusa, non posso aiutarti con quello.)",,,,,
+"S """"",S_fb4a864b,Ma perché?,,,,,
+"C """"",C_1b368c48,"(In primo luogo, io non sono né la tua mappa, né la tua guida, in secondo luogo, la Regina sarà arrabbiata con me se ti fornirò tali informazioni)",,,,,
+"S """"",S_dd33cf5b,Quindi tu sai tutto questo! Grazie!,,,,,
+"C """"",C_04a77f52,"(Ehi, non l'ho detto!)",,,,,
+"S """"",S_08bd865f,,,,,,
+"S """"",S_d9ca907a_1,,,,,,
+"C """"",C_f79df7c3,,,,,,
+"S """"",S_d9ca907a_2,,,,,,
+"C """"",C_f79df7c3_1,,,,,,
+"S """"",S_1a55a31c,,,,,,
+"C """"",C_1e9f9b76,,,,,,
+"C """"",C_1c03acab,(Che cosa è successo?!),,,,,
+"S """"",S_509746d0,(Non mi hai risposto!),,,,,
+"C """"",C_364aa2f3,"(Volevo che iniziassi a parlare con me usando i tuoi pensieri, come ti ho chiesto di fare prima.)",,,,,
+"S """"",S_b558c81e,(Non riesco ad abituarmici...),,,,,
+"C """"",C_acfe921a,"(Nah, lo farai abbastanza presto.)",,,,,
+"C """"",C_bcb19d7f,"(Quindi, cosa volevi?)",,,,,
+"S """"",S_5efdea6a,"(Volevo solo parlare, sono triste...)",,,,,
+"C """"",C_1da129b9,(Stukov arriverà presto e ti divertirai un sacco! Hah!),,,,,
+"S """"",S_0a9a67c1,(Idiota!),,,,,
+"S """"",S_6e0db8fd,(Sai? Potresti... connetterti alla Regina?),,,,,
+"C """"",C_518e6379,(Ti sembro una radio?),,,,,
+"S """"",S_e61e7b76,"(Beh, non sono troppo sicuro di cosa sembri, non posso davvero vederti...)",,,,,
+"C """"",C_7abd18fa,"(Assomiglio un po 'agli zerg che vedi qui, ma ho le dimensioni del tuo pugno.)",,,,,
+"S """"",S_d9852f74,(E quello è nella mia testa adesso?! Disgustoso!),,,,,
+"C """"",C_f79df7c3_2,,,,,,
+"S """"",S_13f5e99b,,,,,,
+"S """"",S_3e9e7066,"(Quindi, puoi collegarmi con la Regina?)",,,,,
+"C """"",C_7c5488c2,(Non vedo il punto.),,,,,
+"S """"",S_24e7c471,(Non devi. Rispondi semplicemente alla domanda.),,,,,
+"C """"",C_9535050e,"(Beh, sì, in teoria, ma avrò bisogno di tempo per questo.Se ne hai davvero bisogno, cercherò di sviluppare una tale capacità.)",,,,,
+"S """"",S_b638b886,"(Sì, per favore fallo.)",,,,,
+"C """"",C_2a2a8239,"(Va bene, ti dirò quando lo realizzerò.)",,,,,
+"S """"",S_979bc466,(Grazie!),,,,,
+"S """"",S_07cdd20a,(Sai'mon? Sei qui?),,,,,
+"C """"",C_f8c1985a,(Che tipo di domanda è? Certo che lo sono.),,,,,
+"S """"",S_5cf672e7,(Ho una domanda.),,,,,
+"C """"",C_acf25295,(Sto ascoltando.),,,,,
+"S """"",S_8ed6d58b,"(Puoi paralizzarmi, farmi addormentare e... E cos'altro puoi fare?",,,,,
+"C """"",C_0d1f22ec,"(Huh, sembravi dimenticare qualcosa, posso anche farlo.)",,,,,
+"""""",narrator_9a4fd3cb,*banco*,,,,,
+"S """"",S_f7462b0d,,,,,,
+"""""",narrator_9a4fd3cb_1,*banco*,,,,,
+"C """"",C_5183ea0d,"(Quindi, ti ricordi ora?)",,,,,
+"S """"",S_25a0dc43,"(Bastardo, non me ne sono dimenticato, non volevo parlarne!)",,,,,
+"C """"",C_51b6e3b6,(Ahaha! Le persone sono così divertenti!),,,,,
+"S """"",S_89c09d67,(Non c'è niente di divertente in questo!),,,,,
+"C """"",C_c50e4888,"(Va bene, va bene, calmati, ora va tutto bene.)",,,,,
+"S """"",S_b5405e79,,,,,,
+"C """"",C_68a20018,(E adesso?),,,,,
+"S """"",S_ff7cc0b8,(Volevo sapere se sei capace di qualcos'altro.),,,,,
+"C """"",C_ef397b77,"(Beh, ho un sacco di 'leve' qui, ma non ho avuto il tempo di provarle tutte, ma visto che le hai chiesto così bene...)",,,,,
+"S """"",S_207097a3,"(Ehi, fermati!)",,,,,
+"""""",narrator_9a4fd3cb_2,*banco*,,,,,
+"""""",narrator_8575206b,"Sarah sentì il suo corpo riscaldarsi lentamente, il battito del cuore accelerare, il rossore del viso e la figa inumidirsi.",,,,,
+"S """"",S_4b3d396c,,,,,,
+"S """"",S_3cd2e2f5,,,,,,
+"S """"",S_47c9e20e,S... Sai... cosa... hai fatto... ah!,,,,,
+"C """"",C_a416a09b,"(Beh, devi dirmelo, cosa senti?)",,,,,
+"S """"",S_07a8f058,Io... io... io non so...,,,,,
+"S """"",S_4839af64,Mi sento... piacevole... e caldo...,,,,,
+"C """"",C_77ac0bba,(Interessante. Continua a descrivere ciò che senti.),,,,,
+"S """"",S_00b798b2,Ah... io...,,,,,
+"S """"",S_1da067b1,IO...,,,,,
+"S """"",S_a4d21dcc,Sto... bruciando laggiù...,,,,,
+"S """"",S_4b3d396c_1,,,,,,
+"S """"",S_634c0879,Così buono...,,,,,
+"C """"",C_33e768cb,,,,,,
+"S """"",S_4b3d396c_2,,,,,,
+"C """"",C_543e2b07,(Penso che sia abbastanza.),,,,,
+"""""",narrator_9a4fd3cb_3,*banco*,,,,,
+"""""",narrator_dff529f2,Sarah cadde in ginocchio e il suo respiro divenne pesante.,,,,,
+"S """"",S_15024dc3,Co... cosa era?,,,,,
+"C """"",C_253f0903,"(Direi che questa 'leva' alterna un eccitamento di eccitazione. Una specie di afrodisiaco interno, probabilmente.)",,,,,
+"S """"",S_8cb63247,(Tutte le funzioni a tua disposizione sono così pervertite?),,,,,
+"S """"",S_5d779f92,"(Che mi dici di qualcosa che mi rende più forte? O più intelligente, in modo da trovare un modo per scappare da qui? No?)",,,,,
+"C """"",C_fe838586,"(Beh, probabilmente ce ne sono uno con tali scopi, ma sono noiosi.)",,,,,
+"S """"",S_b5405e79_1,,,,,,
+"C """"",C_2d8c3f92,"(Parliamo più tardi, devo analizzare le informazioni ricevute.)",,,,,
+"S """"",S_2525da17,"(Sai, volevo sapere qualcosa su di te.)",,,,,
+"C """"",C_f657b5ac,(Su di me? Chiedi via.),,,,,
+"S """"",S_4620b250,"(Come fai a sapere come funziona tutto in questa stanza? Io sicuramente no, quindi non avresti potuto afferrare i miei ricordi.)",,,,,
+"C """"",C_9156bd5d,(Sono solo molto intelligente dalla nascita.),,,,,
+"S """"",S_af636995,"(Non sto scherzando, idiota!)",,,,,
+"C """"",C_ce08841b,"(Nemmeno io, hehe. Ho ricevuto conoscenza di questa stanza quando sono nato.)",,,,,
+"S """"",S_0c4544e1,(Cosa intendi? Come funziona? Mi hai detto che devi guardare attraverso la mente dello Sciame per ottenere informazioni.),,,,,
+"C """"",C_133ef811,"(Alcune informazioni, sì. Ma solo su organismi che sono ... hm ... non standard per lo Sciame. Stukov, per esempio.)",,,,,
+"S """"",S_395112ce,"(Hm, ora ha senso perché tu sai così tanto ... Beh, non proprio, in realtà.)",,,,,
+"C """"",C_8ec9871a,"(È semplice, ho la conoscenza del codice genetico di ogni zerg comune. Non so perché, di solito solo la larva fa e io non ne sono uno.)",,,,,
+"S """"",S_7dc8a600,(Spero che non ti trasformi in un gigantesco zerg nella mia testa).,,,,,
+"C """"",C_36159b31,"(Non funziona così! Ho solo la conoscenza, non ho la capacità di usarlo.)",,,,,
+"S """"",S_1406805c,(Va bene ... penso che hai chiarito un po 'della mia confusione.),,,,,
+"C """"",C_d82796d9,"(Puoi sempre chiedermi qualsiasi cosa ... Sapevi che gli idralischi avevano due falli? Uno si trova nella coda, il ...",,,,,
+"S """"",S_2d60ebc7,(Aaaaaah! Non voglio saperlo!),,,,,
+"S """"",S_bb6c8cbd,"(Sai, posso parlarti di qualcosa? Di qualcosa di serio, quindi dimentica tutte le tue battute per ora.)",,,,,
+"C """"",C_ff8ec2c8,"(Puoi provare, ma non posso promettere nulla).",,,,,
+"S """"",S_8442dc3c,"(Quelle visioni che Mistress mi ha mostrato ... Non ero io in loro, giusto? Voglio vendetta, ma ... non sono così malvagio.)",,,,,
+"C """"",C_c02ac612,"(Beh, a volte il tuo temperamento potrebbe essere paragonato a un disastro naturale ...)",,,,,
+"S """"",S_7a9e61e9,(Ti ho chiesto di non scherzare!),,,,,
+"C """"",C_9f899351,"(Beh, davvero non lo so. Potrebbe averlo estratto dal tuo subconscio più profondo.)",,,,,
+"S """"",S_6337edd7,"(Quindi, ero io? Io sono ...)",,,,,
+"C """"",C_ee410885,"(Calmati, avrebbe potuto benissimo creare quelle visioni puramente da sola).",,,,,
+"S """"",S_7b2ead9f,(Ma sembravano completamente realistici. Mi spaventano ...),,,,,
+"C """"",C_6864278f,"(Non aver paura, non sai nemmeno cosa devo affrontare qui quando senti la paura, calmati e non pensarci.)",,,,,
+"S """"",S_854c3b2e,(È facile per te dire ...),,,,,
+"C """"",C_684c713e,"(Vuoi che ti aiuti? Ho scoperto alcune 'leve' utili ultimamente, anche se era molto noioso.)",,,,,
+"S """"",S_508d7d76,"(Se non stai scherzando, per favore, fai solo attenzione e non ... 'tocca' qualcos'altro).",,,,,
+"C """"",C_eff95dd8,"(Certo, signora.)",,,,,
+"""""",narrator_bb152f80,,,,,,
+"""""",narrator_ce1cb4cb,Sarah sente un'ondata di calore attraversare il suo corpo e tutte le sue preoccupazioni svaniscono.,,,,,
+"S """"",S_cbb1c024,"(Molto meglio, grazie, Sai'mon.)",,,,,
+"C """"",C_227bd5ed,"(Ricorda che questa è una misura unica, non potrò usarla di nuovo).",,,,,
+"""""",narrator_dcdecd65,Sarah si sente molto meglio. Il suo livello di stress è diminuito.,,,,,
+"S """"",S_bd2228b8,"(Sai, dobbiamo parlare.)",,,,,
+"C """"",C_a5241ef5,(Su cosa? Sto ascoltando.),,,,,
+"S """"",S_305a389f,(Perché eri silenzioso quando visitavamo Padrona? Mi ha quasi soffocato a morte.),,,,,
+"C """"",C_ff010e04,(Cosa potevo fare?),,,,,
+"S """"",S_74586974,(La Maestra ti ha ordinato di non dirmi che eravamo su una nave?),,,,,
+"C """"",C_c22a04ab,"(No, semplicemente non lo sapevo, la padrona deve aver bloccato quella conoscenza da me).",,,,,
+"S """"",S_13f5e99b_1,,,,,,
+"S """"",S_c8b34684,"(Va bene, ti crederò, ma non potresti aiutarmi affatto quando ero lì?)",,,,,
+"C """"",C_a6a1f36c,"(Non proprio, la padrona controlla tutto qui.Non posso disobbedire a un ordine diretto.Io ho deciso di rimanere in silenzio per tenerti fuori dai guai.)",,,,,
+"S """"",S_2db02a2b,(Come se ti importasse se fossi nei guai.),,,,,
+"C """"",C_def13f33,"(Ehi, quante volte devo dire che condividiamo lo stesso corpo? Se sei ferito, lo sono anch'io.)",,,,,
+"S """"",S_6bfbc933,(Quindi ti interessa?),,,,,
+"C """"",C_f79df7c3_3,,,,,,
+"C """"",C_650652e8,(Sento che vuoi parlare con me.),,,,,
+"S """"",S_ca0c9560,"(Cosa, ho ... Sei nella mia testa. Volevo chiedere qualcosa.)",,,,,
+"S """"",S_74fa1459,"(Me l'hai detto prima che tu possa sentire quello che sento. E se mi sento di merda, lo fai. Come funziona?)",,,,,
+"C """"",C_9d5340e0,"(Come hai appena detto, io sono nella tua testa, letteralmente, sono connesso al tuo cervello, quindi alcuni ormoni che raggiungono lo stesso, raggiungono anche me. Ad esempio, quando ti senti bene, parte della serotonina rilasciata dal tuo il corpo è assorbito da me.)",,,,,
+"S """"",S_98de6804,"(E quando mi sento male, tu ricevi l'adrenalina e l'ormone della paura.)",,,,,
+"C """"",C_c5136f1f,"(Sì. Anche se, per la maggior parte del tempo, non capisco le tue emozioni. I terrestri hanno cervelli piuttosto strani.)",,,,,
+"S """"",S_bc9295ee,(Dice un parassita creato artificialmente nel mio cervello).,,,,,
+"C """"",C_8b937487,"(Sì, sono stato creato. Ma molti terran non credono che siano stati creati da qualche essere misterioso?)",,,,,
+"S """"",S_13f5e99b_2,,,,,,
+"S """"",S_d6a5c862,"Te l'ho detto, non scavare in quella ... La religione è complicata ...",,,,,
+"C """"",C_6b393751,"(No, non lo è, anche io potrei tranquillamente incrociarlo, ma non credo che terran lo accetterebbe).",,,,,
+"S """"",S_090b57b8,"(L'ho sentito molte volte e ho sentito delle risposte anche a questo: non credo che le persone abbiano bisogno delle tue spiegazioni. A volte, hanno solo bisogno di qualcosa in cui credere. E nessuno ha bisogno dei tuoi modi di dire).",,,,,
+"C """"",C_16450617,"(E a volte serve la fede per controllare le persone. Bene, avremo tempo di discuterne più tardi, torniamo al primo punto.)",,,,,
+"C """"",C_e3173076,"(Non c'è niente di complicato per gli zerg, a differenza dei tuoi sentimenti quando ti spogli prima di Stukov.)",,,,,
+"S """"",S_5d0c27fa,(Sei solo un pervertito che non capisce cosa sia la vergogna).,,,,,
+"C """"",C_0b870bde,(E hai troppi costumi ipocriti terran incastonati nel tuo cervello).,,,,,
+"S """"",S_b5405e79_2,,,,,,
+"C """"",C_2c8b3e91,"(Hehe, anche la tua rabbia è divertente, quasi come se fingessi di essere arrabbiato).",,,,,
+"S """"",S_b5405e79_3,,,,,,
+"S """"",S_f036487f,{size=-5}(Non sono.){/size},,,,,
+"S """"",S_4efe9043,"(Sai, dobbiamo parlare.)",,,,,
+"C """"",C_8420f2ba,"(Secondo le mie conoscenze sui terran, questa affermazione è solitamente seguita da una conversazione spiacevole).",,,,,
+"S """"",S_24423990,(Sì. Voglio che tu mi spieghi cosa fai con il mio corpo quando dormo).,,,,,
+"C """"",C_62de3664,"(Imparo a controllarlo più precisamente, a smettere semplicemente di prenderne il controllo. Te l'ho già detto.)",,,,,
+"S """"",S_d6823457,"(Voglio sapere esattamente cosa fai quando controlli il mio corpo di notte, quando dormo ...)",,,,,
+"C """"",C_ed0e75eb,"(Non faccio nulla che tu abbia appena immaginato, ciò interromperà il tuo sonno e il tuo allenamento, perché i tuoi pensieri si rivolgono sempre all'intimità?)",,,,,
+"S """"",S_ba4c045f,"(Non lo fanno, ma gli zerg sono dei pervertiti, quindi ho motivo di essere sospettoso ...)",,,,,
+"C """"",C_8326c5a0,(E come sapresti come pensano i pervertiti?),,,,,
+"S """"",S_236570ca,(Ho una mente a tutto tondo.),,,,,
+"C """"",C_d3c7e017,"(Hehe, direi che è perché sei un pervertito anche tu. Cosa dice il terrestre: trovare un ladro, diventare un ladro?",,,,,
+"S """"",S_a85fb316,(N-no! Sei un idiota!),,,,,
+"S """"",S_fc784b69,"(Ehi, volevo chiedere qualcosa sugli zerg.)",,,,,
+"C """"",C_eb512b90,"(Hm, di solito mostri interesse solo di fronte a qualcosa di nuovo.) Perché l'interesse?)",,,,,
+"S """"",S_c9756c94,(Pensavo che avrei dovuto saperne di più su zerg e in particolare sullo strisciante).,,,,,
+"C """"",C_22b340cf,"(Bene, ascolta il professor Sai'mon e memorizza. Creep is ...)",,,,,
+"S """"",S_c8c9b224,(Professore?),,,,,
+"""""",narrator_30b3fc8a,Sarah immaginò Sai'mon in camice bianco e con una folta barba bianca e non poté fare a meno di ridere.,,,,,
+"C """"",C_006aeaea,"(Ehi, sto facendo una conferenza qui!)",,,,,
+"S """"",S_801fbaf1,"(Hehehe, scusa, ma in realtà non sembri un professore.)",,,,,
+"C """"",C_08c6c0c6,"(Signorina, è una mancanza di rispetto per la scienza!)",,,,,
+"S """"",S_df6a575c,,,,,,
+"C """"",C_6160e689,(E penso che la barba mi farebbe davvero comodo).,,,,,
+"S """"",S_10c86be5,"(Fermati, fermati, stavo solo scherzando, hehe.)",,,,,
+"C """"",C_6e055162,"(Beh, dato che sei irrispettoso verso l'arte della scienza, ti darò solo un riassunto.)",,,,,
+"C """"",C_4d8f7714,"(Creep è la base di ogni alveare di Swarm. È simile alla melma o alla melma, serve il ruolo delle strade, la produzione di cibo e l'estrazione di minerali).",,,,,
+"S """"",S_70280cf0,"(Penso di averlo visto, ma aspetta, zerg lo mangi? E i droni estraggono minerali, vero?)",,,,,
+"C """"",C_81e36722,"(Sì, il creep è la principale fonte di cibo di ogni zerg e prima che tu lo chieda, no, non puoi mangiarlo. Se lo fai, lo scenario migliore è semplicemente vomitare, oppure potresti diventare un infestato comune.)",,,,,
+"S """"",S_b5405e79_4,,,,,,
+"C """"",C_8a63cee5,"(Sì. Quindi mangia quello che ti viene dato. Inoltre, il creep estrae i minerali dal terreno che copre e, soprattutto, li trasferisce negli edifici.)",,,,,
+"C """"",C_672f6578,"(I droni sono usati per raccogliere grossi depositi di risorse, ecco perché hanno delle pinze forti sul loro fronte. A proposito, sono in grado di tagliare un terran a metà, ma non sono abbastanza forti da perforare le armature.)",,,,,
+"C """"",C_5fd376ce,"(Dopo aver estratto una risorsa, la gettano nelle fosse digestive di un incubatore. Tutto sommato, è simile al tuo sistema circolatorio, ma molto più grande e più efficiente).",,,,,
+"S """"",S_bbecf585,"(Quindi se la melma viene distrutta, gli edifici su di essa moriranno di fame?)",,,,,
+"C """"",C_04610e59,(Sì. Esattamente.),,,,,
+"S """"",S_7e5de993,"(Va bene, tutto questo è così strano e molto al di là di quello che sapevamo. Ho bisogno di tempo per pensare.)",,,,,
+"C """"",C_34c102c4,(Parliamo più tardi.),,,,,
+"S """"",S_0f7426ce,"(Sai`min, ho una domanda sul tentacolo che ho trovato).",,,,,
+"C """"",C_26bd2d54,(Cosa vuoi sapere? Penso che tutto sia abbastanza ovvio).,,,,,
+"S """"",S_335303e3,(Perché l'ho preso ?!),,,,,
+"S """"",S_3146d571,,,,,,
+"C """"",C_eef54bcb,(Eh? Cosa?),,,,,
+"S """"",S_8869d2c7,(Perché mi hai detto di scegliere questo tentacolo?),,,,,
+"C """"",C_09d8f6cc,"(Era uno scherzo, ma ... potresti trovarne un uso. Prima o poi.)",,,,,
+"S """"",S_13f5e99b_3,,,,,,
+"S """"",S_f7b003fe,(Tu e le tue battute! Idiota ...),,,,,
+"S """"",S_e10f46c8,"Allora, continuiamo?)",,,,,
+"C """"",C_eff8daae,Non hai ancora finito il mio compito.),,,,,
+"S """"",S_13f5e99b_4,,,,,,
+"S """"",S_85426a6b,"Va bene, Lo Faro', lo faro'...",,,,,
+"C """"",C_ad12dc02,"(Capisco che vuoi farcela il più rapidamente possibile, ma hai bisogno di riposo, quindi continueremo domani.)",,,,,
+"S """"",S_13f5e99b_5,,,,,,
+"S """"",S_e1c40282,"Va bene, domani è allora.",,,,,
+"""""",narrator_cdff0e62,,,,,,
+"S """"",S_18112550,"Sono troppo stanco per allenarmi oggi, devo riposare.",,,,,
+"S """"",S_18112550_1,"Sono troppo stanco per allenarmi oggi, devo riposare.",,,,,
+"S """"",S_d981f642,Io... io... non posso allenarmi con questa llingerie su di me...,,,,,
+"S """"",S_91662bb7,Uhm... allenarsi senza vestiti potrebbe valere la pena di provare?,,,,,
+"S """"",S_54367a57,(Perché sto anche considerando questo?),,,,,
+"S """"",S_d4194274,Dovrei concentrarmi sull'esercizio normalmente per ora.,,,,,
+"S """"",S_5a05b894,Devo mantenermi in forma.,,,,,
+"S """"",S_9f213e87,"Sono in ottima forma, ma dovrei continuare ad allenarmi.",,,,,
+"""""",narrator_8c7fe560,Sarah completa una serie di esercizi di combattimento.,,,,,
+"""""",narrator_8c7fe560_1,Sarah completa una serie di esercizi di combattimento.,,,,,
+"""""",narrator_c300bf5e,Sarah ha terminato la sua formazione. Si sente più sicura di prima.,,,,,
+"""""",narrator_5385255d,"È molto stanca, deve riposare.",,,,,
+"S """"",S_d49a5cdb,*Respirando pesantemente* Grande... Una grande sessione di allenamento. Ma non dovrei rinunciarci in futuro...,,,,,
+"""""",narrator_cb83a788,Sarah non ha dimenticato di allenarsi ogni giorno ed ora il suo corpo è in una forma migliore di prima.,,,,,
+"S """"",S_18112550_2,"Sono troppo stanco per allenarmi oggi, devo riposare.",,,,,
+"S """"",S_4ab6a76e,,,,,,
+"S """"",S_13f5e99b_6,,,,,,
+"S """"",S_4ab6a76e_1,,,,,,
+"S """"",S_13f5e99b_7,,,,,,
+"S """"",S_4ab6a76e_2,,,,,,
+"S """"",S_13f5e99b_8,,,,,,
+"S """"",S_3a32f78d,Ahh... cazzo... Non riesco a concentrarmi a causa di questa maledetta biancheria intima...,,,,,
+"S """"",S_16fa9890,Penso che sia inutile...,,,,,
+"""""",narrator_020cd06b,"Sarah si sente a disagio nel suo vestito attuale, i suoi sforzi sono stati inutili e ora è molto stanca.",,,,,
+"S """"",S_4ab6a76e_3,,,,,,
+"S """"",S_13f5e99b_9,,,,,,
+"S """"",S_4ab6a76e_4,,,,,,
+"S """"",S_13f5e99b_10,,,,,,
+"C """"",C_878348a0,(Cosa fai??!),,,,,
+"S """"",S_54f9cf59,"Cercando di risvegliare i miei poteri psi, non interrompermi.",,,,,
+"C """"",C_ee4bb7df,(Cosa?? Perché?!),,,,,
+"S """"",S_0ba9a13c,Non sono affari tuoi!,,,,,
+"C """"",C_b3ff9919,"(Se ci riesci, dovrò buttarti fuori. Vuoi che succeda? Se non riuscissi ad addormentarti, avresti dovuto dirmelo, avrei aiutato.)",,,,,
+"S """"",S_56ab486c,Smettila di disturbare la mia concentrazione.,,,,,
+"C """"",C_cc749d69,"(Bene, tu...)",,,,,
+"S """"",S_4ab6a76e_5,,,,,,
+"S """"",S_13f5e99b_11,,,,,,
+"""""",narrator_85356154,Sarah ha cercato di raggiungere i suoi poteri psi inattivi.,,,,,
+"""""",narrator_18077094,Non ci riuscì e divenne molto stanca.,,,,,
+"S """"",S_4d71ffb8,"Basta per oggi, devo recuperare le mie energie.",,,,,
+"S """"",S_e07e1e80,Devo trovare un modo per fuggire da questo posto!,,,,,
+"C """"",C_5a3b9a93,(E hai qualche idea su come farlo?),,,,,
+"S """"",S_2249893b,Io non... Ma ci deve essere qualcosa qui che può aiutare.,,,,,
+"C """"",C_8f8ee895,,,,,,
+"""""",narrator_f3fe2dcc,Sarah raccoglie le sue forze e inizia a guardare attraverso ogni cosa nella stanza ancora una volta.,,,,,
+"""""",narrator_c550dd1e,Sarah ispeziona accuratamente la stanza.,,,,,
+"""""",narrator_d97b856d,"In primo luogo, Sarah ispeziona i suoi tentacoli 'preferiti' usati come catene.",,,,,
+"""""",narrator_cd6bf501,Non sapeva cosa poteva trovare lì e non trovò nulla.,,,,,
+"""""",narrator_a281d5db,Ma lei teneva il mento alto e decise di cercare nel suo letto.,,,,,
+"""""",narrator_c0ac44d1,Tutti i suoi sforzi per guardare sotto il letto o i cuscini erano inutili.,,,,,
+"""""",narrator_65efb004,"Alla fine, disperata, iniziò a strisciare sul pavimento, cercando di trovare un buco o altro.",,,,,
+"""""",narrator_86a800a2,Ma il pavimento era senza cuciture e senza un granello di polvere.,,,,,
+"""""",narrator_6d573238,Qualche tempo dopo.,,,,,
+"""""",narrator_1fe3058f,"Ha passato molto tempo a cercare nella sua stanza, ma non ha ottenuto nulla.",,,,,
+"S """"",S_96bbad04,(Dannazione!),,,,,
+"S """"",S_7b756d74,(Non mi arrenderò così facilmente! Ci deve essere qualcosa qui!),,,,,
+"""""",narrator_410b2b56,Sarah ha speso troppe energie e ha bisogno di riposo.,,,,,
+"S """"",S_8a3c9442,Ci deve essere qualcosa qui che può aiutarmi a scappare!,,,,,
+"S """"",S_d68ac252,"Non mi arrendo, me ne vado da qui!",,,,,
+"S """"",S_42a6853e,Penso che dovrei posticipare un po'.,,,,,
+"S """"",S_5d5e1ec4,Sembra un letto ma alieno... e terrificante. Non mi sdraio su questo a meno che non sia estremamente esausto.,,,,,
+"S """"",S_f94c48e9,L'ho già fatto... ora ho bisogno di dirlo a Stukov...,,,,,
+"S """"",S_92cbd270,Penso di aver fatto abbastanza oggi. Continuerò domani.,,,,,
+"S """"",S_d84fb1b4,,,,,,
+"""""",narrator_eaaf7d28,,,,,,
+"S """"",S_8dabdf8d,,,,,,
+"S """"",S_3541f257,,,,,,
+"""""",narrator_948576d0,,,,,,
+"C """"",C_db5b8a4e,Non hai dimenticato qualcosa?,,,,,
+"S """"",S_27e74af1,,,,,,
+"S """"",S_1e2a1f12,,,,,,
+"S """"",S_15df88ee,,,,,,
+"C """"",C_6dea15df,,,,,,
+"S """"",S_23e4e671,,,,,,
+"""""",narrator_2e1cf8fd,,,,,,
+"""""",narrator_0a73a297,,,,,,
+"""""",narrator_3effa241,,,,,,
+"S """"",S_23fcb443,(Ho bisogno di sbrigarmi... penso che dovrei continuare domani...),,,,,
+"""""",narrator_a01b70ee,,,,,,
+"S """"",S_2e4db5b9,"Non posso andare a dormire adesso, mi sta aspettando...",,,,,
+"S """"",S_ae89bc8b,E ' troppo presto... Mi chiedo cosa dovrei fare oggi.,,,,,
+"S """"",S_90791809,E ' troppo presto per andare a letto.,,,,,
+"""""",narrator_346fba95,"(Non sono stanco, sono pieno di energia!)",,,,,
+"S """"",S_07475e80,"Non posso andare a dormire, ho fame.",,,,,
