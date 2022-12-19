@@ -1,197 +1,197 @@
-"location","source","target","ID","fuzzy","context","translator_comments","developer_comments"
-"S """"","S_2fb32438","","","False","","",""
-"""""","narrator_a6aa0dcc","","","False","","",""
-"""""","narrator_bf17f3d9","","","False","","",""
-"""""","narrator_d56952af","","","False","","",""
-"""""","narrator_43586160","","","False","","",""
-"""""","narrator_87288f25","","","False","","",""
-"S """"","S_8cdc7285","","","False","","",""
-"S """"","S_688465af","","","False","","",""
-"S """"","S_15c7b011","","","False","","",""
-"C """"","C_e39b7b24","","","False","","",""
-"""""","narrator_34a6e31a","","","False","","",""
-"""""","narrator_a873a70f","","","False","","",""
-"S """"","S_54055bdd","","","False","","",""
-"S """"","S_5f026e75","","","False","","",""
-"S """"","S_c30949f5","","","False","","",""
-"S """"","S_5fef071b","","","False","","",""
-"S """"","S_b134784b","","","False","","",""
-"S """"","S_61f9f507","","","False","","",""
-"""""","narrator_ac06ddd6","","","False","","",""
-"""""","narrator_14499473","","","False","","",""
-"""""","narrator_b02f8925","","","False","","",""
-"S """"","S_e649960a","","","False","","",""
-"""""","narrator_a636acd7","","","False","","",""
-"S """"","S_4cc91c07","","","False","","",""
-"C """"","C_dc7d76d3","","","False","","",""
-"C """"","C_b8ef41da","","","False","","",""
-"S """"","S_36db74d7","","","False","","",""
-"S """"","S_32359d37","","","False","","",""
-"S """"","S_3f048848","","","False","","",""
-"S """"","S_f9d01f6d","","","False","","",""
-"""""","narrator_5d0f9292","","","False","","",""
-"S """"","S_3615a2fd","","","False","","",""
-"""""","narrator_0a86b855","","","False","","",""
-"S """"","S_cebb4cc0","","","False","","",""
-"S """"","S_d59e07e8","","","False","","",""
-"S """"","S_816da96d","","","False","","",""
-"""""","narrator_404656fe","","","False","","",""
-"""""","narrator_f770887f","","","False","","",""
-"S """"","S_0db2ecdf","","","False","","",""
-"S """"","S_54055bdd_1","","","False","","",""
-"S """"","S_1f2b875d","","","False","","",""
-"S """"","S_a1667e81","","","False","","",""
-"""""","narrator_bfd9b8a7","","","False","","",""
-"S """"","S_c769c425","","","False","","",""
-"extend """"","extend_a12ad493","","","False","","",""
-"extend """"","extend_a12ad493_1","","","False","","",""
-"extend """"","extend_6dc10f9e","","","False","","",""
-"""""","narrator_9a78c468","","","False","","",""
-"S """"","S_29ce5645","","","False","","",""
-"C """"","C_72d81d12","","","False","","",""
-"S """"","S_5976d67a","","","False","","",""
-"C """"","C_dc7d76d3_1","","","False","","",""
-"S """"","S_c769c425_1","","","False","","",""
-"extend """"","extend_a12ad493_2","","","False","","",""
-"extend """"","extend_a12ad493_3","","","False","","",""
-"extend """"","extend_6dc10f9e_1","","","False","","",""
-"""""","narrator_ab50e68a","","","False","","",""
-"""""","narrator_0da7a706","","","False","","",""
-"S """"","S_775fca32","","","False","","",""
-"S """"","S_cfd77a62","","","False","","",""
-"S """"","S_3eb0e15f","","","False","","",""
-"S """"","S_c769c425_2","","","False","","",""
-"extend """"","extend_a12ad493_4","","","False","","",""
-"extend """"","extend_a12ad493_5","","","False","","",""
-"extend """"","extend_6dc10f9e_2","","","False","","",""
-"""""","narrator_9d31004d","","","False","","",""
-"""""","narrator_0da7a706_1","","","False","","",""
-"""""","narrator_0b990b05","","","False","","",""
-"S """"","S_17ed8d71","","","False","","",""
-"S """"","S_c769c425_3","","","False","","",""
-"extend """"","extend_a12ad493_6","","","False","","",""
-"extend """"","extend_a12ad493_7","","","False","","",""
-"extend """"","extend_6dc10f9e_3","","","False","","",""
-"""""","narrator_8074f655","","","False","","",""
-"""""","narrator_0da7a706_2","","","False","","",""
-"""""","narrator_ab1a2083","","","False","","",""
-"S """"","S_4ef346cf","","","False","","",""
-"S """"","S_c769c425_4","","","False","","",""
-"extend """"","extend_a12ad493_8","","","False","","",""
-"extend """"","extend_a12ad493_9","","","False","","",""
-"extend """"","extend_6dc10f9e_4","","","False","","",""
-"""""","narrator_8074f655_1","","","False","","",""
-"""""","narrator_383ad08c","","","False","","",""
-"S """"","S_7bbb4a17","","","False","","",""
-"""""","narrator_aef1b586","","","False","","",""
-"S """"","S_68dad96e","","","False","","",""
-"""""","narrator_23d3cc74","","","False","","",""
-"S """"","S_c8273a82","","","False","","",""
-"S """"","S_3465465c","","","False","","",""
-"S """"","S_4caf5b34","","","False","","",""
-"S """"","S_310cfbc6","","","False","","",""
-"S """"","S_6658bf67","","","False","","",""
-"S """"","S_3a10036a","","","False","","",""
-"""""","narrator_a817665b","","","False","","",""
-"""""","narrator_73d6dd44","","","False","","",""
-"S """"","S_36ed9c1a","","","False","","",""
-"S """"","S_6e69cafc","","","False","","",""
-"S """"","S_e06caaea","","","False","","",""
-"S """"","S_0f911954","","","False","","",""
-"S """"","S_bd02ae9b","","","False","","",""
-"S """"","S_7382be45","","","False","","",""
-"S """"","S_6170be31","","","False","","",""
-"Ssside1 """"","Ssside1_58d2252a","","","False","","",""
-"S """"","S_438133f3","","","False","","",""
-"S """"","S_438133f3_1","","","False","","",""
-"S """"","S_d0624430","","","False","","",""
-"S """"","S_28a4248c","","","False","","",""
-"C """"","C_32b49ef2","","","False","","",""
-"S """"","S_14a62c53","","","False","","",""
-"C """"","C_839c34a9","","","False","","",""
-"C """"","C_ebb523ed","","","False","","",""
-"centered """"","centered_GrLBvYgB","","","False","","",""
-"centered """"","centered_EoZsR6eX","","","False","","",""
-"centered """"","centered_YrfaQ4A9","","","False","","",""
-"centered """"","centered_NoTCTvQs","","","False","","",""
-"centered """"","centered_PgUZBBM8","","","False","","",""
-"centered """"","centered_XxGk2qqo","","","False","","",""
-"centered """"","centered_3ztBsd9H","","","False","","",""
-"centered """"","centered_nwBqDuMT","","","False","","",""
-"centered """"","centered_Ufinm7mj","","","False","","",""
-"centered """"","centered_He2iPNKF","","","False","","",""
-"centered """"","centered_mkzRL3Uf","","","False","","",""
-"centered """"","centered_33tJtHM7","","","False","","",""
-"centered """"","centered_FScGcyx9","","","False","","",""
-"""""","narrator_ea8840e6","","","False","","",""
-"S """"","S_0cdae751","","","False","","",""
-"""""","narrator_6361e8b1","","","False","","",""
-"S """"","S_e204fd30","","","False","","",""
-"""""","narrator_e52acdaf","","","False","","",""
-"""""","narrator_5d6294d4","","","False","","",""
-"""""","narrator_88e1ccc6","","","False","","",""
-"S """"","S_0b4a9809","","","False","","",""
-"""""","narrator_a3c2da4f","","","False","","",""
-"S """"","S_c47e54da","","","False","","",""
-"""""","narrator_9a321082","","","False","","",""
-"""""","narrator_a88fa9da","","","False","","",""
-"""""","narrator_3b73754b","","","False","","",""
-"S """"","S_c8d9d975","","","False","","",""
-"""""","narrator_d66fd341","","","False","","",""
-"S """"","S_9324437a","","","False","","",""
-"""""","narrator_90f8420b","","","False","","",""
-"""""","narrator_719a71bf","","","False","","",""
-"""""","narrator_37a96aee","","","False","","",""
-"S """"","S_13bad059","","","False","","",""
-"""""","narrator_b8b86716","","","False","","",""
-"S """"","S_dd288d12","","","False","","",""
-"""""","narrator_5c294564","","","False","","",""
-"""""","narrator_4e0f7c00","","","False","","",""
-"""""","narrator_f4b64d53","","","False","","",""
-"S """"","S_8542f788","","","False","","",""
-"""""","narrator_0be09828","","","False","","",""
-"S """"","S_4230925c","","","False","","",""
-"""""","narrator_ce56979c","","","False","","",""
-"""""","narrator_b5009fb2","","","False","","",""
-"""""","narrator_82b6f4d6","","","False","","",""
-"S """"","S_39d13366","","","False","","",""
-"""""","narrator_755b7300","","","False","","",""
-"S """"","S_a595671c","","","False","","",""
-"""""","narrator_1738312c","","","False","","",""
-"""""","narrator_ec014682","","","False","","",""
-"""""","narrator_c2a9eaf5","","","False","","",""
-"S """"","S_05ab28fe","","","False","","",""
-"""""","narrator_59c3ede2","","","False","","",""
-"S """"","S_3784b330","","","False","","",""
-"""""","narrator_5031b81c","","","False","","",""
-"""""","narrator_54b6173f","","","False","","",""
-"""""","narrator_2405097e","","","False","","",""
-"S """"","S_4d9d7f5e","","","False","","",""
-"""""","narrator_8b6a765e","","","False","","",""
-"S """"","S_3c33ed26","","","False","","",""
-"""""","narrator_d36772ef","","","False","","",""
-"""""","narrator_9d82a81e","","","False","","",""
-"""""","narrator_120d7777","","","False","","",""
-"S """"","S_ae6ac55e","","","False","","",""
-"""""","narrator_6161618a","","","False","","",""
-"S """"","S_3325c185","","","False","","",""
-"""""","narrator_d7e33348","","","False","","",""
-"""""","narrator_13360666","","","False","","",""
-"""""","narrator_eda5a50c","","","False","","",""
-"S """"","S_e10224a1","","","False","","",""
-"""""","narrator_0e7553a6","","","False","","",""
-"S """"","S_10f45d19","","","False","","",""
-"""""","narrator_92136126","","","False","","",""
-"""""","narrator_a44ae25e","","","False","","",""
-"""""","narrator_eaeb645b","","","False","","",""
-"S """"","S_fd31b61e","","","False","","",""
-"""""","narrator_adfc3eb3","","","False","","",""
-"S """"","S_7b9691bb","","","False","","",""
-"""""","narrator_9a4253c8","","","False","","",""
-"""""","narrator_6bdffbad","","","False","","",""
-"""""","narrator_27c4c42a","","","False","","",""
-"S """"","S_4d1206d4","","","False","","",""
-"""""","narrator_43533bcc","","","False","","",""
-"S """"","S_c5584f8c","","","False","","",""
-"""""","narrator_58a51638","","","False","","",""
-"""""","narrator_349a1ae6","","","False","","",""
+location,source,target,ID,fuzzy,context,translator_comments,developer_comments
+"S """"",S_2fb32438,"I'm really tired, I need some sleep.",,,,,
+"""""",narrator_a6aa0dcc,Sarah's even more tired than usual since she didn't get enough food. She falls onto her bed and falls asleep.,,,,,
+"""""",narrator_bf17f3d9,Sarah spent all her energy and passed out.,,,,,
+"""""",narrator_d56952af,Sarah's very tired. She lies down and immediately falls asleep.,,,,,
+"""""",narrator_43586160,"Sarah hadn't trained in two days, her abilities suffer because of that. She should do some physical training soon.",,,,,
+"""""",narrator_87288f25,"You're not of high enough level, complete other scenes first.",,,,,
+"S """"",S_8cdc7285,I don't think that's a good idea. I need to focus on my current training.,,,,,
+"S """"",S_688465af,"I can't do this right now, I should put the lingerie on first...",,,,,
+"S """"",S_15c7b011,"Great, so what I should do today?",,,,,
+"C """"",C_e39b7b24,"(Let me guess, you didn't believe your parents when they told you not to put your fingers inside the power socket, did you? Didn't you see the text telling you there's nothing to see here? Although it is quite interesting to see how Sarah will fit in here.)",,,,,
+"""""",narrator_34a6e31a,"Sarah looks inside the hole, trying to see where it leads.",,,,,
+"""""",narrator_a873a70f,"She learns nothing, since the hole is enveloped by darkness on the other side and she doesn't have any light sources.",,,,,
+"S """"",S_54055bdd,...,,,,,
+"S """"",S_5f026e75,I can't see anything!,,,,,
+"S """"",S_c30949f5,"Hm, where does it lead...",,,,,
+"S """"",S_5fef071b,"Only one way to learn that, climb inside it!",,,,,
+"S """"",S_b134784b,"(It might be a trap, but I have to try every way to escape this place presented to me!)",,,,,
+"S """"",S_61f9f507,"It's a bit small, but I have to at least try.",,,,,
+"""""",narrator_ac06ddd6,"Sarah, after carefully examining the hole, stuck her hand into it to check that it was somewhat safe on the other side.",,,,,
+"""""",narrator_14499473,"Next, she squeezed her head through it without much effort.",,,,,
+"""""",narrator_b02f8925,"But when she tried to put her shoulders in, problems arose. The hole was still too small for her.",,,,,
+"S """"",S_e649960a,"Oh come on, I have to get through!",,,,,
+"""""",narrator_a636acd7,"Sarah struggles for a while, but doesn't succeed in the slightest.",,,,,
+"S """"",S_4cc91c07,Damn!,,,,,
+"C """"",C_dc7d76d3,(...),,,,,
+"C """"",C_b8ef41da,"(If you think you're that thin, you are very, very wrong.)",,,,,
+"S """"",S_36db74d7,(He's right... It's definitely impossible for me to squeeze in there...),,,,,
+"S """"",S_32359d37,(I have to make it bigger!),,,,,
+"S """"",S_3f048848,I... I'm not yet ready...,,,,,
+"S """"",S_f9d01f6d,N-no! I-I'm not ready to do this again...,,,,,
+"""""",narrator_5d0f9292,"Sarah, remembering what happened last time, involuntarily swallowed the accumulated saliva in her mouth.",,,,,
+"S """"",S_3615a2fd,I-I need some time to recover.,,,,,
+"""""",narrator_0a86b855,"You're not of high enough level, complete other scenes first.",,,,,
+"S """"",S_cebb4cc0,T-this underwear... it prevents me from moving normally... I won't be able to put any force in my moves when I'm in it.,,,,,
+"S """"",S_d59e07e8,"It's big enough for me to get through, I don't need to make it even bigger.",,,,,
+"S """"",S_816da96d,I'm too tired to continue...,,,,,
+"""""",narrator_404656fe,"Sarah stepped back to the opposite side of the room, took a running start, and hit the wall with her leg in mid-air, which looked quite spectacularly.",,,,,
+"""""",narrator_f770887f,*Hit*,,,,,
+"S """"",S_0db2ecdf,I'm in great shape and I will succeed!,,,,,
+"S """"",S_54055bdd_1,...,,,,,
+"S """"",S_1f2b875d,I don't think anything's changed...,,,,,
+"S """"",S_a1667e81,I should train more!,,,,,
+"""""",narrator_bfd9b8a7,Sarah didn't get tired at all after hitting the wall with her leg and started punching it.,,,,,
+"S """"",S_c769c425,*Hit*{w=0.1}{nw},,,,,
+"extend """"",extend_a12ad493, *Hit*{w=0.1}{nw},,,,,
+"extend """"",extend_a12ad493_1, *Hit*{w=0.1}{nw},,,,,
+"extend """"",extend_6dc10f9e, *Hit*{w=0.1},,,,,
+"""""",narrator_9a78c468,"Under her assault, the wall crumbled a little bit.",,,,,
+"S """"",S_29ce5645,I'm doing it!,,,,,
+"C """"",C_72d81d12,(That's still not enough for you to escape.),,,,,
+"S """"",S_5976d67a,And you said I was a pessimist!,,,,,
+"C """"",C_dc7d76d3_1,(...),,,,,
+"S """"",S_c769c425_1,*Hit*{w=0.1}{nw},,,,,
+"extend """"",extend_a12ad493_2, *Hit*{w=0.1}{nw},,,,,
+"extend """"",extend_a12ad493_3, *Hit*{w=0.1}{nw},,,,,
+"extend """"",extend_6dc10f9e_1, *Hit*{w=0.1},,,,,
+"""""",narrator_ab50e68a,Sarah keeps pounding on the wall.,,,,,
+"""""",narrator_0da7a706,Some time later.,,,,,
+"S """"",S_775fca32,"Oh God, this is not as easy as I thought it was... It definitely requires more than a few hits.",,,,,
+"S """"",S_cfd77a62,"But it's definitely crumbling bit by bit, so I'll eventually escape!",,,,,
+"S """"",S_3eb0e15f,"But that's enough for today, I'm spent...",,,,,
+"S """"",S_c769c425_2,*Hit*{w=0.1}{nw},,,,,
+"extend """"",extend_a12ad493_4, *Hit*{w=0.1}{nw},,,,,
+"extend """"",extend_a12ad493_5, *Hit*{w=0.1}{nw},,,,,
+"extend """"",extend_6dc10f9e_2, *Hit*{w=0.1},,,,,
+"""""",narrator_9d31004d,"She goes on and on and on, her hope strong and her limbs even stronger.",,,,,
+"""""",narrator_0da7a706_1,Some time later.,,,,,
+"""""",narrator_0b990b05,"Finally, she managed to create a small hole in the wall, but it wasn't big enough to climb through.",,,,,
+"S """"",S_17ed8d71,"Hm, I can look inside it. What can be behind this wall?",,,,,
+"S """"",S_c769c425_3,*Hit*{w=0.1}{nw},,,,,
+"extend """"",extend_a12ad493_6, *Hit*{w=0.1}{nw},,,,,
+"extend """"",extend_a12ad493_7, *Hit*{w=0.1}{nw},,,,,
+"extend """"",extend_6dc10f9e_3, *Hit*{w=0.1},,,,,
+"""""",narrator_8074f655,Sarah hits the wall again and again.,,,,,
+"""""",narrator_0da7a706_2,Some time later.,,,,,
+"""""",narrator_ab1a2083,"Lots of kicks and hits later, the hole slightly increased in size, but it still wasn't big enough to climb through.",,,,,
+"S """"",S_4ef346cf,*Breathes heavily* I'm closer and closer!,,,,,
+"S """"",S_c769c425_4,*Hit*{w=0.1}{nw},,,,,
+"extend """"",extend_a12ad493_8, *Hit*{w=0.1}{nw},,,,,
+"extend """"",extend_a12ad493_9, *Hit*{w=0.1}{nw},,,,,
+"extend """"",extend_6dc10f9e_4, *Hit*{w=0.1},,,,,
+"""""",narrator_8074f655_1,Sarah hits the wall again and again.,,,,,
+"""""",narrator_383ad08c,"Finally, the wall increases in size once again.",,,,,
+"S """"",S_7bbb4a17,I think I can fit through it now!,,,,,
+"""""",narrator_aef1b586,"This activity is equivalent to physical training, so Sarah feels more confident and powerful.",,,,,
+"S """"",S_68dad96e,*Breathing heavily* Great... A great training session. But I shouldn't give it up in the future...,,,,,
+"""""",narrator_23d3cc74,Sarah didn't forget to train daily and is now her body is in a better shape than before.,,,,,
+"S """"",S_c8273a82,I think what I've done already is enough for today.,,,,,
+"S """"",S_3465465c,I think I shouldn't do that right now. I'll get back to it later.,,,,,
+"S """"",S_4caf5b34,"(Doesn't seem like a good idea to me. The better he sleeps, the better off I am...)",,,,,
+"S """"",S_310cfbc6,(I wouldn't want him to bother me again...),,,,,
+"S """"",S_6658bf67,...,,,,,
+"S """"",S_3a10036a,(I should keep him alone.),,,,,
+"""""",narrator_a817665b,"You're not of high enough level, complete other scenes first.",,,,,
+"""""",narrator_73d6dd44,Done?,,,,,
+"S """"",S_36ed9c1a,"Take this, you bastards!",,,,,
+"S """"",S_6e69cafc,"Commander, I request evacuation. I'm surrounded. ",,,,,
+"S """"",S_e06caaea,I repeat: I'm surrounded. Zerg are everywhere and I don't know for how much longer I'll be able to hold my position.,,,,,
+"S """"",S_0f911954,"Jim, what's happening? Why is there no response...",,,,,
+"S """"",S_bd02ae9b,They're coming!,,,,,
+"S """"",S_7382be45,There's more and more of them!,,,,,
+"S """"",S_6170be31,You won't get me this easily!,,,,,
+"Ssside1 """"",Ssside1_58d2252a,This is the end. And I can't even finish off some of these bastards before I go. I'll die right here.,,,,,
+"S """"",S_438133f3,...,,,,,
+"S """"",S_438133f3_1,...,,,,,
+"S """"",S_d0624430,Okay... I might be a little lost.,,,,,
+"S """"",S_28a4248c,"Well, are you going to respond or not? I'm talking to you!",,,,,
+"C """"",C_32b49ef2,Do I look like a guidebook?,,,,,
+"S """"",S_14a62c53,"{size=-1}We're in the same boat,{/size} {size=-2}stupid!{/size} {size=-3}Help me... Please.{/size}",,,,,
+"C """"",C_839c34a9,...,,,,,
+"C """"",C_ebb523ed,"Argh, alright. What's the issue?",,,,,
+"centered """"",centered_GrLBvYgB,"Hello, we want to tell you a bit about the new hint system for the third chapter.",,,,,
+"centered """"",centered_EoZsR6eX,Don't worry about temporarily missing characters. This is a planned evacuation.,,,,,
+"centered """"",centered_YrfaQ4A9,Back to the case.,,,,,
+"centered """"",centered_NoTCTvQs,"To see the hint, hover the cursor over Sai'mon.",,,,,
+"centered """"",centered_PgUZBBM8,"Great! Sai'mon will always tell you with whom you have an available dialogue, scene or any other action.",,,,,
+"centered """"",centered_XxGk2qqo,"Also, Sai'mon will tell you in what form you need to address the character, whether it is the form of Sarah or the form of the Queen of Blades.",,,,,
+"centered """"",centered_3ztBsd9H,"In this case, Sai'mon tells the player that {color=#be78e2}Lizzara{/color} has some business with {color=#eeb297}Sarah{/color}.",,,,,
+"centered """"",centered_nwBqDuMT,And now the {color=#eeb297}Queen of Blades{/color} needs to talk to the {color=#be78e2}Guardian{/color}.,,,,,
+"centered """"",centered_Ufinm7mj,"If there are no dialogues, scenes or other actions left, then you will see this icon. It means that you can finish the day.",,,,,
+"centered """"",centered_He2iPNKF,"If something is unclear, you can always launch this guide again.",,,,,
+"centered """"",centered_mkzRL3Uf,"If you don't want to receive Sai'mon's hints, you can disable them in the main settings of the game.",,,,,
+"centered """"",centered_33tJtHM7,"This is the end of the short guide, thank you for taking your time to read this.",,,,,
+"centered """"",centered_FScGcyx9,Have a nice game.,,,,,
+"""""",narrator_ea8840e6,Sarah had a dream about escaping and returning home.,,,,,
+"S """"",S_0cdae751,(Yes... I'm home...),,,,,
+"""""",narrator_6361e8b1,"She meets her friends, Raynor. She's happy.",,,,,
+"S """"",S_e204fd30,"(Yes... Home, finally...)",,,,,
+"""""",narrator_e52acdaf,Sarah had a good sleep and is full of energy. Her hunger increased.,,,,,
+"""""",narrator_5d6294d4,"She had nice dreams, her stress level decreased.",,,,,
+"""""",narrator_88e1ccc6,Sarah had a dream about escaping and getting revenge on Mengsk.,,,,,
+"S """"",S_0b4a9809,"(Yes... you deserve this, bastard...)",,,,,
+"""""",narrator_a3c2da4f,Mengsk falls down with a giant hole in his abdomen. Sarah's revels in victory.,,,,,
+"S """"",S_c47e54da,(Ahaha!),,,,,
+"""""",narrator_9a321082,Sarah had a good sleep and is full of energy. Her hunger increased.,,,,,
+"""""",narrator_a88fa9da,"She had nice dreams, her stress level decreased.",,,,,
+"""""",narrator_3b73754b,Sarah had a dream about being captured by zerg.,,,,,
+"S """"",S_c8d9d975,"(No... no... let me go... not the parasite, no...)",,,,,
+"""""",narrator_d66fd341,She dreams of being experimented on.,,,,,
+"S """"",S_9324437a,(Stop this... I can't...),,,,,
+"""""",narrator_90f8420b,Sarah had a good sleep and is full of energy. Her hunger increased.,,,,,
+"""""",narrator_719a71bf,"She had nightmares, her stress level decreased.",,,,,
+"""""",narrator_37a96aee,Sarah had a dream about the parasite in her head.,,,,,
+"S """"",S_13bad059,"(No... he controls me, no...)",,,,,
+"""""",narrator_b8b86716,The parasite makes Sarah masturbate.,,,,,
+"S """"",S_dd288d12,"(No, what are you doing... I don't want to, no...)",,,,,
+"""""",narrator_5c294564,Sarah had a good sleep and is full of energy. Her hunger increased.,,,,,
+"""""",narrator_4e0f7c00,"She had nightmares, her stress level decreased.",,,,,
+"""""",narrator_f4b64d53,Sarah had a dream about being raped by tentacles.,,,,,
+"S """"",S_8542f788,"(Yuck, let me go... help...)",,,,,
+"""""",narrator_0be09828,"Tentacles enter her: they are in her mouth, vagina and anus.",,,,,
+"S """"",S_4230925c,(No... grhl...),,,,,
+"""""",narrator_ce56979c,Sarah had a good sleep and is full of energy. Her hunger increased.,,,,,
+"""""",narrator_b5009fb2,"She had nightmares, her stress level decreased.",,,,,
+"""""",narrator_82b6f4d6,Sarah had a dream about exposing her chest to Stukov.,,,,,
+"S """"",S_39d13366,(I feel so ashamed... Why's he glaring at me...),,,,,
+"""""",narrator_755b7300,A couple of zerg and Sarah's squad members enter the room and start glaring at her naked chest.,,,,,
+"S """"",S_a595671c,"(No... he controls me, no...)",,,,,
+"""""",narrator_1738312c,Sarah had a good sleep and is full of energy. Her hunger increased.,,,,,
+"""""",narrator_ec014682,"She had nightmares, her stress level decreased.",,,,,
+"""""",narrator_c2a9eaf5,"She had nightmares, her stress level decreased.",,,,,
+"S """"",S_05ab28fe,(Dirty pervert... Get your hands away from me...),,,,,
+"""""",narrator_59c3ede2,Stukov keeps on massaging Sarah's breasts. Then he starts licking her nipples.,,,,,
+"S """"",S_3784b330,(Stop it... I don't want this...),,,,,
+"""""",narrator_5031b81c,Sarah had a good sleep and is full of energy. Her hunger increased.,,,,,
+"""""",narrator_54b6173f,"She had nightmares, her stress level decreased.",,,,,
+"""""",narrator_2405097e,Sarah had a dream about exposing her pussy to Stukov.,,,,,
+"S """"",S_4d9d7f5e,(Stop it... Don't look at me like that...),,,,,
+"""""",narrator_8b6a765e,Stukov starts licking and touching Sarah's pussy.,,,,,
+"S """"",S_3c33ed26,(Ah... What are you doing... I... Ah...),,,,,
+"""""",narrator_d36772ef,Sarah had a good sleep and is full of energy. Her hunger increased.,,,,,
+"""""",narrator_9d82a81e,"She had nice dreams, her stress level decreased.",,,,,
+"""""",narrator_120d7777,Sarah had a dream about exposing herself to Stukov and him touching her.,,,,,
+"S """"",S_ae6ac55e,"(No, stop this... This's not...)",,,,,
+"""""",narrator_6161618a,Stukov pushes the tentacle he has instead of a hand into Sarah's vagina.,,,,,
+"S """"",S_3325c185,(Ah... no... I'm not ready... but it feels so good...),,,,,
+"""""",narrator_d7e33348,Sarah had a good sleep and is full of energy. Her hunger increased.,,,,,
+"""""",narrator_13360666,"She had nice dreams, her stress level decreased.",,,,,
+"""""",narrator_eda5a50c,Sarah dreamt about the local food.,,,,,
+"S """"",S_e10224a1,(So disgusting... I'll never eat this again... never...),,,,,
+"""""",narrator_0e7553a6,Sarah feels the stiff substance in her stomach.,,,,,
+"S """"",S_10f45d19,(I want to throw up...),,,,,
+"""""",narrator_92136126,Sarah had a good sleep and is full of energy. Her hunger increased.,,,,,
+"""""",narrator_a44ae25e,"She had nightmares, her stress level decreased.",,,,,
+"""""",narrator_eaeb645b,Sarah's hungry. She can feel the hunger even when asleep.,,,,,
+"S """"",S_fd31b61e,(I want to eat... so bad...),,,,,
+"""""",narrator_adfc3eb3,Sarah's belly audibly growls.,,,,,
+"S """"",S_7b9691bb,(I miss it so much... so... delicious...),,,,,
+"""""",narrator_9a4253c8,Sarah had a good sleep and is full of energy. Her hunger increased.,,,,,
+"""""",narrator_6bdffbad,"She had nightmares, her stress level decreased.",,,,,
+"""""",narrator_27c4c42a,Sarah isn't hungry. She has a dream about that day's events.,,,,,
+"S """"",S_4d1206d4,(It was so... good...),,,,,
+"""""",narrator_43533bcc,Sarah's pussy turns wet. She subconsciously moves her hand toward her groin.,,,,,
+"S """"",S_c5584f8c,(Stukov watched me... so unusual...),,,,,
+"""""",narrator_58a51638,Sarah had a good sleep and is full of energy. Her hunger increased.,,,,,
+"""""",narrator_349a1ae6,"She had nice dreams, her stress level decreased.",,,,,

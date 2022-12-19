@@ -1,663 +1,663 @@
-"location","source","target","ID","fuzzy","context","translator_comments","developer_comments"
-"""""","narrator_7ed1a731","","","False","","",""
-"S1 """"","S1_26ddff3d","","","False","","",""
-"S1 """"","S1_954f80d5","","","False","","",""
-"""""","narrator_f97f768c","","","False","","",""
-"S1 """"","S1_61ee369d","","","False","","",""
-"S1 """"","S1_673dc1bf","","","False","","",""
-"""""","narrator_d3ea1a3f","","","False","","",""
-"Os """"","Os_1e7d9399","","","False","","",""
-"S1 """"","S1_daaa33cb","","","False","","",""
-"S1 """"","S1_ce8586a8","","","False","","",""
-"S1 """"","S1_3053b5c1","","","False","","",""
-"""""","narrator_b62aa021","","","False","","",""
-"Os """"","Os_089ccc8c","","","False","","",""
-"S1 """"","S1_d1d07c22","","","False","","",""
-"S1 """"","S1_3462bc06","","","False","","",""
-"""""","narrator_5561f620","","","False","","",""
-"S1 """"","S1_01b05e5c","","","False","","",""
-"S1 """"","S1_5c8245f0","","","False","","",""
-"S1 """"","S1_ead0a654","","","False","","",""
-"S1 """"","S1_75a5a72f","","","False","","",""
-"S1 """"","S1_460471c0","","","False","","",""
-"Os """"","Os_4d83cd3a","","","False","","",""
-"Os """"","Os_29856d0c","","","False","","",""
-"S1 """"","S1_40d49c0f","","","False","","",""
-"S1 """"","S1_0eae4b54","","","False","","",""
-"""""","narrator_8e74624f","","","False","","",""
-"S1 """"","S1_74ba5797","","","False","","",""
-"S1 """"","S1_8036f146","","","False","","",""
-"""""","narrator_53cd31b0","","","False","","",""
-"Os """"","Os_f4d775df","","","False","","",""
-"S1 """"","S1_0178e943","","","False","","",""
-"""""","narrator_84e72188","","","False","","",""
-"Os """"","Os_f19b91ce","","","False","","",""
-"Os """"","Os_631c27ec","","","False","","",""
-"Os """"","Os_11251b55","","","False","","",""
-"""""","narrator_49982afa","","","False","","",""
-"S1 """"","S1_6284c46d","","","False","","",""
-"Os """"","Os_a9d457ad","","","False","","",""
-"S1 """"","S1_9807eeee","","","False","","",""
-"Os """"","Os_8b977a12","","","False","","",""
-"Os """"","Os_35a394ff","","","False","","",""
-"S1 """"","S1_d9947886","","","False","","",""
-"Os """"","Os_23bfcd3e","","","False","","",""
-"Os """"","Os_3d174251","","","False","","",""
-"S1 """"","S1_4c736cca","","","False","","",""
-"S1 """"","S1_b1c91bdf","","","False","","",""
-"S1 """"","S1_a381b202","","","False","","",""
-"S1 """"","S1_618534fa","","","False","","",""
-"""""","narrator_dec67f5e","","","False","","",""
-"""""","narrator_6f5e71a3","","","False","","",""
-"S1 """"","S1_7047c9ce","","","False","","",""
-"S1 """"","S1_24673826","","","False","","",""
-"Os """"","Os_cf6203af","","","False","","",""
-"S1 """"","S1_242ee7c0","","","False","","",""
-"""""","narrator_43fd2c8f","","","False","","",""
-"S1 """"","S1_abdb2f36","","","False","","",""
-"S1 """"","S1_e360ca6b","","","False","","",""
-"S1 """"","S1_aaa72d1d","","","False","","",""
-"S1 """"","S1_1553a3d4","","","False","","",""
-"Os """"","Os_5aeabdcb","","","False","","",""
-"S1 """"","S1_d20ce84c","","","False","","",""
-"S1 """"","S1_f3467d94","","","False","","",""
-"""""","narrator_fc4bf9dd","","","False","","",""
-"Os """"","Os_acb00a9c","","","False","","",""
-"S1 """"","S1_b9852449","","","False","","",""
-"Os """"","Os_cb0ef91b","","","False","","",""
-"""""","narrator_b794eb48","","","False","","",""
-"""""","narrator_cf8fb617","","","False","","",""
-"S1 """"","S1_7d65b2f2","","","False","","",""
-"Os """"","Os_de39f608","","","False","","",""
-"Os """"","Os_e9f02b38","","","False","","",""
-"S1 """"","S1_9947e53c","","","False","","",""
-"""""","narrator_8b7345af","","","False","","",""
-"S1 """"","S1_f2f60ce7","","","False","","",""
-"S1 """"","S1_0b85e5d0","","","False","","",""
-"""""","narrator_cb1f68af","","","False","","",""
-"S1 """"","S1_6fc3ee1c","","","False","","",""
-"Os """"","Os_9bd2a4a6","","","False","","",""
-"S1 """"","S1_fbb85c1e","","","False","","",""
-"""""","narrator_110dd485","","","False","","",""
-"Os """"","Os_795fa2c1","","","False","","",""
-"S1 """"","S1_6ffeaa43","","","False","","",""
-"""""","narrator_7fe3dff8","","","False","","",""
-"S1 """"","S1_be5cdd1e","","","False","","",""
-"""""","narrator_2caf2cae","","","False","","",""
-"S1 """"","S1_85ea4789","","","False","","",""
-"S1 """"","S1_3a0a364e","","","False","","",""
-"S1 """"","S1_6d6a51d2","","","False","","",""
-"S1 """"","S1_bfb0e97e","","","False","","",""
-"Os """"","Os_fe006147","","","False","","",""
-"""""","narrator_ab338340","","","False","","",""
-"S1 """"","S1_9b6b88fc","","","False","","",""
-"""""","narrator_394ea0a9","","","False","","",""
-"S1 """"","S1_33f01bf5","","","False","","",""
-"S1 """"","S1_c78eb681","","","False","","",""
-"""""","narrator_4aa8c04b","","","False","","",""
-"S1 """"","S1_bfe38cbd","","","False","","",""
-"Os """"","Os_97e2e70a","","","False","","",""
-"S1 """"","S1_1dfb7f1b","","","False","","",""
-"""""","narrator_15cac98d","","","False","","",""
-"S1 """"","S1_1dbe16bd","","","False","","",""
-"S1 """"","S1_3227a10d","","","False","","",""
-"Os """"","Os_6f17ba71","","","False","","",""
-"S1 """"","S1_36845026","","","False","","",""
-"""""","narrator_d8ad7126","","","False","","",""
-"S1 """"","S1_54f4dd24","","","False","","",""
-"S1 """"","S1_eb5282ea","","","False","","",""
-"S1 """"","S1_5a6b8bea","","","False","","",""
-"""""","narrator_0bfc6b37","","","False","","",""
-"S1 """"","S1_996a18d4","","","False","","",""
-"S1 """"","S1_be5cdd1e_1","","","False","","",""
-"""""","narrator_ea6d616c","","","False","","",""
-"S1 """"","S1_fffdc224","","","False","","",""
-"""""","narrator_096282ea","","","False","","",""
-"Os """"","Os_cbf8bd73","","","False","","",""
-"S1 """"","S1_af9b329e","","","False","","",""
-"S1 """"","S1_c8769828","","","False","","",""
-"S1 """"","S1_40a554b0","","","False","","",""
-"Os """"","Os_1e2cb592","","","False","","",""
-"""""","narrator_9b1ca91c","","","False","","",""
-"S1 """"","S1_496b01f5","","","False","","",""
-"S1 """"","S1_2ec4c559","","","False","","",""
-"Os """"","Os_49518be1","","","False","","",""
-"""""","narrator_37607ca5","","","False","","",""
-"S1 """"","S1_e44ad5a0","","","False","","",""
-"""""","narrator_7cb6a015","","","False","","",""
-"S1 """"","S1_baa0e81e","","","False","","",""
-"""""","narrator_d0c43f82","","","False","","",""
-"S1 """"","S1_d2a02694","","","False","","",""
-"Os """"","Os_69b5778a","","","False","","",""
-"""""","narrator_d633a643","","","False","","",""
-"S1 """"","S1_3ed4089f","","","False","","",""
-"S1 """"","S1_19517c5c","","","False","","",""
-"""""","narrator_6a53d565","","","False","","",""
-"S1 """"","S1_21e19b0b","","","False","","",""
-"""""","narrator_50735961","","","False","","",""
-"Os """"","Os_656ec9db","","","False","","",""
-"S1 """"","S1_3f9f6b5d","","","False","","",""
-"""""","narrator_a7620afb","","","False","","",""
-"""""","narrator_38203ba2","","","False","","",""
-"S1 """"","S1_be5cdd1e_2","","","False","","",""
-"S1 """"","S1_7363fbcb","","","False","","",""
-"S1 """"","S1_aa23e8d7","","","False","","",""
-"S1 """"","S1_24301149","","","False","","",""
-"""""","narrator_6bd7ba7d","","","False","","",""
-"Os """"","Os_2acd46d1","","","False","","",""
-"S1 """"","S1_bfb9cc71","","","False","","",""
-"S1 """"","S1_fc40046e","","","False","","",""
-"""""","narrator_024cab30","","","False","","",""
-"S1 """"","S1_751fa2d4","","","False","","",""
-"Os """"","Os_1a0e34c0","","","False","","",""
-"""""","narrator_98a31d2a","","","False","","",""
-"S1 """"","S1_4c453b60","","","False","","",""
-"Os """"","Os_90f5df92","","","False","","",""
-"S1 """"","S1_fcbb5104","","","False","","",""
-"Os """"","Os_b1b06894","","","False","","",""
-"Os """"","Os_a9714a4a","","","False","","",""
-"""""","narrator_e83bb97a","","","False","","",""
-"S1 """"","S1_8ebc0312","","","False","","",""
-"Os """"","Os_8be36333","","","False","","",""
-"""""","narrator_fc8f713a","","","False","","",""
-"S1 """"","S1_d4ea75c7","","","False","","",""
-"S1 """"","S1_72b049d4","","","False","","",""
-"""""","narrator_d1c13fdf","","","False","","",""
-"S1 """"","S1_ab85fea2","","","False","","",""
-"S1 """"","S1_a58ee9a2","","","False","","",""
-"S1 """"","S1_ad914422","","","False","","",""
-"S1 """"","S1_785b3651","","","False","","",""
-"S1 """"","S1_09ab58e3","","","False","","",""
-"S1 """"","S1_ba34d2a5","","","False","","",""
-"S1 """"","S1_7572affd","","","False","","",""
-"S1 """"","S1_421a88f9","","","False","","",""
-"S1 """"","S1_081f58ee","","","False","","",""
-"S1 """"","S1_3dd77579","","","False","","",""
-"S1 """"","S1_cb62b0e0","","","False","","",""
-"S1 """"","S1_5b18b03e","","","False","","",""
-"""""","narrator_911ce5a0","","","False","","",""
-"S """"","S_033b1a2d","","","False","","",""
-"""""","narrator_bd2f0955","","","False","","",""
-"S """"","S_51d33fb1","","","False","","",""
-"S """"","S_7845b16c","","","False","","",""
-"S """"","S_10c716e8","","","False","","",""
-"S """"","S_59fd4d2c","","","False","","",""
-"S """"","S_ee55d66f","","","False","","",""
-"S """"","S_3f523b89","","","False","","",""
-"S """"","S_1949ccc6","","","False","","",""
-"""""","narrator_69912790","","","False","","",""
-"S """"","S_f36129e4","","","False","","",""
-"S """"","S_3d774228","","","False","","",""
-"S """"","S_0aa0e599","","","False","","",""
-"S """"","S_f60ed215","","","False","","",""
-"S """"","S_bf3b9c31","","","False","","",""
-"S """"","S_17a24a49","","","False","","",""
-"S """"","S_72615c54","","","False","","",""
-"""""","narrator_06165c07","","","False","","",""
-"S """"","S_29de5528","","","False","","",""
-"""""","narrator_f39552ff","","","False","","",""
-"S """"","S_f36129e4_1","","","False","","",""
-"S """"","S_d27fafe3","","","False","","",""
-"S """"","S_b1526985","","","False","","",""
-"S """"","S_918f0f1d","","","False","","",""
-"S """"","S_33383aeb","","","False","","",""
-"S """"","S_b85fa902","","","False","","",""
-"S """"","S_7f6210d9","","","False","","",""
-"S """"","S_d6b84345","","","False","","",""
-"S """"","S_d4f4fb4b","","","False","","",""
-"S """"","S_28addfc4","","","False","","",""
-"""""","narrator_baff06d3","","","False","","",""
-"S """"","S_959a5105","","","False","","",""
-"S """"","S_4e404242","","","False","","",""
-"S """"","S_6fdcefb4","","","False","","",""
-"S """"","S_8a11ac14","","","False","","",""
-"S """"","S_f36129e4_2","","","False","","",""
-"S """"","S_56828164","","","False","","",""
-"S """"","S_024c580f","","","False","","",""
-"S """"","S_a89d7910","","","False","","",""
-"S """"","S_c41dc781","","","False","","",""
-"S """"","S_80ab790c","","","False","","",""
-"S """"","S_dc191655","","","False","","",""
-"""""","narrator_271eecaf","","","False","","",""
-"S """"","S_d63de862","","","False","","",""
-"S """"","S_a7736e1e","","","False","","",""
-"S """"","S_43957e9c","","","False","","",""
-"S """"","S_3c216b4d","","","False","","",""
-"S """"","S_e60a0d45","","","False","","",""
-"S """"","S_0495e600","","","False","","",""
-"S """"","S_c78d20f7","","","False","","",""
-"S """"","S_ec715ed5","","","False","","",""
-"""""","narrator_0f48e6ae","","","False","","",""
-"S1 """"","S1_6e404301","","","False","","",""
-"S """"","S_1947e3e7","","","False","","",""
-"S1 """"","S1_ae3bf3d5","","","False","","",""
-"S """"","S_05a19678","","","False","","",""
-"S1 """"","S1_e3d34f1a","","","False","","",""
-"S1 """"","S1_efcb7cb6","","","False","","",""
-"S """"","S_94786afc","","","False","","",""
-"S1 """"","S1_7ac5345a","","","False","","",""
-"S """"","S_a8146502","","","False","","",""
-"S1 """"","S1_85ed24d8","","","False","","",""
-"S1 """"","S1_8aecfb61","","","False","","",""
-"S1 """"","S1_0ef51e64","","","False","","",""
-"S1 """"","S1_9fa26981","","","False","","",""
-"S1 """"","S1_d4a528b1","","","False","","",""
-"""""","narrator_824a6022","","","False","","",""
-"S1 """"","S1_6dc6bf28","","","False","","",""
-"S """"","S_7a21b849","","","False","","",""
-"S1 """"","S1_5daac3ad","","","False","","",""
-"S1 """"","S1_efc28900","","","False","","",""
-"S """"","S_1d34c664","","","False","","",""
-"S1 """"","S1_c0b19ae3","","","False","","",""
-"S1 """"","S1_e62339e8","","","False","","",""
-"S """"","S_c3d89a52","","","False","","",""
-"S1 """"","S1_fe365c91","","","False","","",""
-"S """"","S_79a12505","","","False","","",""
-"S """"","S_64138c6f","","","False","","",""
-"S1 """"","S1_5e2e70ad","","","False","","",""
-"S """"","S_a9315312","","","False","","",""
-"S """"","S_f7132cc9","","","False","","",""
-"S """"","S_e5117889","","","False","","",""
-"S """"","S_51439052","","","False","","",""
-"S """"","S_b65d3311","","","False","","",""
-"S1 """"","S1_18f84950","","","False","","",""
-"""""","narrator_7f9e6729","","","False","","",""
-"S1 """"","S1_5e3dc2e5","","","False","","",""
-"S """"","S_5178ea18","","","False","","",""
-"""""","narrator_6bbba119","","","False","","",""
-"S """"","S_ae876a29","","","False","","",""
-"S1 """"","S1_35c2f970","","","False","","",""
-"S1 """"","S1_13ccbd45","","","False","","",""
-"S """"","S_30a47ee1","","","False","","",""
-"S """"","S_0632a4ba","","","False","","",""
-"S """"","S_f74111bb","","","False","","",""
-"S """"","S_f19a26ff","","","False","","",""
-"S1 """"","S1_2f1dfd41","","","False","","",""
-"S """"","S_f36129e4_3","","","False","","",""
-"S1 """"","S1_2e728841","","","False","","",""
-"S1 """"","S1_ce90605e","","","False","","",""
-"S """"","S_b8f3c0ea","","","False","","",""
-"S1 """"","S1_aaeccbb9","","","False","","",""
-"S """"","S_37d8e872","","","False","","",""
-"S1 """"","S1_bbf03758","","","False","","",""
-"S1 """"","S1_8ee6ae95","","","False","","",""
-"S """"","S_007d4ee9","","","False","","",""
-"S1 """"","S1_b2ec33da","","","False","","",""
-"S """"","S_2e40d9ab","","","False","","",""
-"""""","narrator_76f821bd","","","False","","",""
-"S """"","S_fe6f45ef","","","False","","",""
-"S """"","S_2a5e3eae","","","False","","",""
-"""""","narrator_461f35ba","","","False","","",""
-"S """"","S_77d77d21","","","False","","",""
-"S """"","S_91a642d6","","","False","","",""
-"S """"","S_d79a0586","","","False","","",""
-"S """"","S_87f1f6af","","","False","","",""
-"S """"","S_b7f6d27b","","","False","","",""
-"""""","narrator_19cc0387","","","False","","",""
-"S """"","S_68c72b5d","","","False","","",""
-"S """"","S_f88bab0f","","","False","","",""
-"S """"","S_0f171f4c","","","False","","",""
-"S """"","S_483a0bfa","","","False","","",""
-"""""","narrator_5c2bc7e3","","","False","","",""
-"""""","narrator_86b00512","","","False","","",""
-"Os """"","Os_5a99871d","","","False","","",""
-"S """"","S_950adc36","","","False","","",""
-"S """"","S_571da309","","","False","","",""
-"S """"","S_6710a421","","","False","","",""
-"""""","narrator_f2d53aae","","","False","","",""
-"""""","narrator_34df9320","","","False","","",""
-"S """"","S_2fcd35ea","","","False","","",""
-"Os """"","Os_e87948b3","","","False","","",""
-"S """"","S_d8ffb195","","","False","","",""
-"S """"","S_f65fbbd1","","","False","","",""
-"""""","narrator_5ae98d9b","","","False","","",""
-"S """"","S_4b6d7d61","","","False","","",""
-"""""","narrator_89df89b8","","","False","","",""
-"S """"","S_b33ea31c","","","False","","",""
-"Os """"","Os_95a7ba00","","","False","","",""
-"S """"","S_8b4afeaa","","","False","","",""
-"""""","narrator_a1193b36","","","False","","",""
-"Os """"","Os_b77c779b","","","False","","",""
-"Os """"","Os_6d0594eb","","","False","","",""
-"""""","narrator_94e252b2","","","False","","",""
-"Os """"","Os_56638a15","","","False","","",""
-"Os """"","Os_73fecc73","","","False","","",""
-"S """"","S_01f50587","","","False","","",""
-"S """"","S_5b75e256","","","False","","",""
-"""""","narrator_1b2e69ee","","","False","","",""
-"S """"","S_153d1a63","","","False","","",""
-"S """"","S_16a04811","","","False","","",""
-"Os """"","Os_05dfe2b4","","","False","","",""
-"""""","narrator_bc64d297","","","False","","",""
-"Os """"","Os_1e5ccc98","","","False","","",""
-"S """"","S_593e86ea","","","False","","",""
-"S """"","S_1b618c98","","","False","","",""
-"S """"","S_6ba02e54","","","False","","",""
-"S """"","S_500d31ef","","","False","","",""
-"S """"","S_33d3a1e5","","","False","","",""
-"S """"","S_cbaca54a","","","False","","",""
-"S """"","S_cd35f18a","","","False","","",""
-"S """"","S_8986f3e8","","","False","","",""
-"centered """"","centered_eccd30d0","","","False","","",""
-"centered """"","centered_08f8dabb","","","False","","",""
-"S """"","S_151b85ea","","","False","","",""
-"""""","narrator_0be3553d","","","False","","",""
-"S """"","S_f073cc2c","","","False","","",""
-"""""","narrator_29c0810c","","","False","","",""
-"""""","narrator_fc461117","","","False","","",""
-"S """"","S_4d7fa09d","","","False","","",""
-"S """"","S_198f70c5","","","False","","",""
-"""""","narrator_7d7b25de","","","False","","",""
-"S """"","S_f67b3c8b","","","False","","",""
-"S """"","S_a153ed1c","","","False","","",""
-"S """"","S_c6f3bfcf","","","False","","",""
-"""""","narrator_573c036d","","","False","","",""
-"S """"","S_835b7fa6","","","False","","",""
-"S """"","S_bbf8d7ec","","","False","","",""
-"""""","narrator_e404a65b","","","False","","",""
-"S """"","S_2b607dc3","","","False","","",""
-"S """"","S_0235477e","","","False","","",""
-"""""","narrator_9dc5d0c6","","","False","","",""
-"S """"","S_84efd265","","","False","","",""
-"""""","narrator_9c80a1f3","","","False","","",""
-"S """"","S_aeb0d393","","","False","","",""
-"Os """"","Os_7c6ecabb","","","False","","",""
-"S """"","S_40507b25","","","False","","",""
-"Os """"","Os_126be0f0","","","False","","",""
-"S """"","S_60071162","","","False","","",""
-"S """"","S_119071d6","","","False","","",""
-"""""","narrator_3d599232","","","False","","",""
-"S """"","S_3d7c987f","","","False","","",""
-"Os """"","Os_9f9675a0","","","False","","",""
-"S """"","S_b38e5a94","","","False","","",""
-"S """"","S_7e5b5c5d","","","False","","",""
-"S """"","S_d7aad6b7","","","False","","",""
-"S """"","S_05dd653f","","","False","","",""
-"""""","narrator_60f3efec","","","False","","",""
-"Os """"","Os_80cf2ef0","","","False","","",""
-"""""","narrator_609fa325","","","False","","",""
-"Os """"","Os_bd2048dd","","","False","","",""
-"S """"","S_cfc330b8","","","False","","",""
-"""""","narrator_feb190d7","","","False","","",""
-"Os """"","Os_8cf43ee7","","","False","","",""
-"S """"","S_9ec215ae","","","False","","",""
-"""""","narrator_121d354a","","","False","","",""
-"S """"","S_929d035c","","","False","","",""
-"S """"","S_4e884fc2","","","False","","",""
-"""""","narrator_79031901","","","False","","",""
-"S """"","S_9cd1a097","","","False","","",""
-"S """"","S_551d59cf","","","False","","",""
-"Os """"","Os_28b53e7c","","","False","","",""
-"S """"","S_3d4a7495","","","False","","",""
-"""""","narrator_a80f4e13","","","False","","",""
-"S """"","S_cba098a6","","","False","","",""
-"""""","narrator_6e91df8b","","","False","","",""
-"S """"","S_d5b4636e","","","False","","",""
-"S """"","S_8b6cbd23","","","False","","",""
-"""""","narrator_18556bc0","","","False","","",""
-"S """"","S_6339e7bc","","","False","","",""
-"S """"","S_79af19e3","","","False","","",""
-"""""","narrator_d51d92f2","","","False","","",""
-"S """"","S_78147e44","","","False","","",""
-"Os """"","Os_fd503feb","","","False","","",""
-"S """"","S_0e623ae4","","","False","","",""
-"Os """"","Os_9b87aa52","","","False","","",""
-"S """"","S_c7d670b3","","","False","","",""
-"S """"","S_2af2e2cf","","","False","","",""
-"""""","narrator_62fb9470","","","False","","",""
-"S """"","S_53f99504","","","False","","",""
-"""""","narrator_93305687","","","False","","",""
-"S """"","S_9a34200a","","","False","","",""
-"S """"","S_711c56f6","","","False","","",""
-"Os """"","Os_63c2059f","","","False","","",""
-"S """"","S_f75eb8b0","","","False","","",""
-"""""","narrator_f5827c63","","","False","","",""
-"Os """"","Os_630c22cd","","","False","","",""
-"S """"","S_321d793a","","","False","","",""
-"""""","narrator_242b7168","","","False","","",""
-"S """"","S_55b9e7ed","","","False","","",""
-"""""","narrator_5a26c751","","","False","","",""
-"S """"","S_d330c344","","","False","","",""
-"""""","narrator_7cddbfff","","","False","","",""
-"Os """"","Os_df88f5b4","","","False","","",""
-"S """"","S_a61c7879","","","False","","",""
-"S """"","S_0f5a7220","","","False","","",""
-"Os """"","Os_6a80aa74","","","False","","",""
-"S """"","S_f79fc59d","","","False","","",""
-"S """"","S_f2b32858","","","False","","",""
-"""""","narrator_429a68ad","","","False","","",""
-"S """"","S_eb7aebe2","","","False","","",""
-"S """"","S_a892f593","","","False","","",""
-"""""","narrator_3970504c","","","False","","",""
-"S """"","S_2f8a5be3","","","False","","",""
-"""""","narrator_afed70b2","","","False","","",""
-"S """"","S_2c087dac","","","False","","",""
-"Os """"","Os_2cffc65c","","","False","","",""
-"S """"","S_37ab3510","","","False","","",""
-"S """"","S_8ea9f819","","","False","","",""
-"""""","narrator_4c795d09","","","False","","",""
-"S """"","S_b7d32777","","","False","","",""
-"Os """"","Os_6a5332b6","","","False","","",""
-"Os """"","Os_2506056f","","","False","","",""
-"S """"","S_da356b59","","","False","","",""
-"Os """"","Os_d3aec9dc","","","False","","",""
-"S """"","S_40998b06","","","False","","",""
-"""""","narrator_17bb4cfb","","","False","","",""
-"S """"","S_1651850d","","","False","","",""
-"Os """"","Os_10e2bf0b","","","False","","",""
-"S """"","S_2a263f26","","","False","","",""
-"S """"","S_29c453ee","","","False","","",""
-"""""","narrator_6e4cc00c","","","False","","",""
-"S """"","S_f3a2d0a4","","","False","","",""
-"""""","narrator_14514816","","","False","","",""
-"S """"","S_f912c9b5","","","False","","",""
-"S """"","S_a3ed4b5c","","","False","","",""
-"""""","narrator_9086d6db","","","False","","",""
-"Os """"","Os_194a80d4","","","False","","",""
-"""""","narrator_1d40838e","","","False","","",""
-"Os """"","Os_810508d6","","","False","","",""
-"S """"","S_519f3855","","","False","","",""
-"""""","narrator_498f2172","","","False","","",""
-"S """"","S_01d54e41","","","False","","",""
-"""""","narrator_bdf04fa0","","","False","","",""
-"S """"","S_ff3c1c75","","","False","","",""
-"""""","narrator_44997260","","","False","","",""
-"""""","narrator_e01e38ff","","","False","","",""
-"Os """"","Os_0a8d0c5a","","","False","","",""
-"S """"","S_d0f662a0","","","False","","",""
-"""""","narrator_352f025c","","","False","","",""
-"S """"","S_720710a7","","","False","","",""
-"S """"","S_c988ac12","","","False","","",""
-"S """"","S_7e13cdcb","","","False","","",""
-"""""","narrator_8255d47a","","","False","","",""
-"S """"","S_6ce7eb5c","","","False","","",""
-"""""","narrator_03253e67","","","False","","",""
-"Os """"","Os_2deb562e","","","False","","",""
-"S """"","S_16b67dd7","","","False","","",""
-"Os """"","Os_501d210a","","","False","","",""
-"S """"","S_91ec043d","","","False","","",""
-"Os """"","Os_f1f7b041","","","False","","",""
-"S """"","S_a9ef45e8","","","False","","",""
-"""""","narrator_c3c35144","","","False","","",""
-"S """"","S_93c2d3cc","","","False","","",""
-"S """"","S_ee921cf4","","","False","","",""
-"""""","narrator_7df70ef8","","","False","","",""
-"Os """"","Os_6df3c2bc","","","False","","",""
-"""""","narrator_99d8b6d9","","","False","","",""
-"Os """"","Os_fdd50029","","","False","","",""
-"S """"","S_038efc49","","","False","","",""
-"Os """"","Os_615b801e","","","False","","",""
-"S """"","S_507b6add","","","False","","",""
-"S """"","S_f25c50c6","","","False","","",""
-"""""","narrator_8e706505","","","False","","",""
-"S """"","S_1709229f","","","False","","",""
-"S """"","S_78dec233","","","False","","",""
-"""""","narrator_b8e69a15","","","False","","",""
-"""""","narrator_b4ae863f","","","False","","",""
-"S """"","S_bc524d6b","","","False","","",""
-"Os """"","Os_93e689e4","","","False","","",""
-"""""","narrator_a3ee6b2f","","","False","","",""
-"S """"","S_ea214dd2","","","False","","",""
-"S """"","S_188622dc","","","False","","",""
-"""""","narrator_11f0e892","","","False","","",""
-"S """"","S_d70e34c2","","","False","","",""
-"S """"","S_1ca4cbe8","","","False","","",""
-"""""","narrator_2127687c","","","False","","",""
-"S """"","S_e09fc0d0","","","False","","",""
-"S """"","S_13f78c3d","","","False","","",""
-"""""","narrator_6ae38c93","","","False","","",""
-"S """"","S_e9241706","","","False","","",""
-"S """"","S_ccf9c007","","","False","","",""
-"""""","narrator_ba41c281","","","False","","",""
-"S """"","S_cf15b7dc","","","False","","",""
-"S """"","S_0a671c8d","","","False","","",""
-"Os """"","Os_dbf48473","","","False","","",""
-"S """"","S_f5da9757","","","False","","",""
-"""""","narrator_1d323d4d","","","False","","",""
-"""""","narrator_841e89e7","","","False","","",""
-"S """"","S_9bd03ab1","","","False","","",""
-"""""","narrator_577eb11a","","","False","","",""
-"S """"","S_a10ac9d3","","","False","","",""
-"Os """"","Os_58887929","","","False","","",""
-"S """"","S_93ae202a","","","False","","",""
-"""""","narrator_4711075f","","","False","","",""
-"S """"","S_b20f17ab","","","False","","",""
-"""""","narrator_4c194945","","","False","","",""
-"S """"","S_83358adf","","","False","","",""
-"S """"","S_972c45e2","","","False","","",""
-"""""","narrator_68691ae0","","","False","","",""
-"S """"","S_ababb88e","","","False","","",""
-"S """"","S_5c60ebea","","","False","","",""
-"""""","narrator_49ac0124","","","False","","",""
-"S """"","S_0a649e68","","","False","","",""
-"""""","narrator_bc5f530f","","","False","","",""
-"S """"","S_151b85ea_1","","","False","","",""
-"""""","narrator_38028b0f","","","False","","",""
-"S """"","S_51320105","","","False","","",""
-"Os """"","Os_d1456fe3","","","False","","",""
-"S """"","S_79eb1300","","","False","","",""
-"Os """"","Os_531dea3c","","","False","","",""
-"S """"","S_b4a6287a","","","False","","",""
-"Os """"","Os_35dce787","","","False","","",""
-"Os """"","Os_24990c86","","","False","","",""
-"S """"","S_c281eab8","","","False","","",""
-"Os """"","Os_ec992353","","","False","","",""
-"""""","narrator_34ddccd8","","","False","","",""
-"S """"","S_a153ed1c_1","","","False","","",""
-"""""","narrator_f479af21","","","False","","",""
-"""""","narrator_a2ce52b0","","","False","","",""
-"S """"","S_a907e6d7","","","False","","",""
-"S """"","S_916984ab","","","False","","",""
-"Os """"","Os_c6030cf9","","","False","","",""
-"S """"","S_0e623ae4_1","","","False","","",""
-"S """"","S_b0a885a4","","","False","","",""
-"S """"","S_2db8eb7b","","","False","","",""
-"Os """"","Os_59e14f6e","","","False","","",""
-"S """"","S_18eafbe8","","","False","","",""
-"""""","narrator_e6e0567f","","","False","","",""
-"Os """"","Os_e0adef3e","","","False","","",""
-"S """"","S_5270dfe6","","","False","","",""
-"S """"","S_36b7d07e","","","False","","",""
-"Os """"","Os_d03ab992","","","False","","",""
-"S """"","S_f6acdaf2","","","False","","",""
-"S """"","S_6af0a328","","","False","","",""
-"""""","narrator_57e54311","","","False","","",""
-"S """"","S_a0b9c375","","","False","","",""
-"S """"","S_0906cbcc","","","False","","",""
-"S """"","S_a6461e21","","","False","","",""
-"""""","narrator_1367d90b","","","False","","",""
-"S """"","S_416f551d","","","False","","",""
-"S """"","S_fe30efe7","","","False","","",""
-"S """"","S_bd4f16d5","","","False","","",""
-"S """"","S_a5c56688","","","False","","",""
-"""""","narrator_61b7ba55","","","False","","",""
-"S """"","S_dfc05a35","","","False","","",""
-"S """"","S_185b53b7","","","False","","",""
-"""""","narrator_2ffc0076","","","False","","",""
-"S """"","S_d47e8bf5","","","False","","",""
-"S """"","S_940a5b11","","","False","","",""
-"""""","narrator_a75ec2cc","","","False","","",""
-"S """"","S_5915ca94","","","False","","",""
-"Os """"","Os_8da59fd7","","","False","","",""
-"Os """"","Os_8c312a83","","","False","","",""
-"S """"","S_0e623ae4_2","","","False","","",""
-"S """"","S_35476d41","","","False","","",""
-"Os """"","Os_44c99afc","","","False","","",""
-"S """"","S_a1eb6087","","","False","","",""
-"Os """"","Os_2f8c27bd","","","False","","",""
-"S """"","S_dae5d711","","","False","","",""
-"Os """"","Os_ab69aef4","","","False","","",""
-"Os """"","Os_32e43911","","","False","","",""
-"S """"","S_1b6610eb","","","False","","",""
-"Os """"","Os_4dff1718","","","False","","",""
-"Os """"","Os_e2989d4c","","","False","","",""
-"""""","narrator_bedbb6ab","","","False","","",""
-"S """"","S_3fd99fed","","","False","","",""
-"S """"","S_4edc7150","","","False","","",""
-"Os """"","Os_d9bb2bc6","","","False","","",""
-"S """"","S_76785f49","","","False","","",""
-"""""","narrator_179ce487","","","False","","",""
-"S """"","S_39c21f32","","","False","","",""
-"S """"","S_46a4cc08","","","False","","",""
-"S """"","S_f2b32858_1","","","False","","",""
-"""""","narrator_161b6c41","","","False","","",""
-"S """"","S_e3fadd4e","","","False","","",""
-"""""","narrator_b4c98131","","","False","","",""
-"centered """"","centered_1cf31118","","","False","","",""
-"S """"","S_4bc49aa1","","","False","","",""
-"S """"","S_6832f36c","","","False","","",""
-"S """"","S_ee61d6ae","","","False","","",""
-"""""","narrator_a9d93292","","","False","","",""
-"S """"","S_c99bd886","","","False","","",""
-"S """"","S_c2434529","","","False","","",""
-"Osside1 """"","Osside1_74fe62cc","","","False","","",""
-"S """"","S_e152295f","","","False","","",""
-"""""","narrator_d79bc84c","","","False","","",""
-"Osside1 """"","Osside1_a21f7ed3","","","False","","",""
-"""""","narrator_478f87cc","","","False","","",""
-"Osside1 """"","Osside1_3b1e840a","","","False","","",""
-"Osside1 """"","Osside1_03abc4fa","","","False","","",""
-"""""","narrator_f453df51","","","False","","",""
-"S """"","S_14604738","","","False","","",""
-"Osside1 """"","Osside1_f57990c3","","","False","","",""
-"S """"","S_0115eab9","","","False","","",""
-"Osside1 """"","Osside1_97e43259","","","False","","",""
-"S """"","S_41e4a453","","","False","","",""
-"S """"","S_f0d9b337","","","False","","",""
-"S """"","S_169ced38","","","False","","",""
-"S1 """"","S1_0849fa06","","","False","","",""
-"""""","narrator_7600ff3a","","","False","","",""
-"S """"","S_6c558568","","","False","","",""
-"S """"","S_d06fc0dc","","","False","","",""
-"S1 """"","S1_6926b03c","","","False","","",""
-"S """"","S_7e35f6f2","","","False","","",""
-"""""","narrator_177a0a2d","","","False","","",""
-"S1 """"","S1_dad11e1a","","","False","","",""
-"""""","narrator_dfa1f9d8","","","False","","",""
-"S """"","S_96eec915","","","False","","",""
-"S1 """"","S1_beeb4d17","","","False","","",""
-"S1 """"","S1_5144eaf2","","","False","","",""
-"S1 """"","S1_835c5a30","","","False","","",""
-"S """"","S_39844943","","","False","","",""
-"S1 """"","S1_9c1e508b","","","False","","",""
-"S """"","S_22a1a8c0","","","False","","",""
-"S1 """"","S1_3d3e8429","","","False","","",""
-"S1 """"","S1_fbb45d30","","","False","","",""
-"S1 """"","S1_5ee164b6","","","False","","",""
-"S1 """"","S1_6d8bc57f","","","False","","",""
-"S """"","S_a54e523d","","","False","","",""
-"S1 """"","S1_57f4f322","","","False","","",""
-"S1 """"","S1_3238bebc","","","False","","",""
-"S1 """"","S1_6366dd5d","","","False","","",""
-"S """"","S_abb020a0","","","False","","",""
-"S1 """"","S1_6100410a","","","False","","",""
-"S """"","S_151b85ea_2","","","False","","",""
-"S1 """"","S1_3ab6ec93","","","False","","",""
-"S """"","S_65fccf34","","","False","","",""
-"S1 """"","S1_df18e87e","","","False","","",""
-"S """"","S_fa3a9ae8","","","False","","",""
-"S """"","S_YdJBevPn","","","False","","",""
-"S """"","S_Thgs2eHX","","","False","","",""
-"S """"","S_ayVkbhxT","","","False","","",""
-"S """"","S_FwiqDbch","","","False","","",""
-"centered """"","centered_BJtZbxAi","","","False","","",""
+location,source,target,ID,fuzzy,context,translator_comments,developer_comments
+"""""",narrator_7ed1a731,The Queen of Blades walked slowly but surely towards the defiler.,,,,,
+"S1 """"",S1_26ddff3d,There's no one on the bridge... It's for the best.,,,,,
+"S1 """"",S1_954f80d5,"Fewer witnesses... better surprise, hee-hee-hee.",,,,,
+"""""",narrator_f97f768c,"The girl already felt a slight tingling in her lower abdomen, anticipating what was waiting for her.",,,,,
+"S1 """"",S1_61ee369d,If everything goes as he told her... This will be my best performance in forever!,,,,,
+"S1 """"",S1_673dc1bf,"And I'm not going to miss such a chance, as some do.",,,,,
+"""""",narrator_d3ea1a3f,The defiler was already looking towards the girl when the Queen of Blades began to approach him.,,,,,
+"Os """"",Os_1e7d9399,What an unexpected visit... Your presence was noticeable even before your appearance.,,,,,
+"S1 """"",S1_daaa33cb,You bet. I'm burning with impatience!,,,,,
+"S1 """"",S1_ce8586a8,"I've heard about your requirements and I'm personally satisfied with everything. This is quite a good chance to have fun. New sensations, mmm...",,,,,
+"S1 """"",S1_3053b5c1,Easy essence.,,,,,
+"""""",narrator_b62aa021,The girl's body began to tremble when she remembered with what fervor the defiler spoke about the process of fertilization.,,,,,
+"Os """"",Os_089ccc8c,And I said it was hard to resist...,,,,,
+"S1 """"",S1_d1d07c22,"Sarah is such a fool. As always, she refuses all the most interesting things! She doesn't understand such important things at all... The power of debauchery.",,,,,
+"S1 """"",S1_3462bc06,You need to have fun. To know all the happiness of motherhood... For a higher purpose! To become stronger!,,,,,
+"""""",narrator_5561f620,"The Defiler watched with undisguised interest the heated tirade of the Queen of Blades, who was even more excited by her own words.",,,,,
+"S1 """"",S1_01b05e5c,These feelings... It's like I'm already filled with your balls. Excellent...,,,,,
+"S1 """"",S1_5c8245f0,But Sarah would never agree...,,,,,
+"S1 """"",S1_ead0a654,"And lose the essence because of it? No, I can't let that happen.",,,,,
+"S1 """"",S1_75a5a72f,I'm not going to let Sarah's principles hurt my idea. Fill me up immediately!,,,,,
+"S1 """"",S1_460471c0,I want to feel your babies... inside...,,,,,
+"Os """"",Os_4d83cd3a,O-o-o-o-o-f co-o-o-o-urse... such enthusiasm...,,,,,
+"Os """"",Os_29856d0c,But first I have to ask about your fertility. This is very impo-o-rtant...,,,,,
+"S1 """"",S1_40d49c0f,...,,,,,
+"S1 """"",S1_0eae4b54,Look at me.,,,,,
+"""""",narrator_8e74624f,"The Queen of Blades ran her hands over her body, ostentatiously swaying her hips.",,,,,
+"S1 """"",S1_74ba5797,Look at THESE thighs... And THESE breasts can feed at least ten children!,,,,,
+"S1 """"",S1_8036f146,Do you still have doubts? Are you really wondering about my abilities?,,,,,
+"""""",narrator_53cd31b0,"The defiler followed the girl's hands, assessing her figure.",,,,,
+"Os """"",Os_f4d775df,"Yes, indeed. The sha-a-pes... I've never seen one these good. Good stuff.",,,,,
+"S1 """"",S1_0178e943,"You bet... And these curves really need to be properly filled out. I didn't break free for nothing, did I, hee-hee-hee.",,,,,
+"""""",narrator_84e72188,"The Queen of Blades spread her legs in front of the defiler without any hesitation, giving him access to her most intimate place.",,,,,
+"Os """"",Os_f19b91ce,"I think you understand what's go-o-ing to happen... I'll put the eggs right inside yo-o-u. For some, it can be unpleasant.",,,,,
+"Os """"",Os_631c27ec,But they begin to mo-o-ve and vibrate gradually. This hinders any discomfort.,,,,,
+"Os """"",Os_11251b55,"I will enter o-o-ne at a time until they fill you. Over time, they will start to grow and spread you even mo-o-re. This is a special moment...",,,,,
+"""""",narrator_49982afa,"The defiler looked expectantly at the girl, but she only excitedly bit her lip, wanting to speed up the beginning of the process.",,,,,
+"S1 """"",S1_6284c46d,Mmm... stop teasing me...,,,,,
+"Os """"",Os_a9d457ad,"We will happily bypass the fertility increasing fluid. My tenta-acles will warm you up and when you get wet enough, I can...",,,,,
+"S1 """"",S1_9807eeee,"Faster! Damn, just insert them into me already!",,,,,
+"Os """"",Os_8b977a12,...,,,,,
+"Os """"",Os_35a394ff,"Weird... Usually, when I talk about the process, the girls are always ho-o-rrified and try to escape. After all, I will inject my eggs directly into the uterus.",,,,,
+"S1 """"",S1_d9947886,I've never been... 'ordinary'.,,,,,
+"Os """"",Os_23bfcd3e,Everyone is so-o-o afraid of the pain that they completely forget the pleasure they can get.,,,,,
+"Os """"",Os_3d174251,"But you're determined... Inspired even, I wo-o-uld say.",,,,,
+"S1 """"",S1_4c736cca,Yes... Yes! Because I want those damn eggs no matter what! If you only knew how much effort it took to escape... I've been waiting for this moment more than ever!,,,,,
+"S1 """"",S1_b1c91bdf,I love experimenting more than anything.,,,,,
+"S1 """"",S1_a381b202,"You have such perverted desires and thoughts... They shake my mind, I liked you right away. And now... very soon I will experience them for myself. Finally!",,,,,
+"S1 """"",S1_618534fa,So shut up and start already!,,,,,
+"""""",narrator_dec67f5e,"The defiler was very inspired by the girl's desire. Even, one might say, her desire infected him more and more with each request.",,,,,
+"""""",narrator_6f5e71a3,"Two tentacles parted the labia of the Queen of Blades, opening access to the entrance. The others were pawing the girl's hips and stomach, trying to excite her even more.",,,,,
+"S1 """"",S1_7047c9ce,"(So funny... As if that would impress me even a little. It's like I've never been groped by tentacles. They've done so much more, heh-heh-hee...)",,,,,
+"S1 """"",S1_24673826,"You don't have to worry, honey. You don't need foreplay with me. Initially, I was already wet and ready to accept anything. We can start now.",,,,,
+"Os """"",Os_cf6203af,"Hee-ha-ha, it's not for you, it's for me...",,,,,
+"S1 """"",S1_242ee7c0,"Oh, well, do what you want, but don't make me wait...",,,,,
+"""""",narrator_43fd2c8f,"A new tentacle appeared, and a wave of pleasure went through the girl's body when she finally saw what it was.",,,,,
+"S1 """"",S1_abdb2f36,"This... is going to lay eggs in me, isn't it?",,,,,
+"S1 """"",S1_e360ca6b,"It's almost like I imagined it to be, hee-hee. This is exactly what I needed!",,,,,
+"S1 """"",S1_aaa72d1d,I'm already burning with impatience! I want to feel the warm eggs enter me and push into the uterus itself... Growing... vibrating... Fuck!,,,,,
+"S1 """"",S1_1553a3d4,How do they feel when there are a lot of them? Will they roll when I move? It must be incredible!,,,,,
+"Os """"",Os_5aeabdcb,You're the one who should get these eggs... you will be a wonderful incubator!,,,,,
+"S1 """"",S1_d20ce84c,"Oh, stop it, you're making me blush...",,,,,
+"S1 """"",S1_f3467d94,Mmmh...,,,,,
+"""""",narrator_fc4bf9dd,"Thanks to the abundance of natural lubricant, the tentacle entered with ease and loud squelching. The Queen of Blades surrendered to her feelings, freezing in mute pleasure.",,,,,
+"Os """"",Os_acb00a9c,"Yes, it started-it started! Laying eggs takes a little time. But first we need to fill you with liquid.",,,,,
+"S1 """"",S1_b9852449,"Ah, I don't know what that is, but I like it!",,,,,
+"Os """"",Os_cb0ef91b,"The liquid in which these eggs are stored. It is not needed in the case of the terran body, since it is ideal for growth and development, but without it, the eggs won't come out.",,,,,
+"""""",narrator_b794eb48,"The girl swayed her hips a little, prolonging her pleasure and wanting to speed up the process.",,,,,
+"""""",narrator_cf8fb617,"The liquid appeared faster than the Queen of Blades expected. It seemed slow and viscous, without giving a feeling of fast and powerful filling, but there was a lot of it and it reached the farthest parts of the uterus.",,,,,
+"S1 """"",S1_7d65b2f2,Ahh... where have you been before... I have an additional incentive to break out and feel it again!,,,,,
+"Os """"",Os_de39f608,"Ha ha ha, I've been here the whole time. But don't lose your head right now, something much more interesting is coming soon!",,,,,
+"Os """"",Os_e9f02b38,The first e-egg is on the way.,,,,,
+"S1 """"",S1_9947e53c,"Finally... Come on, don't be tardy. I want it to already be in me!",,,,,
+"""""",narrator_8b7345af,"The Queen of Blades closed her eyes to sharpen her senses. The egg could already be seen in the tentacle itself, it was moving, stopping right at the entrance to the vagina.",,,,,
+"S1 """"",S1_f2f60ce7,Mmm... yes... I can feel it... So big. But it will still grow...,,,,,
+"S1 """"",S1_0b85e5d0,"And it so insistently wants to get inside, hee-hee. I have no problems with that...",,,,,
+"""""",narrator_cb1f68af,"She felt the egg pushing a little bit into her, causing a wave of ecstasy.",,,,,
+"S1 """"",S1_6fc3ee1c,A-A-A-AH! That's exactly it! Something new... So warm.,,,,,
+"Os """"",Os_9bd2a4a6,"The temperature is high, because it was inside. From the beginning to the end, you will feel this warmth, their warmth!",,,,,
+"S1 """"",S1_fbb85c1e,Fuck! This is something worth living for!,,,,,
+"""""",narrator_110dd485,The egg slowly progressed until it stopped at the cervix.,,,,,
+"Os """"",Os_795fa2c1,"It can be unpleasant right now. This is not always the case, but is rather likely...",,,,,
+"S1 """"",S1_6ffeaa43,To hell with it! Don't stop!,,,,,
+"""""",narrator_7fe3dff8,"The Queen of Blades was squirming, trying to get the sensations that the defiler had talked about to arrive so much faster.",,,,,
+"S1 """"",S1_be5cdd1e,!!!,,,,,
+"""""",narrator_2caf2cae,"The girl froze, amazed by the sensations filling her.",,,,,
+"S1 """"",S1_85ea4789,{size=+4}AH!!! AHHHHHHHH!!!{/size},,,,,
+"S1 """"",S1_3a0a364e,T-this... These sensations take your breath away! Pleasure on the verge of pain... My favorite cocktail!,,,,,
+"S1 """"",S1_6d6a51d2,It's worth all the effort! How could Sarah refuse SUCH pleasure?!,,,,,
+"S1 """"",S1_bfb0e97e,It has already filled almost everything! How will it feel when there are several of them...,,,,,
+"Os """"",Os_fe006147,"It will feel grea-a-t, I know what I'm talking about!",,,,,
+"""""",narrator_ab338340,"The Queen of Blades felt weak from the overstimulation. Everything was exactly as she wanted. It drove her crazy, almost robbing her of common sense.",,,,,
+"S1 """"",S1_9b6b88fc,"Oh, I feel the second one coming!",,,,,
+"""""",narrator_394ea0a9,The desire to get it all gave the girl new strength.,,,,,
+"S1 """"",S1_33f01bf5,"Mmm, ah... it's moving faster... If this continues, I'll get addicted to this!",,,,,
+"S1 """"",S1_c78eb681,"They seem to be teasing me, moving forward and stopping...",,,,,
+"""""",narrator_4aa8c04b,"The girl whined piteously, shaking her hips towards him. No member has ever given her such feelings and impressions. The Queen of Blades was too focused on pleasure, vaguely imagining how she would feel with a belly full of eggs.",,,,,
+"S1 """"",S1_bfe38cbd,I feel a faint stirring...,,,,,
+"Os """"",Os_97e2e70a,"Ha-ha-ha, don't worry, you're unlikely to miss it. The more there are, the more they vibrate. These babies have a very skittish disposition.",,,,,
+"S1 """"",S1_1dfb7f1b,"Great, I love them...",,,,,
+"""""",narrator_15cac98d,"Lubricant mixed with the special egg liquid began to flow down the girl's thighs, with all the space where they are supposed to be occupied by eggs.",,,,,
+"S1 """"",S1_1dbe16bd,"My body is so sensitive! Every time they come in, I have an unreal orgasm...",,,,,
+"S1 """"",S1_3227a10d,From warm and big eggs deep inside me...,,,,,
+"Os """"",Os_6f17ba71,It's like you were bo-o-rn for this!,,,,,
+"S1 """"",S1_36845026,You flatter me... Mmm!,,,,,
+"""""",narrator_d8ad7126,The Queen of Blades loved what she was doing so much that thinking about her natural talent for it didn't seem so absurd.,,,,,
+"S1 """"",S1_54f4dd24,"Ah, it's almost in! Damn... So fucking good!",,,,,
+"S1 """"",S1_eb5282ea,This moment before the peak is so exciting!,,,,,
+"S1 """"",S1_5a6b8bea,{size=+4}Mmm-m-m-m!! A-A-A-A-A-Ah!{/size},,,,,
+"""""",narrator_0bfc6b37,"The girl moaned louder, feeling the stirring begin again. The eggs stretched her more and more and put a lot of pressure on the tender walls of her insides.",,,,,
+"S1 """"",S1_996a18d4,I'm going crazy!,,,,,
+"S1 """"",S1_be5cdd1e_1,!!!,,,,,
+"""""",narrator_ea6d616c,The Queen of Blades was bursting with pleasure.,,,,,
+"S1 """"",S1_fffdc224,Perfect! It's just perfect!,,,,,
+"""""",narrator_096282ea,"The defiler purred, watching from above and clearly also enjoying the process.",,,,,
+"Os """"",Os_cbf8bd73,It was only the second egg. Do you want to know how many there will be?,,,,,
+"S1 """"",S1_af9b329e,I want just enough to fill me to the absolute limit!,,,,,
+"S1 """"",S1_c8769828,Ah...,,,,,
+"S1 """"",S1_40a554b0,Just the thought makes my head spin!,,,,,
+"Os """"",Os_1e2cb592,"I didn't expect anything less from you! Your wish will be fulfilled, heh-heh-heh.",,,,,
+"""""",narrator_9b1ca91c,"The eggs arrived one after another, not giving the Queen of Blades a chance to catch her breath. One egg was immediately followed by another, prolonging small orgasms and completely disabling the girl's consciousness.",,,,,
+"S1 """"",S1_496b01f5,Ah... So much. Great...,,,,,
+"S1 """"",S1_2ec4c559,Mmmm!,,,,,
+"Os """"",Os_49518be1,"Absolutely, now let's open your mouth..",,,,,
+"""""",narrator_37607ca5,"The defiler was very inspired by something, this was reflected in the tentacles that snaked higher and higher up the girl's body.",,,,,
+"S1 """"",S1_e44ad5a0,Huh? Mouth?,,,,,
+"""""",narrator_7cb6a015,"The Queen of Blades was surprised by such a request for the first couple of seconds, but quickly picked up his excitement and opened her mouth wide.",,,,,
+"S1 """"",S1_baa0e81e,(What a naughty boy. He knows how to provoke me. What could possibly have occurred to him?),,,,,
+"""""",narrator_d0c43f82,"Tentacles immediately surrounded the girl's mouth, holding her cheeks and crawling inside so that the Queen of Blades opened her mouth wider.",,,,,
+"S1 """"",S1_d2a02694,(Is that enough?),,,,,
+"Os """"",Os_69b5778a,Yeah!!! Heh-ha-ho!,,,,,
+"""""",narrator_d633a643,"The girl flirtatiously pulled out her tongue when she saw the tentacle approaching her mouth. She vaguely guessed what might happen in the next minute, so she wanted to quickly feel what the defiler had prepared for her.",,,,,
+"S1 """"",S1_3ed4089f,(I'm at a loss to guess what this pervert has come up with this time... Fill my stomach? Lay eggs on top as well? All together? Damn...),,,,,
+"S1 """"",S1_19517c5c,Mnpf....,,,,,
+"""""",narrator_6a53d565,"Before the Queen of Blades could react, the tentacle quickly pushed into her mouth, immediately releasing an unknown salty liquid.",,,,,
+"S1 """"",S1_21e19b0b,"(What a minx... Wanted to pour yourself into me more than once? Ha-ha-ha, I like him more and more. So unpredictable...)",,,,,
+"""""",narrator_50735961,"The Queen of Blades was eager to get the most out of this process, sucking in her cheeks and sucking everything out of the tentacle on her own. A jet of liquid streamed directly into her esophagus, exciting the girl even more.",,,,,
+"Os """"",Os_656ec9db,And that's not all.,,,,,
+"S1 """"",S1_3f9f6b5d,"(Oh yeah... First you filled my uterus... and now you want to fill my stomach too... Who else would have thought of this, heh-heh-hee.)",,,,,
+"""""",narrator_a7620afb,"Ther double filling caused the girl a new herd of goosebumps. It was hard to compare it with an ordinary blowjob, which made her remember these feelings for a long time.",,,,,
+"""""",narrator_38203ba2,"Along with the sensations in her throat, the Queen of Blades felt the approach of a batch of eggs in the lower tentacle. Mixing the pleasure of all processes at once.",,,,,
+"S1 """"",S1_be5cdd1e_2,!!!,,,,,
+"S1 """"",S1_7363fbcb,(Damn! And so... And then... I'm losing my head. I'm finally losing it...),,,,,
+"S1 """"",S1_aa23e8d7,(They move... Everywhere. I'm vibrating all over from these eggs!),,,,,
+"S1 """"",S1_24301149,(Feeling from below... Feelings from above. It's so easy to get hooked on it for the rest of your life!),,,,,
+"""""",narrator_6bd7ba7d,"The tentacle came out of the girl's mouth with a loud squelch, releasing the accumulated saliva and the remaining liquid out.",,,,,
+"Os """"",Os_2acd46d1,"A nice bo-o-nus. This is the first batch of nutrient fluid, enough for a day.",,,,,
+"S1 """"",S1_bfb9cc71,Cough-cough-cough...,,,,,
+"S1 """"",S1_fc40046e,"The first batch? Mmm... We'll leave the rest to Sarah, she's a smart girl, she can handle it...",,,,,
+"""""",narrator_024cab30,"The girl cleared her throat, the liquid she was just filled with made her choke just a little bit.",,,,,
+"S1 """"",S1_751fa2d4,"But the feeling! It was something, cough, cough. Everything is mixed up... It is almost unbearably pleasant to feel it at the same time!",,,,,
+"Os """"",Os_1a0e34c0,It was especially pleasant to bring you such pleasure. Now I'll leave you alone with these babies. They'll still be able to catch you off guard.,,,,,
+"""""",narrator_98a31d2a,"The girl almost didn't feel the tentacle come out of her pussy, completely immersed in the feeling of fullness.",,,,,
+"S1 """"",S1_4c453b60,I thought they would be much bigger. Like a human pregnancy.,,,,,
+"Os """"",Os_90f5df92,This is just the beginning. They will grow and grow until they mature to the. Then it will be time for them to come out.,,,,,
+"S1 """"",S1_fcbb5104,And how long will it take?,,,,,
+"Os """"",Os_b1b06894,"Not that much. Depends on the f-fertility of the female. The more fertile the female is, the faster the eggs develop.",,,,,
+"Os """"",Os_a9714a4a,"They are moving a lot, which means they are happy, you are very fertile. Egg laying will happen very quickly...",,,,,
+"""""",narrator_e83bb97a,The girl began to examine her stomach in its brand new shape.,,,,,
+"S1 """"",S1_8ebc0312,"The hunger is gone... No wonder. After such an adventure, it was impossible not to get enough, heh-heh-hee.",,,,,
+"Os """"",Os_8be36333,"That's my job done, and you can go, haha.",,,,,
+"""""",narrator_fc8f713a,The Queen of Blades looked at her swollen belly with ecstasy and stroked it with her hand.,,,,,
+"S1 """"",S1_d4ea75c7,The Defiler wasn't lying...,,,,,
+"S1 """"",S1_72b049d4,"The sensations are indescribable, hee-hee-hee.",,,,,
+"""""",narrator_d1c13fdf,"The girl was well aware that this process had used her last strength and control would soon be lost, but now it did not bother her at all.",,,,,
+"S1 """"",S1_ab85fea2,"Ah... I can feel them moving, they're really quite... violent.",,,,,
+"S1 """"",S1_a58ee9a2,What will our beloved Sarah say when she sees this surprise from me?,,,,,
+"S1 """"",S1_ad914422,Ha-ha-ha! How much joy there will be!,,,,,
+"S1 """"",S1_785b3651,It's good that I'll be in the front rows and have time to catch this great reaction.,,,,,
+"S1 """"",S1_09ab58e3,But... I thought it would be bigger... How many eggs did he lay? I've lost count...,,,,,
+"S1 """"",S1_ba34d2a5,"The more, the more interesting... I can imagine what a shock Sarah will be in when they start coming out, ha-ha-ha!",,,,,
+"S1 """"",S1_7572affd,Would that surprise her more than a huge belly full of eggs after sleep?,,,,,
+"S1 """"",S1_421a88f9,"How was it possible to refuse it at all when the defiler himself suggested it? Such a real pleasure, and she, the fool, missed everything...",,,,,
+"S1 """"",S1_081f58ee,"Even so, thanks to me, she won't miss much, hee-hee-hee...",,,,,
+"S1 """"",S1_3dd77579,"What a sweetheart defiler is, even though he is a pervert...",,,,,
+"S1 """"",S1_cb62b0e0,"But a nice pervert... He was obviously born for such an art, he goes into his business head-first. Such creatures will be useful to us... I know for sure...",,,,,
+"S1 """"",S1_5b18b03e,"Oh, I'm talking too much. There is no time to waste!",,,,,
+"""""",narrator_911ce5a0,"The Queen of Blades couldn't help but smile, gradually weakening her control over her body.",,,,,
+"S """"",S_033b1a2d,...,,,,,
+"""""",narrator_bd2f0955,"Sarah could hardly open her eyes, feeling wildly tired and aching all over her body.",,,,,
+"S """"",S_51d33fb1,Ouch... Why am I so tired?,,,,,
+"S """"",S_7845b16c,It's like I ran a marathon while I was out.,,,,,
+"S """"",S_10c716e8,It wasn't worth giving her the opportunity to go outside again. Every time it ends with some adventures.,,,,,
+"S """"",S_59fd4d2c,"But this time she caught me off guard, it's even strange for her... As if she really needed it... what was she up to???",,,,,
+"S """"",S_ee55d66f,"Yes, of course, no matter how much I try, satisfying hunger, she will still break out. Sooner or later...",,,,,
+"S """"",S_3f523b89,I hope that this time she could not find any grandiose adventures for herself.,,,,,
+"S """"",S_1949ccc6,I would not like to deal with the consequences later...,,,,,
+"""""",narrator_69912790,"The girl stretched, trying to stretch her cramped muscles, but immediately froze.",,,,,
+"S """"",S_f36129e4,...,,,,,
+"S """"",S_3d774228,What is it? What is this pulling sensation in my lower abdomen?,,,,,
+"S """"",S_0aa0e599,"Did she fuck so hard all night, it now hurts?",,,,,
+"S """"",S_f60ed215,"I hope I won't suffer all day. Otherwise, lots of time will be wasted... And I have so much to do.",,,,,
+"S """"",S_bf3b9c31,Hm...,,,,,
+"S """"",S_17a24a49,"No, something is definitely wrong. It pulls in a special way...",,,,,
+"S """"",S_72615c54,What had she done?..,,,,,
+"""""",narrator_06165c07,"Sarah reached for her stomach, touching it earlier than she had expected.",,,,,
+"S """"",S_29de5528,Huh? Am I still sleeping?,,,,,
+"""""",narrator_f39552ff,"The girl looked down, trying to convince herself that she had imagined it, but the big belly was in place.",,,,,
+"S """"",S_f36129e4_1,...,,,,,
+"S """"",S_d27fafe3,{size=+2}What...{/size},,,,,
+"S """"",S_b1526985,{size=+4}The{/size},,,,,
+"S """"",S_918f0f1d,{size=+6}FUCK?!{/size},,,,,
+"S """"",S_33383aeb,H-how? How did this happen?,,,,,
+"S """"",S_b85fa902,What has she done to my body that I wake up with SUCH a belly?!,,,,,
+"S """"",S_7f6210d9,So...,,,,,
+"S """"",S_d6b84345,I need to calm down and sort everything out.,,,,,
+"S """"",S_d4f4fb4b,Breathing exercises and counting to ten are unlikely to help here...,,,,,
+"S """"",S_28addfc4,Maybe she just pumped fluids in there?,,,,,
+"""""",narrator_baff06d3,"Sarah pressed on her stomach in the hope that everything would come out of her. But it was compacted, and inside something responded by stirring to her actions.",,,,,
+"S """"",S_959a5105,Huh????,,,,,
+"S """"",S_4e404242,It's not a liquid...,,,,,
+"S """"",S_6fdcefb4,I've never met a liquid that moves like that!!!,,,,,
+"S """"",S_8a11ac14,It's moving...,,,,,
+"S """"",S_f36129e4_2,...,,,,,
+"S """"",S_56828164,Gr-r-r-r-r...,,,,,
+"S """"",S_024c580f,{size=+4}DAMN DEFILER!!!{/size},,,,,
+"S """"",S_a89d7910,Did he do it himself when I was out? Or did she help?,,,,,
+"S """"",S_c41dc781,Only that slippery creature could do it...,,,,,
+"S """"",S_80ab790c,I'd recognize his trace out of a thousand. It's just like he said.,,,,,
+"S """"",S_dc191655,AHHHH! W-WHAT? NO!!!,,,,,
+"""""",narrator_271eecaf,"The more emotions Sarah experienced, the stronger the vibration in her uterus became. It knocked any thoughts out of the girl's head.",,,,,
+"S """"",S_d63de862,Such strange... f-feelings. ,,,,,
+"S """"",S_a7736e1e,Mmm...,,,,,
+"S """"",S_43957e9c,How disgusting! Make them stop!,,,,,
+"S """"",S_3c216b4d,"As soon as I find this parasite, I'll make him bear these brats himself!",,,,,
+"S """"",S_e60a0d45,I didn't give my consent to this...,,,,,
+"S """"",S_0495e600,I don't believe he dared to do it alone. The Queen of Blades has obviously given this the green light.,,,,,
+"S """"",S_c78d20f7,"Only she could have done it, knowing that I was against it. And did it with extra pleasure...",,,,,
+"S """"",S_ec715ed5,We need to chat about something.,,,,,
+"""""",narrator_0f48e6ae,"Sarah closed her eyes, sinking into the depths of her consciousness. She was filled with anger and the stirring of the eggs only added more fuel to the fire.",,,,,
+"S1 """"",S1_6e404301,Ha-ha. I've been waiting for you to show up. But you're a little late.,,,,,
+"S """"",S_1947e3e7,Who would doubt it! What have you arranged? Finally lost any semblance of sanity?,,,,,
+"S1 """"",S1_ae3bf3d5,Are you implying I had any? Thank you very much!,,,,,
+"S """"",S_05a19678,"Shut up! You're at fault, yet I have to deal with it?!",,,,,
+"S1 """"",S1_e3d34f1a,"So what's the problem? Give me the body, I'd be happy to carry these babies.",,,,,
+"S1 """"",S1_efcb7cb6,They give excellent sensations...,,,,,
+"S """"",S_94786afc,Ugh! Only someone like you would find something like this pleasant! ,,,,,
+"S1 """"",S1_7ac5345a,Perhaps. But there's lots of sexually liberated people in the world.,,,,,
+"S """"",S_a8146502,Sexually perverted people!,,,,,
+"S1 """"",S1_85ed24d8,"You make it sound like a compliment, heh-heh-hee.",,,,,
+"S1 """"",S1_8aecfb61,You're too gentle. It hinders your career advancement.,,,,,
+"S1 """"",S1_0ef51e64,What would have happened if I hadn't intervened? You would have lost the essence and wouldn't have gone any further.,,,,,
+"S1 """"",S1_9fa26981,Which means that I would have suffered the same fate.,,,,,
+"S1 """"",S1_d4a528b1,Even more so... Look at you!,,,,,
+"""""",narrator_824a6022,"The Queen of Blades walked around Sarah, licking her lips, focusing her attention on her beautiful stomach.",,,,,
+"S1 """"",S1_6dc6bf28,I made such a sexy female out of you. You smell of lust from a mile away!,,,,,
+"S """"",S_7a21b849,As if that should bother me at all!,,,,,
+"S1 """"",S1_5daac3ad,"They're moving, aren't they? It can't help but excite... And you look the part.",,,,,
+"S1 """"",S1_efc28900,Any leader would give all the essence for the opportunity to have sex with you in this state!,,,,,
+"S """"",S_1d34c664,I didn't expect anything else from you...,,,,,
+"S1 """"",S1_c0b19ae3,"Didn't you guess that? Apparently, Stukov did a bad job with you... Well, nevermind. That's why I'm here.",,,,,
+"S1 """"",S1_e62339e8,I'll help you get rid of all the garbage in your head.,,,,,
+"S """"",S_c3d89a52,Did I ask for assistance?,,,,,
+"S1 """"",S1_fe365c91,"And anyway, didn't you dream of having a baby?",,,,,
+"S """"",S_79a12505,???,,,,,
+"S """"",S_64138c6f,Y-you...,,,,,
+"S1 """"",S1_5e2e70ad,That's all you needed! I gave you this!,,,,,
+"S """"",S_a9315312,Are you serious? How could my desires be so perverted? This is not the way I wanted to know motherhood!,,,,,
+"S """"",S_f7132cc9,I wanted... a child conceived in love. With a loved one!,,,,,
+"S """"",S_e5117889,And not this...,,,,,
+"S """"",S_51439052,Don't you think that some variables are missing here?,,,,,
+"S """"",S_b65d3311,ARGH!! As I imagine... what that bastard did to my body...,,,,,
+"S1 """"",S1_18f84950,"Actually, actually, with mine. You know, it was a kind of experiment.",,,,,
+"""""",narrator_7f9e6729,"Sarah understood less and less what the Queen of Blades was thinking, who behaved very calmly compared to the girl.",,,,,
+"S1 """"",S1_5e3dc2e5,Now we can definitely be sure that we are connected. Everything that happens to me also happens to you. So you can throw out your thoughts that I'm just your imagination and don't have a physical form.,,,,,
+"S """"",S_5178ea18,Huh?,,,,,
+"""""",narrator_6bbba119,"Sarah was not at all happy with this guess of the Queen of Blades, because she never missed an opportunity to take advantage of anything.",,,,,
+"S """"",S_ae876a29,"You got to that, too...",,,,,
+"S1 """"",S1_35c2f970,"Ha-ha-ha, of course I got there!",,,,,
+"S1 """"",S1_13ccbd45,Just don't look at me like that! You're not innocent here either. Do you think I don't know that you're also digging into my thoughts?,,,,,
+"S """"",S_30a47ee1,Tsk...,,,,,
+"S """"",S_0632a4ba,"(As if that could compare... Well, yes, I sinned a little. But just a little bit...)",,,,,
+"S """"",S_f74111bb,Ha! What am I supposed to do now? You did it all! And giving the body to you is not an option...,,,,,
+"S """"",S_f19a26ff,I'm not going to give birth to all this!,,,,,
+"S1 """"",S1_2f1dfd41,"But everything is already set up. You can't undo what I've done, hee-hee-hee.",,,,,
+"S """"",S_f36129e4_3,...,,,,,
+"S1 """"",S1_2e728841,"Moreover, there's not much left to do. Just give birth to them and that's it. The essence will be rightfully yours.",,,,,
+"S1 """"",S1_ce90605e,That's all...,,,,,
+"S """"",S_b8f3c0ea,That's all?! How am I going to give birth to THIS? Didn't you think about it at the time?,,,,,
+"S1 """"",S1_aaeccbb9,I thought that giving birth to them would be even more pleasant...,,,,,
+"S """"",S_37d8e872,P-pleasant? Maybe they'll tear me apart altogether... or eat.. I don't know what kind of creatures are in my stomach!,,,,,
+"S1 """"",S1_bbf03758,"What's the point of complaining? Let's be honest, you initially had no choice. I'm just voicing the facts.",,,,,
+"S1 """"",S1_8ee6ae95,"As the defiler said: they will go their own way. The time will come and you will have nowhere to go, heh-heh-hee.",,,,,
+"S """"",S_007d4ee9,T-they will come out... yes. THEY WILL TEAR ME TO SHREDS!,,,,,
+"S1 """"",S1_b2ec33da,All you have to do is take care of the kids and yourself. I think they have made themselves felt enough during this time.,,,,,
+"S """"",S_2e40d9ab,You're going to pay for this...,,,,,
+"""""",narrator_76f821bd,"Sarah was annoyed to the limit, not going to continue talking to the enthusiastic Queen of Blades.",,,,,
+"S """"",S_fe6f45ef,It just got worse... Sometimes it's more useful to ignore her completely! She thinks only about the kids and what pleasure they will bring her! BR-R...,,,,,
+"S """"",S_2a5e3eae,Why does she always behave like this? An arrogant creature...,,,,,
+"""""",narrator_461f35ba,"Sarah looked down at her stretched stomach, trying to get used to the new reality.",,,,,
+"S """"",S_77d77d21,What am I supposed to do with this now? It became harder to move... And my clothes?,,,,,
+"S """"",S_91a642d6,Damn!,,,,,
+"S """"",S_d79a0586,I can't even get dressed now!,,,,,
+"S """"",S_87f1f6af,And that's not the worst thing. This stomach is scarier... And even worse are the eggs themselves...,,,,,
+"S """"",S_b7f6d27b,Argh I just can't handle something foreign being inside me!,,,,,
+"""""",narrator_19cc0387,"Sarah clenched her fists hard, trying to somehow vent her accumulated anger, but she couldn't do anything. Her eyes flashed dangerously as she looked towards the lair.",,,,,
+"S """"",S_68c72b5d,And someone will answer for it...,,,,,
+"S """"",S_f88bab0f,HOW DARE YOU DEFILY MY BODY?!,,,,,
+"S """"",S_0f171f4c,I told you I wouldn't do it! What were you listening with? Your dick?!,,,,,
+"S """"",S_483a0bfa,Or do my words mean nothing to you? Have you forgotten that I'm your future leader?!,,,,,
+"""""",narrator_5c2bc7e3,Sarah got a second wind when she saw the defiler. There was only anger and indignation in her eyes.,,,,,
+"""""",narrator_86b00512,She desperately tried to swat the defiler like an annoying fly until nothing more than a wet spot remained of him.,,,,,
+"Os """"",Os_5a99871d,"Yes, I did it... But how could I resist such an offer? She-she came to me!",,,,,
+"S """"",S_950adc36,(Of course... It's just like her to make trouble for me.),,,,,
+"S """"",S_571da309,This does not absolve you of responsibility! I made it clear that my answer was 'no'!,,,,,
+"S """"",S_6710a421,This is my body first and foremost! I told you you can't come near me! Which means you're done for!,,,,,
+"""""",narrator_f2d53aae,"Sarah struck one blow after another, but the defiler deftly dodged her attacks each time.",,,,,
+"""""",narrator_34df9320,"The big belly brought her discomfort, constraining movements with each blow, and the strange feeling grew, forcing the girl to slow down. Her clumsiness played into the hands of the defiler, allowing him to avoid blows without much effort.",,,,,
+"S """"",S_2fcd35ea,Ah... damn... The only chance... To stay alive for you... IS TO RID ME OF THESE EGGS!,,,,,
+"Os """"",Os_e87948b3,"This is impossible now. Eggs have an incubation period and to get rid of them, you need to wait a little. Just two days...",,,,,
+"S """"",S_d8ffb195,TWO DAYS?!,,,,,
+"S """"",S_f65fbbd1,Are you crazy?!,,,,,
+"""""",narrator_5ae98d9b,"Sarah struck more and more blows, trying to drown out what she heard. She couldn't believe that the process was really irreversible.",,,,,
+"S """"",S_4b6d7d61,DIE!!!,,,,,
+"""""",narrator_89df89b8,"The girl was angry that none of her blows landed. He quickly slipped right out of her hands, twisting and squirming around Sarah.",,,,,
+"S """"",S_b33ea31c,DIE! DIE! DIE!,,,,,
+"Os """"",Os_95a7ba00,"Just in two days they will be ready to go out. You won't miss the moment, heh-heh-heh.",,,,,
+"S """"",S_8b4afeaa,"You know, I have a better idea! How about you die right now?!",,,,,
+"""""",narrator_a1193b36,"No matter how fast Sarah tried to hit the defiler, he was always one step ahead.",,,,,
+"Os """"",Os_b77c779b,It's do-o-ne. Can't change the pa-a-st!,,,,,
+"Os """"",Os_6d0594eb,"Think... If you wanted to kill me, I'd be dead by now. The essence is important to you.",,,,,
+"""""",narrator_94e252b2,"Sarah, hearing about the essence, stopped abruptly and glared at the defiler, crossing her arms over her chest.",,,,,
+"Os """"",Os_56638a15,I know.,,,,,
+"Os """"",Os_73fecc73,You just have to wait a little bit and that's it! The essence in your ha-a-nds.,,,,,
+"S """"",S_01f50587,Perhaps...,,,,,
+"S """"",S_5b75e256,(His death will bring nothing... But I don't want to agree with him. Gr-r-r-r-r...),,,,,
+"""""",narrator_1b2e69ee,"Sarah knew that the deed had already been done, but the thought of what she would have to go through did not give her peace of mind. But it also seemed to be a very real way to solve the problem. She could no longer refuse.",,,,,
+"S """"",S_153d1a63,(Slippery type... It's even alarming. We need to keep him under control.),,,,,
+"S """"",S_16a04811,"All right! Just two days... I'll have to agree to it, even though I don't want to!",,,,,
+"Os """"",Os_05dfe2b4,Since you're not going to kill me anymore...,,,,,
+"""""",narrator_bc64d297,"The Defiler looked questioningly at Sarah, waiting for her reaction, and she nodded approvingly, allowing him to continue.",,,,,
+"Os """"",Os_1e5ccc98,Then you should know more about these babies.,,,,,
+"S """"",S_593e86ea,Idiot!,,,,,
+"S """"",S_1b618c98,Who even came up with such a thing? I need to... feed these eggs... You idiot! YOU IDIOT!!!,,,,,
+"S """"",S_6ba02e54,There are not as many problems with human childbirth as with these eggs!,,,,,
+"S """"",S_500d31ef,Taking care of them...,,,,,
+"S """"",S_33d3a1e5,I just agreed to this adventure... Couldn't he have said that before?,,,,,
+"S """"",S_cbaca54a,I wish I had killed him right there! At least it would please me...,,,,,
+"S """"",S_cd35f18a,Mmm! They're moving again!,,,,,
+"S """"",S_8986f3e8,Ah... I need to get rid of them as soon as possible and forget it like a terrible dream!,,,,,
+"centered """"",centered_eccd30d0,"Attention, the events will be available later. Don't worry. There is a final scene in this update. To access it, just go to bed.",,,,,
+"centered """"",centered_08f8dabb,"Inactive dialogues with the characters on the bridge, along with some scenes, will be available in future updates.",,,,,
+"S """"",S_151b85ea,...,,,,,
+"""""",narrator_0be3553d,"Sarah struggled out of bed, feeling strange. Only when she woke up, she could not identify the source of the discomfort and randomly touched her body in an attempt to calm him down.",,,,,
+"S """"",S_f073cc2c,My belly is so big... Has it always been like this?,,,,,
+"""""",narrator_29c0810c,"The girl lowered her hands to her stomach, stroking it all over the area. Her vision was still blurry, but Sarah felt that the weight of her swollen belly had increased significantly.",,,,,
+"""""",narrator_fc461117,"She could feel through her skin how the eggs were vibrating more and more inside her with every second, creating a warm and pleasant sensation throughout her body",,,,,
+"S """"",S_4d7fa09d,I woke up and you woke up?,,,,,
+"S """"",S_198f70c5,Ah... Today you are somehow too active...,,,,,
+"""""",narrator_7d7b25de,Sarah screamed loudly when some eggs began to move with extra determination. So much so that she could see this movement on her stomach.,,,,,
+"S """"",S_f67b3c8b,What's gotten into you?,,,,,
+"S """"",S_a153ed1c,Shit!,,,,,
+"S """"",S_c6f3bfcf,Today is the last day!,,,,,
+"""""",narrator_573c036d,"Sarah abruptly completely sobered up from sleep, remembering what day it was and what she had to go through. Her chest was uncomfortably squeezed with excitement and ignorance of how everything would happen. The girl knew that the birth of human children was not the most pleasant thing that happened to women. But the defiler spoke so confidently about pleasure that Sarah began to doubt.",,,,,
+"S """"",S_835b7fa6,So... Are they ready to go?,,,,,
+"S """"",S_bbf8d7ec,Amazing! I can't wait to finally get rid of them! Once and for all!,,,,,
+"""""",narrator_e404a65b,"Sarah remembered the defiler's words about repetition. After all, this didn't turn out as disgusting as she thought it would be, but the girl still shook her head, driving away such bad thoughts.",,,,,
+"S """"",S_2b607dc3,I need to be done with this...,,,,,
+"S """"",S_0235477e,But I have to go through this... and under the supervision of that pervert...,,,,,
+"""""",narrator_9dc5d0c6,"Sarah felt an unpleasant shiver at the thought that someone would be watching intently as large, perhaps giant, eggs would appear from her vagina.",,,,,
+"S """"",S_84efd265,*Gulp*,,,,,
+"""""",narrator_9c80a1f3,"All the sensations surged through Sarah like a wave when she was fully awake. The closer she got to the defiler, the harder it was for her to stand on her feet from the constant cramps in her lower abdomen. From the pleasure Sarah got, stars flew before her eyes, but the desire to end it all was stronger.",,,,,
+"S """"",S_aeb0d393,No time to talk! Take your damn eggs back!,,,,,
+"Os """"",Os_7c6ecabb,"I've been waiting for you, heh-heh-heh. Are the babies ready to be born?",,,,,
+"S """"",S_40507b25,Of course! Mmm... they didn't let me sleep all night! I envy their zeal!,,,,,
+"Os """"",Os_126be0f0,"Don't worry, everything will go smoothly under my strict supervision. Hehe, you took a very depraved pose.",,,,,
+"S """"",S_60071162,A depraved pose? Nothing like that! Just... this...,,,,,
+"S """"",S_119071d6,Just shut up!,,,,,
+"""""",narrator_3d599232,"Sarah intuitively understood that in order for the eggs to go smoothly and without pain, it was necessary to take the right pose. But after his words, Sarah couldn't stop considering how she looked.",,,,,
+"S """"",S_3d7c987f,This is really a necessity... Ah! Stop distracting me already! W-why are you even here?,,,,,
+"Os """"",Os_9f9675a0,I'll make sure everything goes smoothly!,,,,,
+"S """"",S_b38e5a94,"(Yeah, yeah... we know such... 'coaches'...)",,,,,
+"S """"",S_7e5b5c5d,Shut up then and that's it!,,,,,
+"S """"",S_d7aad6b7,And by the way...,,,,,
+"S """"",S_05dd653f,"If you, you little parasite, try to touch me... I will find the strength to incinerate you!",,,,,
+"""""",narrator_60f3efec,"Sarah squinted at the defiler, making it clear that she was serious. Although she was in a very vulnerable position.",,,,,
+"Os """"",Os_80cf2ef0,"Heh-heh-heh, I only act within the framework of my interests. But as you sa-a-y.",,,,,
+"""""",narrator_609fa325,"The girl really felt relieved when she knelt down and was able to relax her legs a little, which were tired from constantly trembling.",,,,,
+"Os """"",Os_bd2048dd,Now you need to push as hard as you can. They will do the rest themselves.,,,,,
+"S """"",S_cfc330b8,(Damn... My pussy is oozing all over! This is not how I imagined childbirth... What are these eggs doing to me? They pervert even the deepest parts of my consciousness...),,,,,
+"""""",narrator_feb190d7,"Sarah felt very vulnerable next to the defiler, which did not allow her body to relax and facilitate the exit of the babies.",,,,,
+"Os """"",Os_8cf43ee7,I fe-e-e-l it starting. My kids are rea-a-dy...,,,,,
+"S """"",S_9ec215ae,Aaaaahhhh!!! N-no!!!,,,,,
+"""""",narrator_121d354a,"The eggs began to buzz at the peak of their capabilities. At some point, Sarah began to think that they would tear her apart. It did not bring discomfort, quite the contrary, her fantasy did its job.",,,,,
+"S """"",S_929d035c,Are you sure they're ready to come out? It feels like they're going to get out through a completely different passage than they came through!,,,,,
+"S """"",S_4e884fc2,Or did they like it so much that they decided to stay?,,,,,
+"""""",narrator_79031901,"Despite the bursting sensations, Sarah felt the attentive gaze of the defiler on her crotch, which continued to flow like a river.",,,,,
+"S """"",S_9cd1a097,Hey! You're staring too hard.,,,,,
+"S """"",S_551d59cf,It's all kind of weird...,,,,,
+"Os """"",Os_28b53e7c,How else do I make sure everything is go-o-ing right?,,,,,
+"S """"",S_3d4a7495,"Okay... Look. But not that, ah! Intently!",,,,,
+"""""",narrator_a80f4e13,"Sarah tried to push, as the defiler told her, but this made the movement of the babies even more noticeable. She was almost losing consciousness from everything that was happening, holding on to reality with the remnants of her strength.",,,,,
+"S """"",S_cba098a6,(Everything is on fire! Like everything... It's melting! My body can't take it... Nnng!),,,,,
+"""""",narrator_6e91df8b,"Sarah's hands reached out by themselves to the places that ached the most. She squeezed her breasts and clitoris between her fingers, trying to calm the tension in them, but it only made it worse.",,,,,
+"S """"",S_d5b4636e,AAAHHHHH!!!,,,,,
+"S """"",S_8b6cbd23,This is unbearable!,,,,,
+"""""",narrator_18556bc0,"The time spent with these eggs has developed a certain reflex in her. The desire to play with herself, to calm the fire inside a little, grew with every movement the eggs spent in her. Sarah desperately wanted to feel something in her pussy, so she immediately penetrated herself with her fingers, feeling how much moisture had accumulated there.",,,,,
+"S """"",S_6339e7bc,Shit! Come on... Come on! Get out already!,,,,,
+"S """"",S_79af19e3,Stop torturing me... AHHHH!!!,,,,,
+"""""",narrator_d51d92f2,"It seemed to Sarah that there were catastrophically few fingers, but gradually the desire became less unbearable.",,,,,
+"S """"",S_78147e44,Mmm! They are... It helps them get out! Really!,,,,,
+"Os """"",Os_fd503feb,I've seen a lot of different ways... But like this?,,,,,
+"S """"",S_0e623ae4,!!!,,,,,
+"Os """"",Os_9b87aa52,Terrans are as interesting as ever.,,,,,
+"S """"",S_c7d670b3,"I'm not... It really helps! I do not know why... it's weird, yeah...",,,,,
+"S """"",S_2af2e2cf,It's not because I'm pleased... They demand it... I just want them to come out faster! And that's it!,,,,,
+"""""",narrator_62fb9470,"No matter how hard Sarah tried to caress herself quickly and strongly, the desired orgasm did not come in any way. The body only burned more, but the eggs moved noticeably, starting to come out a little bit.",,,,,
+"S """"",S_53f99504,Ah... Yes! They're coming out...,,,,,
+"""""",narrator_93305687,"The girl rolled her eyes from the feeling of being stretched by the egg which was going to come out first. It seemed to her that she was on the verge of orgasm. The desire to cum tormented her tremendously, but satisfaction did not come.",,,,,
+"S """"",S_9a34200a,"(I just need to play with myself a little more and they will come out... Just a little bit, mmmMMM!!!)",,,,,
+"S """"",S_711c56f6,(If I had imagined earlier what I would have to do here... I would never have believed myself...),,,,,
+"Os """"",Os_63c2059f,"Ha ha ha, it works. I can't believe it, but don't stop, do it again! They're coming out...",,,,,
+"S """"",S_f75eb8b0,"Ah... easy to say... Yes, it's hard to do!",,,,,
+"""""",narrator_f5827c63,"The defiler watched with intense interest as the fingers, all smeared in natural secretions, plunged into the girl's pussy again and again. He could not believe that this was contributing to the appearance of his offspring.",,,,,
+"Os """"",Os_630c22cd,"The physiology of terrans is very strange, but interesting",,,,,
+"S """"",S_321d793a,"Shut up! You're distracting, ah!",,,,,
+"""""",narrator_242b7168,"The girl could not control her reaction to her own actions. She wanted to close her mouth so as not to make vulgar moans. In her mind, this is not what should happen during childbirth, but the fingers inside her felt so good that it was impossible to restrain herself.",,,,,
+"S """"",S_55b9e7ed,THEY ARE COMING!!! AH!,,,,,
+"""""",narrator_5a26c751,"Sarah could no longer stop her movements. Her body was burning, and her breathing was quickening, desperately demanding discharge. A light sheen of sweat covered her entire body, making the girl even dirtier.",,,,,
+"S """"",S_d330c344,I can't... ENDURE!!! IT'S DRIVING ME CRAZY!!!,,,,,
+"""""",narrator_7cddbfff,"Sarah thought less and less about the fact that someone was around her. The louder she moaned, the easier it was for her to endure more and more spasms that pushed the eggs out of her. The fingers were almost not felt due to the abundance of moisture and muscle contraction, but the girl continued to drive them into herself furiously.",,,,,
+"Os """"",Os_df88f5b4,You're doing great. I sho-o-uld've sold tickets to this sho-o-w!,,,,,
+"S """"",S_a61c7879,AAAAAAAHHHHHH!,,,,,
+"S """"",S_0f5a7220,YOU SHOULD INSTEAD BE WORRIED ABOUT THE EGGS!,,,,,
+"Os """"",Os_6a80aa74,The situation is completely under control.,,,,,
+"S """"",S_f79fc59d,Seems to me that I'm the only one working hard here!,,,,,
+"S """"",S_f2b32858,FUUUCK!!!,,,,,
+"""""",narrator_429a68ad,"The orgasm was approaching her ever closer, keeping Sarah on the edge. As soon as she felt a pulling sensation in her crotch and was ready for an orgasm, it disappeared, causing Sarah to moan in frustration. The eggs intensified these sensations as they progressed.",,,,,
+"S """"",S_eb7aebe2,I feel... The first one is coming out!,,,,,
+"S """"",S_a892f593,"(Mmm... even in this state, it still continues to vibrate... Everything is shaking inside! And I still can't finish, ah!)",,,,,
+"""""",narrator_3970504c,"Sarah barely restrained herself from bringing her legs together at the moment of approaching discharge. Her whole body was shaking and numb from what was happening. Periodically, the girl heard only ringing in her ears, not understanding what was happening around her.",,,,,
+"S """"",S_2f8a5be3,"(My fingers are already aching... But I can't stop, mmmMM!)",,,,,
+"""""",narrator_afed70b2,"The room was getting hot from the girl's heavy breathing and her body heat. Sarah wanted to cool off, but she could only push and stubbornly keep her balance.",,,,,
+"S """"",S_2c087dac,My legs will soon stop holding me! It's too much... TOO MUCH FOR MY BODY!,,,,,
+"Os """"",Os_2cffc65c,"Well, there was no-o-o such reaction before. But everything is fine. You can go on.",,,,,
+"S """"",S_37ab3510,I CAN'T!,,,,,
+"S """"",S_8ea9f819,{size=+4}A-a-a-a-ah!{/size},,,,,
+"""""",narrator_4c795d09,"The tight walls of the vagina squeezed the egg with the last of their strength, trying to get it out faster. From this, Sarah experienced a pleasure that pierced her from the top of her head to the tips of her toes. She arched till her bones protested, unable to control her body before an orgasm.",,,,,
+"S """"",S_b7d32777,FUUUCK!!! IT'S TEARING ME!!!,,,,,
+"Os """"",Os_6a5332b6,"No, you're definitely not torn. This is something I can say for sure. Everything is wonderful here!",,,,,
+"Os """"",Os_2506056f,But your body reacts very distinctly to childbirth. It has adapted and gets a lot of pleasure from the process.,,,,,
+"S """"",S_da356b59,"W-what?! N-no! My body can't stand it, that's why it reacts like this, mmmm!",,,,,
+"Os """"",Os_d3aec9dc,"Now the most important thing is not to overdo it! If it comes out too fast, you may lose your head!",,,,,
+"S """"",S_40998b06,"Ah... I-idiot, you need to warn about this! Couldn't you have told me about it earlier??? Ah... no...",,,,,
+"""""",narrator_17bb4cfb,"Sarah could not argue for a long time, removing her hands from her body and leaning on them. An egg was already ready to leave her and likely cause a massive orgasm. The girl no longer understood whether she wanted to cum, but this orgasm could not be contained, just like the egg itself.",,,,,
+"S """"",S_1651850d,Ah... calm down... calm down... j-just a little more... There's not much left!,,,,,
+"Os """"",Os_10e2bf0b,Excellent-excellent! Just a little more!,,,,,
+"S """"",S_2a263f26,NNNNNGH!!!,,,,,
+"S """"",S_29c453ee,{size=+4}I... AAAHHHHH!!!{/size},,,,,
+"""""",narrator_6e4cc00c,"Under intense pressure, the first baby slipped out, causing flashes of a powerful orgasm that Sarah had never felt.",,,,,
+"S """"",S_f3a2d0a4,SHIT... My body...,,,,,
+"""""",narrator_14514816,"The girl's whole body tensed, freezing in a revealing pose. Her pussy was pulsating at a wild pace, making Sarah moan and sob louder. The heat inside her did not decrease, neither did the trembling throughout her body. The girl felt the climax, but did not feel a decrease in arousal, which would allow her to rest.",,,,,
+"S """"",S_f912c9b5,Ha-a-a-a-a-a.. mmmm... aaaahhhh!!!,,,,,
+"S """"",S_a3ed4b5c,N-no... It will never end!,,,,,
+"""""",narrator_9086d6db,"Her whole crotch tingled pleasantly. Sarah stroked herself, trying to calm her body, but it aroused her even more. She was breathing heavily, trying to regain her breath after the first orgasm.",,,,,
+"Os """"",Os_194a80d4,Oh my...,,,,,
+"""""",narrator_1d40838e,"The defiler was stunned too, looking at the shuddering body in front of him and the first egg, which laid in a puddle of secretions under the girl.",,,,,
+"Os """"",Os_810508d6,"I knew that some Terrans could enjoy this. But I didn't think that I would see it live, heh-heh-heh.",,,,,
+"S """"",S_519f3855,(Y-you won't get off that easy... There won't be enough essence to pay for this...),,,,,
+"""""",narrator_498f2172,"The Defiler felt excited, watching Sarah cum from his eggs. But he still remained in his right mind to restrain himself from unnecessary actions.",,,,,
+"S """"",S_01d54e41,W-would I have known... I'd rather've taken the eggs... And left this to her.,,,,,
+"""""",narrator_bdf04fa0,"Sarah brought her hand back, entering her vagina with three fingers at once. The girl was pleased that she expanded a little, because that should've made it easier for the next eggs to pass.",,,,,
+"S """"",S_ff3c1c75,Phew... I did it... I could.,,,,,
+"""""",narrator_44997260,"Sarah rested her hands on her stomach, continuing to feel a faint stirring. It didn't bother her and didn't interfere with the thoughts that it was all over. At some point, her brain completely shut down from the intense excitement and she just felt serene lightness occupy every part of her body.",,,,,
+"""""",narrator_e01e38ff,"Perhaps the thoughts of ordinary Terran childbirth mixed with reality, making the girl think that everything was over. Or, perhaps, relief clouded the last remnants of reason, making Sarah just a wild female carrying offspring.",,,,,
+"Os """"",Os_0a8d0c5a,This is not the end yet. It's too early to relax.,,,,,
+"S """"",S_d0f662a0,N-not... the end?,,,,,
+"""""",narrator_352f025c,"The muddy voice of the defiler brought Sarah back to reality. The realization came immediately, as soon as the next egg rushed to the exit. The girl immediately remembered where she was, tearing a moan out of her throat.",,,,,
+"S """"",S_720710a7,A-AGAIN?!,,,,,
+"S """"",S_c988ac12,I'm still... I'm not yet... SHIT!!!,,,,,
+"S """"",S_7e13cdcb,"(My muscles haven't had time to rest yet... They're like a rock! Ah, such tension is worse than physical exertion!)",,,,,
+"""""",narrator_8255d47a,"Her body has not fully recovered from the last orgasm, reacting even more vividly to the egg's passage. Every passed millimeter gave birth to a new wave of spasms.",,,,,
+"S """"",S_6ce7eb5c,Ahh... they're all together! THEY'RE COMING OUT! S-stop!,,,,,
+"""""",narrator_03253e67,"Sarah barely endured this torture, rolling her eyes and drooling. Her throat was starting to dry by then. All her juices came out in different ways, unpleasantly tightening the skin. The girl was lost in all these sensations, keeping in touch with reality with the last of her strength.",,,,,
+"Os """"",Os_2deb562e,"Don't resist. You're trying to hold on, and it's only going to get worse.",,,,,
+"S """"",S_16b67dd7,I-it's nothing.. no... AAAAHH!!!! N-not so fast!,,,,,
+"Os """"",Os_501d210a,Your vagina is too narrow for the eggs to come out on their own. Push and it's all over.,,,,,
+"S """"",S_91ec043d,Then push... then don't push! MAKE UP YOUR MIND ALREADY!,,,,,
+"Os """"",Os_f1f7b041,"Ha-ha-ha, the first time is always scary, you'll get used to it.",,,,,
+"S """"",S_a9ef45e8,"Well, no! I... I... just want it to end! Let it end faster!",,,,,
+"""""",narrator_c3c35144,"Sarah obediently spread her legs, squeezing and unclenching her muscles. It only made everything ache more, but she didn't want to stop.",,,,,
+"S """"",S_93c2d3cc,{size=+4}Oooooh!!!{/size},,,,,
+"S """"",S_ee921cf4,IT'S COMING OUT!!! IT'S COMING OUT!!!,,,,,
+"""""",narrator_7df70ef8,"Sarah began to push harder, feeling euphoric at the realization that the end was getting closer. Everything went into play, from fingers in pussy to loud moans. The girl tried her best to make the process easier for herself.",,,,,
+"Os """"",Os_6df3c2bc,"Yes, that's better! That's the way to go! Thats the spirit! Not only do you want it, the kids are also eager to get out!",,,,,
+"""""",narrator_99d8b6d9,"The girl at some point decided to stretch herself with her fingers, spreading them inside and allowing the egg to pass more freely to the exit. This caused a violent wave of pleasure, which caused Sarah to constantly stop and pause.",,,,,
+"Os """"",Os_fdd50029,You're doing great!,,,,,
+"S """"",S_038efc49,T-too slow... For a great result!,,,,,
+"Os """"",Os_615b801e,Just don't resist them... it's better this way!,,,,,
+"S """"",S_507b6add,This pleasure blows my mind! I'd love to see you in my place! I'm already hurting from this heat!,,,,,
+"S """"",S_f25c50c6,ММММH!!!,,,,,
+"""""",narrator_8e706505,"Sarah began to stretch herself again, feeling how the eggs had moved especially far, resting on her fingers.",,,,,
+"S """"",S_1709229f,Almost... Almost fell out! T-they're pushing each other out! Ah... this can't be happening!,,,,,
+"S """"",S_78dec233,(My walls are throbbing so much around this egg... I can feel it passing. I feel every movement!),,,,,
+"""""",narrator_b8e69a15,"The egg passed faster and easier after its counterpart. Sarah was over the moon with happiness, thinking that everything would go faster and faster.",,,,,
+"""""",narrator_b4ae863f,"Happiness was quickly replaced by fear when the egg began to come out too quickly. It slid along her walls, rapidly reducing the distance to the exit. This did not go ignored by Sarah: she was bent in half again from the sensations she received.",,,,,
+"S """"",S_bc524d6b,N-not so fast! NOT SO FAST!!!,,,,,
+"Os """"",Os_93e689e4,"Ha-ha-ha! Kids can't wait to get outside? Well done, they help the female!",,,,,
+"""""",narrator_a3ee6b2f,"Sarah squeezed with all her might, trying to hold the persistent egg for at least a second. Her attempts only made her feel good and her muscles relaxed, releasing the egg.",,,,,
+"S """"",S_ea214dd2,"(The more I try, the less it works! Aaahm... it seems I'm only helping it!)",,,,,
+"S """"",S_188622dc,(We need to try to do something about it... I'm not ready for another orgasm!),,,,,
+"""""",narrator_11f0e892,"The girl was pulling the egg back, making it worse for herself. The baby rubbed against the compressed walls, moving up and down.",,,,,
+"S """"",S_d70e34c2,"NO, I CAN'T!!!",,,,,
+"S """"",S_1ca4cbe8,{size=+4}IT'S OOOOOOOOOUUUUUUT!!{/size},,,,,
+"""""",narrator_2127687c,"A single look at the girl definitively showed she was not as interested in her offspring as the defiler, who was enthusiastically examining the eggs. For a moment she stopped feeling anything, greatly overexcited, but soon all the sensations rushed with a new wave over her.",,,,,
+"S """"",S_e09fc0d0,OH NO!!! MMMMGH!!!,,,,,
+"S """"",S_13f78c3d,W-why now?! It's bursting out! Already!,,,,,
+"""""",narrator_6ae38c93,"Sarah didn't have the strength to hold back the egg again. Her body was under the influence of a recent orgasm, only pushing it out harder.",,,,,
+"S """"",S_e9241706,"If it goes like this... No, I'm going crazy!!!",,,,,
+"S """"",S_ccf9c007,(I have to hold on... or... that's it!),,,,,
+"""""",narrator_ba41c281,"Despite the heab-blowing sensations, the girl began to pull the egg into herself again. She already knew what was waiting for her, these feelings played a cruel joke with her.",,,,,
+"S """"",S_cf15b7dc,(Ha! I did it!),,,,,
+"S """"",S_0a671c8d,{size=+4}AH! N-NO!!!{/size},,,,,
+"Os """"",Os_dbf48473,Dreams become a reality...?,,,,,
+"S """"",S_f5da9757,THIS'S NOT WHAT I WANTED!,,,,,
+"""""",narrator_1d323d4d,"The defiler looked at what was happening with confusion, already barely keeping control of the situation. Everything went a little unusual and tore up all his patterns.",,,,,
+"""""",narrator_841e89e7,"The egg began to move more strongly, completely ruining all Sarah's efforts, rolling down to the exit at a dangerous speed.",,,,,
+"S """"",S_9bd03ab1,"W-what are you doing... no... too fast... Not now, don't even think about it!",,,,,
+"""""",narrator_577eb11a,"Because of the strong orgasm, the girl could not hold the egg, which rapidly began to come out.",,,,,
+"S """"",S_a10ac9d3,"Ahh... mmm... I can't stop it, they want to get out! They're all pushing!",,,,,
+"Os """"",Os_58887929,"Ha ha ha, they are already showing their character, keep it up!",,,,,
+"S """"",S_93ae202a,Fu-u-u-u-u-u! Breathe! NEED TO BREATHE!,,,,,
+"""""",narrator_4711075f,"The girl tried her best to hold her load, but it was impossible. She couldn't imagine what that would mean.",,,,,
+"S """"",S_b20f17ab,{size=+2}Aaaa... I-I'm going to break!{/size},,,,,
+"""""",narrator_4c194945,"Sarah felt like she was losing the last threads connecting her with reality again. The efforts of the eggs brought her to a semi-conscious state, allowing them to fly out of her faster and without resistance.",,,,,
+"S """"",S_83358adf,E-enough!!!,,,,,
+"S """"",S_972c45e2,{size=+4}ММММММММHHH...{/size},,,,,
+"""""",narrator_68691ae0,"Another kid didn't want to linger any longer and jumped out right after his brother, forcing Sarah to experience incredible sensations. With the naked eye her body could be seen convulsively shaking.",,,,,
+"S """"",S_ababb88e,H-haaa... ha... h-hahahaa... ha... mmm... f-fuuh...,,,,,
+"S """"",S_5c60ebea,(These eggs... enough already...),,,,,
+"""""",narrator_49ac0124,"The girl was definitely fine, but the pleasure seemed to tear her to pieces, constantly taking her out of reality.",,,,,
+"S """"",S_0a649e68,(S-stopped...),,,,,
+"""""",narrator_bc5f530f,"For a while, Sarah didn't make a sound, frozen in one position and sometimes twitching a little. The defiler was just watching the picture, mindful of her threat.",,,,,
+"S """"",S_151b85ea_1,...,,,,,
+"""""",narrator_38028b0f,"The girl sobbed softly, desperately trying not to move and not to touch her body to calm her down faster. Her body was no longer just burning, but flaming with desire. A white veil stood before her eyes for a long time. Only the incessant echoes of orgasm kept her conscious.",,,,,
+"S """"",S_51320105,T-tell me... That's all...,,,,,
+"Os """"",Os_d1456fe3,"Ha ha ha, do you really think your belly could swell up like that because of a few eggs? Don't make me laugh.",,,,,
+"S """"",S_79eb1300,Ah... just tell me h-how much... more?,,,,,
+"Os """"",Os_531dea3c,Do you think understanding will make you feel better?,,,,,
+"S """"",S_b4a6287a,HOW MANY?,,,,,
+"Os """"",Os_35dce787,...,,,,,
+"Os """"",Os_24990c86,I can only say the following: looooots! Her hunger... she wanted more and more...,,,,,
+"S """"",S_c281eab8,"Yeah... I can obviously see that you didn't play a factor in that at all! Just resisted, pleading, 'please, I don't want to lay eggs in you anymore.' yes?",,,,,
+"Os """"",Os_ec992353,Heh-heh-heh...,,,,,
+"""""",narrator_34ddccd8,"It was difficult for the defiler, who was greedy for this kind of 'fun', to hide his interest in this case.",,,,,
+"S """"",S_a153ed1c_1,Shit!,,,,,
+"""""",narrator_f479af21,"After the release of the third egg, Sarah did not realize what was happening. Her body was not hers, especially when the tension in it reached its peak. The defiler was saying something in the background, reminding her to push, but the girl had less and less strength for it.",,,,,
+"""""",narrator_a2ce52b0,"She miraculously stayed in the pose, making fewer and fewer sounds.",,,,,
+"S """"",S_a907e6d7,(H-how have I not... died yet?),,,,,
+"S """"",S_916984ab,(I'm surely... close to it!),,,,,
+"Os """"",Os_c6030cf9,You'd better not look around...,,,,,
+"S """"",S_0e623ae4_1,!!!,,,,,
+"S """"",S_b0a885a4,"Ahhhh... No, not that!!! a-again...",,,,,
+"S """"",S_2db8eb7b,I'll... I'll break! No!,,,,,
+"Os """"",Os_59e14f6e,"Ha-ha-ha, don't worry. I'll make sure the eggs are all right!",,,,,
+"S """"",S_18eafbe8,{size=+4}They are the last damn thing to think about.{/size},,,,,
+"""""",narrator_e6e0567f,"The eggs in her stomach began to wriggle and vibrate even faster, helping Sarah to give birth to them as quickly as possible, even against her will.",,,,,
+"Os """"",Os_e0adef3e,So active they are. Did I tell you this is the first time this happens?,,,,,
+"S """"",S_5270dfe6,T-this information won't make me feel any better.,,,,,
+"S """"",S_36b7d07e,How will it help me at all!,,,,,
+"Os """"",Os_d03ab992,"Hehe, it won't, it's just getting more and more interesting to watch!",,,,,
+"S """"",S_f6acdaf2,Mmmh...,,,,,
+"S """"",S_6af0a328,"(This is already becoming a punishment... They keep moving inside! All together, damn it!)",,,,,
+"""""",narrator_57e54311,"A strange situation arose: just two eggs earlier, the girl did everything to give birth to them as quickly as possible. But now she needed, on the contrary, to keep them in herself, so as not to get lost in the pleasure so that they are able to leave her at a continuous rate.",,,,,
+"S """"",S_a0b9c375,Aaaaargh! I can't do it... i-it's too...,,,,,
+"S """"",S_0906cbcc,Mmmmmaaah!!!,,,,,
+"S """"",S_a6461e21,C-come out... but only one!,,,,,
+"""""",narrator_1367d90b,"The girl was afraid to relax, afraid of the feelings that could wake up in her if they all came out at once.",,,,,
+"S """"",S_416f551d,O-o-o-one... and d-don't think of slipping!,,,,,
+"S """"",S_fe30efe7,J-just a little more... ah...,,,,,
+"S """"",S_bd4f16d5,{size=+4}ААААААААААААGH!!!{/size},,,,,
+"S """"",S_a5c56688,"It comes oui-it comes out, THE EGG COMES OUT!",,,,,
+"""""",narrator_61b7ba55,Sarah was no longer in control of both her voice and the phrases she was saying. Eggs simply did not allow her to form any coherent thoughts.,,,,,
+"S """"",S_dfc05a35,O-o-oh... no! Not that! nooo!,,,,,
+"S """"",S_185b53b7,Stop it!!! MMM!!!,,,,,
+"""""",narrator_2ffc0076,"Sarah was losing any control over the situation, wanting to just fall to the ground and relax. But the eggs were persistent and kept her in constant tension, moving both inside her and on the way to the exit. The girl no longer felt how much they were progressing, her muscles were completely numb from constant spasms.",,,,,
+"S """"",S_d47e8bf5,(Why are they... Is that what they do to me?),,,,,
+"S """"",S_940a5b11,"(That's not what I wanted... And it's still unknown how many there are until the end, ah!)",,,,,
+"""""",narrator_a75ec2cc,"Sarah did not feel the egg come out after the first squeeze. Its exit was signaled by an orgasm that pierced all her sensitive spots with needles. The girl was squeezed to the limit, but her body had enough opportunity to get even more excruciating pleasure.",,,,,
+"S """"",S_5915ca94,The chance... T-that I won't break down and survive this... decreases ever faster...,,,,,
+"Os """"",Os_8da59fd7,"Ha-ha-ha, don't worry, no one died from childbirth.",,,,,
+"Os """"",Os_8c312a83,Well... there were... a couple of cases...,,,,,
+"S """"",S_0e623ae4_2,!!!,,,,,
+"S """"",S_35476d41,W-what 'couple of cases'?!,,,,,
+"Os """"",Os_44c99afc,"Oh, forget it, I'm not sure why I mentioned this.",,,,,
+"S """"",S_a1eb6087,"No, tell me!",,,,,
+"Os """"",Os_2f8c27bd,"Believe me, this is not such a case!",,,,,
+"S """"",S_dae5d711,"Well, thank you, for the comforting words! YOU IDIOT!",,,,,
+"Os """"",Os_ab69aef4,"You have nothing to worry about, your pussy is very elastic, you can give birth with it endlessly! Believe me, I have enough experience, heh-heh.",,,,,
+"Os """"",Os_32e43911,Everything is perfectly visible from here. There are no problems. You are confidently approaching the end of this!,,,,,
+"S """"",S_1b6610eb,I will be part of that 'couple of cases'... if they don't stop...,,,,,
+"Os """"",Os_4dff1718,Heh-heh-heh. You had other plans.,,,,,
+"Os """"",Os_e2989d4c,A leader can't die from such a small thing.,,,,,
+"""""",narrator_bedbb6ab,"The girl looked angrily in the direction from which the sound came. She could vaguely see the shape of the defiler, hoping she was looking at him.",,,,,
+"S """"",S_3fd99fed,L-little things? Lots of giant eggs that want to come out of me! AND ALL TOGETHER!,,,,,
+"S """"",S_4edc7150,I can't hold them back!,,,,,
+"Os """"",Os_d9bb2bc6,They all take after their mommy.,,,,,
+"S """"",S_76785f49,I WILL FUCKING...,,,,,
+"""""",narrator_179ce487,"Sarah's breath caught in her throat from the raging eggs. The stronger the emotions she felt, the harder it became for her to endure their reactions.",,,,,
+"S """"",S_39c21f32,Ah... AAAAH... AAAHHHHHH!!!,,,,,
+"S """"",S_46a4cc08,Is it coming out?! AGAIN?!,,,,,
+"S """"",S_f2b32858_1,FUUUCK!!!,,,,,
+"""""",narrator_161b6c41,Sarah was finally interrupted by the next egg. There was no time for idle chatter.,,,,,
+"S """"",S_e3fadd4e,AAAAAAAAAH! AAAAAAAAAAAHH!!! MMMGH... AAAH!,,,,,
+"""""",narrator_b4c98131,"This time the eggs were not so generous to let her rest, they came one after another, not leaving a second for a break. Bringing Sarah to heights never previously achieved.",,,,,
+"centered """"",centered_1cf31118,Many eggs later.,,,,,
+"S """"",S_4bc49aa1,"U-unbelievable... p-please, no more... I am eggs...",,,,,
+"S """"",S_6832f36c,Ha-a-a-a-a-a-a... ha-a-a-a-a-a... ,,,,,
+"S """"",S_ee61d6ae,I... I won't... eat any... scrambled eggs anymore... I-I'm sorry...,,,,,
+"""""",narrator_a9d93292,"A fairly large clutch of eggs, covered in mucus and secretions, has accumulated under the girl. Sarah was struggling to breathe, looking rather close to defeated. But her head was the real mess. She tried to understand what was happening, but the concept of what was happening and time in general eluded her.",,,,,
+"S """"",S_c99bd886,H-how much... Are we there yet?,,,,,
+"S """"",S_c2434529,(How many orgasms have I... Survived? I-I didn't know I could do that. How could I get so much pleasure from such terrible things?!),,,,,
+"Osside1 """"",Osside1_74fe62cc,Many. But this see-e-ms to be the last one.,,,,,
+"S """"",S_e152295f,Really?,,,,,
+"""""",narrator_d79bc84c,"The girl felt an incredible lightness and liberation. Her body was frozen in one position without a chance to move. Sarah didn't care anymore, she just wanted it to end, to calm the trembling of the last orgasm in her body.",,,,,
+"Osside1 """"",Osside1_a21f7ed3,"Well, you see? I told you you could do it.",,,,,
+"""""",narrator_478f87cc,"The defiler started inspecting the eggs, carefully studying them. First, all together, and then each one separately.",,,,,
+"Osside1 """"",Osside1_3b1e840a,It's just unbelievable!,,,,,
+"Osside1 """"",Osside1_03abc4fa,"So hard... Strong, and most importantly BIG!",,,,,
+"""""",narrator_f453df51,"The defiler came closer, purring contentedly over his offspring.",,,,,
+"S """"",S_14604738,I-I don't care... Honestly... I-it's finally over...,,,,,
+"Osside1 """"",Osside1_f57990c3,I've never seen them like this... no female is capable of such a thing! You have a gift.,,,,,
+"S """"",S_0115eab9,I will... never do this again... NO WAY!,,,,,
+"Osside1 """"",Osside1_97e43259,It would be... You would create the strongest army!,,,,,
+"S """"",S_41e4a453,Ah... mmm... I'm not buying your tricks!,,,,,
+"S """"",S_f0d9b337,I need to rest...,,,,,
+"S """"",S_169ced38,A couple of days... No! Months...,,,,,
+"S1 """"",S1_0849fa06,"Well, mommy? How are you feeling?",,,,,
+"""""",narrator_7600ff3a,"The Queen of Blades chuckled maliciously, looking at the exhausted girl in front of her.",,,,,
+"S """"",S_6c558568,Shut up...,,,,,
+"S """"",S_d06fc0dc,Is this a joke for you?! What if I died during that...,,,,,
+"S1 """"",S1_6926b03c,What?,,,,,
+"S """"",S_7e35f6f2,When those huge eggs were coming out of me!,,,,,
+"""""",narrator_177a0a2d,The Queen of Blades continued to laugh at her companion's indignation.,,,,,
+"S1 """"",S1_dad11e1a,"Yes, yes, yes, you looked very much like a dying woman... Not from the eggs though, but from the pleasure!",,,,,
+"""""",narrator_dfa1f9d8,"The Queen of Blades burst out laughing again, completely ignoring Sarah's words.",,,,,
+"S """"",S_96eec915,You're at it again...,,,,,
+"S1 """"",S1_beeb4d17,You're just boring.,,,,,
+"S1 """"",S1_5144eaf2,You know our genes...,,,,,
+"S1 """"",S1_835c5a30,We just can't have a problem with that.,,,,,
+"S """"",S_39844943,I don't want to discuss this with you!,,,,,
+"S1 """"",S1_9c1e508b,Then why did you come here?,,,,,
+"S """"",S_22a1a8c0,To warn you. If you do it again...,,,,,
+"S1 """"",S1_3d3e8429,You're starting again...,,,,,
+"S1 """"",S1_fbb45d30,Maybe I wanted to be in your place!,,,,,
+"S1 """"",S1_5ee164b6,And you took it so brazenly and at the same time you complain!,,,,,
+"S1 """"",S1_6d8bc57f,And now I can't come to the defiler again to give birth to a couple dozen eggs myself?,,,,,
+"S """"",S_a54e523d,You can't!,,,,,
+"S1 """"",S1_57f4f322,Pf... Fine.,,,,,
+"S1 """"",S1_3238bebc,"Instead of thanking me for my help, you're boring me again.",,,,,
+"S1 """"",S1_6366dd5d,"By the way, I helped you progress! Although you never thank me.",,,,,
+"S """"",S_abb020a0,"Yeah, thanks a lot.",,,,,
+"S1 """"",S1_6100410a,You're welcome.,,,,,
+"S """"",S_151b85ea_2,...,,,,,
+"S1 """"",S1_3ab6ec93,"I already said: if it wasn't for me, we would still be stuck in this hole without any progress!",,,,,
+"S """"",S_65fccf34,I don't need your help!,,,,,
+"S1 """"",S1_df18e87e,"Yes, yes, yes, let's see what you say to the ultralisk!",,,,,
+"S """"",S_fa3a9ae8,Tsk...,,,,,
+"S """"",S_YdJBevPn,Ah! They don't stop moving!,,,,,
+"S """"",S_Thgs2eHX,I can't sleep... My abdomen is so damn hot...,,,,,
+"S """"",S_ayVkbhxT,"If I don't do something about it right now, I'll go crazy!",,,,,
+"S """"",S_FwiqDbch,They only stop when I have an orgasm...,,,,,
+"centered """"",centered_BJtZbxAi,Sarah had to masturbate all night in an attempt to satisfy her body and calm the excitement. She was never able to spend her proper rest in peace.,,,,,
